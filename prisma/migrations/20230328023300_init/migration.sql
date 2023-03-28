@@ -8,6 +8,7 @@ CREATE TABLE "Example" (
 -- CreateTable
 CREATE TABLE "PUL" (
     "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "name" TEXT NOT NULL,
     "type" TEXT NOT NULL,
     "language_1" TEXT NOT NULL,
     "voice_1" TEXT NOT NULL,
@@ -77,6 +78,9 @@ CREATE TABLE "VerificationToken" (
     "token" TEXT NOT NULL,
     "expires" DATETIME NOT NULL
 );
+
+-- CreateIndex
+CREATE UNIQUE INDEX "PUL_name_key" ON "PUL"("name");
 
 -- CreateIndex
 CREATE UNIQUE INDEX "Account_provider_providerAccountId_key" ON "Account"("provider", "providerAccountId");

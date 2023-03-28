@@ -1,6 +1,6 @@
-import { GetStaticProps } from "next";
+import { useRouter } from 'next/router'
+import { GetStaticProps, GetStaticPaths } from "next";
 import { PrismaClient } from "@prisma/client";
-import Link from "next/link";
 
 export interface PUL {
   id: number;
@@ -24,22 +24,22 @@ export interface PulDetail {
 }
 
 interface Props {
-  pULs: PUL[];
+  pul: PUL;
 }
 
-export default function Pul({ pULs }: Props) {
+export default function Pul({ pul }: Props) {
+  const router = useRouter();
+  const { name } = router.query;
   return (
     <div>
       <ul>
-        {pULs.map((pul) => (
           <li key={pul.id}>
-            <Link href={`/pul/${pul.name}`}>
-              <h2>Name : {pul.name}</h2>
-            </Link>
+            <h2>Name : {pul.name}</h2>
             <p>introduction : {pul.introduction}</p>
             <p>sentence : {pul.sentence}</p>
             <p>subject : {pul.subject}</p>
-            {/* <table>
+          </li>
+          <table>
               <thead>
                 <tr>
                   <th>Question</th>
@@ -60,17 +60,37 @@ export default function Pul({ pULs }: Props) {
                   </tr>
                 ))}
               </tbody>
-            </table> */}
-          </li>
-        ))}
+            </table>
       </ul>
     </div>
   );
 }
 
-export const getStaticProps = async () => {
-  //SSG - Static Site Generation
+export const getStaticProps: GetStaticProps = async ({ params }) => {
+  if (!params || typeof params.name !== 'string') {
+    return {
+      notFound: true,
+    };
+  }
+  const prisma = new PrismaClient();
+  const pul = await prisma.pUL.findUnique({
+    where: {
+      name: params.name as string,
+    },
+    include: {
+      pul_elements: {
+        include: {
+          details: true,
+        },
+      },
+    },
+  });
+  return { props: { pul } };
+};
+
+export const getStaticPaths: GetStaticPaths = async () => {
   const prisma = new PrismaClient();
   const pULs = await prisma.pUL.findMany();
-  return { props: { pULs } };
+  const paths = pULs.map((pul) => ({ params: { name: pul.name } }));
+  return { paths, fallback: false };
 };

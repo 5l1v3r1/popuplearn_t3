@@ -4,6 +4,7 @@ const prisma = new PrismaClient();
 async function main() {
   const result = await prisma.pUL.create({
     data: {
+      name: "pays_capitales",
       type: "BUTTON",
       language_1: "fr",
       voice_1: "Lea",

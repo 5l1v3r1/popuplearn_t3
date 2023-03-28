@@ -20,6 +20,7 @@ model PUL {
   id           Int           @id @default(autoincrement())
   pul_elements pul_element[]
 
+  name         String @unique
   type         String
   language_1   String
   voice_1      String
