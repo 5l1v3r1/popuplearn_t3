@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+#Personal
+/DB
+/DB_TMP
+
 # dependencies
 /node_modules
 /.pnp

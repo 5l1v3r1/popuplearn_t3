@@ -1,0 +1,32 @@
+{
+  "introduction": null,
+  "language_2": "en",
+  "name": "typescript",
+  "language_1": "en",
+  "voice_1": null,
+  "pul_elements": [
+    {
+      "details": [
+        {
+          "description": "So you can have an interface IUser and a class User."
+        }
+      ],
+      "question": "If using the typescript interface, is it recommended to give the interface a special name, like IUser or UserInterface, instead of simply User ? (yes/no)",
+      "answer": "yes"
+    },
+    {
+      "details": [
+        {
+          "description": "Need to convert as unknown first"
+        }
+      ],
+      "question": "I can simply convert a string called pageName to a number with \"numericPageNumber:number=pageNumber as number;\" (yes/no)",
+      "answer": "no"
+    }
+  ],
+  "subject": "Computer",
+  "type": null,
+  "sentence": null,
+  "voice_2": null,
+  "number": "1"
+}

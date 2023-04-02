@@ -1,0 +1,4010 @@
+{
+  "introduction": null,
+  "language_2": "en",
+  "name": "1000_mots",
+  "language_1": "fr",
+  "voice_1": null,
+  "pul_elements": [
+    {
+      "answer": "as",
+      "question": "comme"
+    },
+    {
+      "answer": "I",
+      "question": "je"
+    },
+    {
+      "answer": "his",
+      "question": "son"
+    },
+    {
+      "answer": "that",
+      "question": "que"
+    },
+    {
+      "answer": "he",
+      "question": "il"
+    },
+    {
+      "answer": "was",
+      "question": "était"
+    },
+    {
+      "answer": "for",
+      "question": "pour"
+    },
+    {
+      "answer": "on",
+      "question": "sur"
+    },
+    {
+      "answer": "are",
+      "question": "sont"
+    },
+    {
+      "answer": "with",
+      "question": "avec"
+    },
+    {
+      "answer": "they",
+      "question": "ils"
+    },
+    {
+      "answer": "be",
+      "question": "être"
+    },
+    {
+      "answer": "at",
+      "question": "à"
+    },
+    {
+      "answer": "one",
+      "question": "un"
+    },
+    {
+      "answer": "have",
+      "question": "avoir"
+    },
+    {
+      "answer": "this",
+      "question": "ce"
+    },
+    {
+      "answer": "from",
+      "question": "à partir de"
+    },
+    {
+      "answer": "by",
+      "question": "par"
+    },
+    {
+      "answer": "hot",
+      "question": "chaud"
+    },
+    {
+      "answer": "word",
+      "question": "mot"
+    },
+    {
+      "answer": "but",
+      "question": "mais"
+    },
+    {
+      "answer": "what",
+      "question": "que"
+    },
+    {
+      "answer": "some",
+      "question": "certains"
+    },
+    {
+      "answer": "is",
+      "question": "est"
+    },
+    {
+      "answer": "it",
+      "question": "il"
+    },
+    {
+      "answer": "you",
+      "question": "vous"
+    },
+    {
+      "answer": "or",
+      "question": "ou"
+    },
+    {
+      "answer": "had",
+      "question": "eu"
+    },
+    {
+      "answer": "the",
+      "question": "la"
+    },
+    {
+      "answer": "of",
+      "question": "de"
+    },
+    {
+      "answer": "to",
+      "question": "à"
+    },
+    {
+      "answer": "and",
+      "question": "et"
+    },
+    {
+      "answer": "a",
+      "question": "un"
+    },
+    {
+      "answer": "in",
+      "question": "dans"
+    },
+    {
+      "answer": "we",
+      "question": "nous"
+    },
+    {
+      "answer": "can",
+      "question": "boîte"
+    },
+    {
+      "answer": "out",
+      "question": "dehors"
+    },
+    {
+      "answer": "other",
+      "question": "autre"
+    },
+    {
+      "answer": "were",
+      "question": "étaient"
+    },
+    {
+      "answer": "which",
+      "question": "qui"
+    },
+    {
+      "answer": "do",
+      "question": "faire"
+    },
+    {
+      "answer": "their",
+      "question": "leur"
+    },
+    {
+      "answer": "time",
+      "question": "temps"
+    },
+    {
+      "answer": "if",
+      "question": "si"
+    },
+    {
+      "answer": "will",
+      "question": "volonté"
+    },
+    {
+      "answer": "how",
+      "question": "comment"
+    },
+    {
+      "answer": "said",
+      "question": "dit"
+    },
+    {
+      "answer": "an",
+      "question": "un"
+    },
+    {
+      "answer": "each",
+      "question": "chaque"
+    },
+    {
+      "answer": "tell",
+      "question": "dire"
+    },
+    {
+      "answer": "set",
+      "question": "ensemble"
+    },
+    {
+      "answer": "three",
+      "question": "trois"
+    },
+    {
+      "answer": "want",
+      "question": "vouloir"
+    },
+    {
+      "answer": "air",
+      "question": "air"
+    },
+    {
+      "answer": "well",
+      "question": "bien"
+    },
+    {
+      "answer": "also",
+      "question": "aussi"
+    },
+    {
+      "answer": "play",
+      "question": "jouer"
+    },
+    {
+      "answer": "small",
+      "question": "petit"
+    },
+    {
+      "answer": "end",
+      "question": "fin"
+    },
+    {
+      "answer": "put",
+      "question": "mettre"
+    },
+    {
+      "answer": "home",
+      "question": "maison"
+    },
+    {
+      "answer": "read",
+      "question": "lire"
+    },
+    {
+      "answer": "hand",
+      "question": "main"
+    },
+    {
+      "answer": "port",
+      "question": "port"
+    },
+    {
+      "answer": "large",
+      "question": "grand"
+    },
+    {
+      "answer": "spell",
+      "question": "épeler"
+    },
+    {
+      "answer": "add",
+      "question": "ajouter"
+    },
+    {
+      "answer": "even",
+      "question": "même"
+    },
+    {
+      "answer": "land",
+      "question": "terre"
+    },
+    {
+      "answer": "here",
+      "question": "ici"
+    },
+    {
+      "answer": "must",
+      "question": "il faut"
+    },
+    {
+      "answer": "big",
+      "question": "grand"
+    },
+    {
+      "answer": "high",
+      "question": "haut"
+    },
+    {
+      "answer": "such",
+      "question": "tel"
+    },
+    {
+      "answer": "follow",
+      "question": "suivre"
+    },
+    {
+      "answer": "act",
+      "question": "acte"
+    },
+    {
+      "answer": "why",
+      "question": "pourquoi"
+    },
+    {
+      "answer": "ask",
+      "question": "interroger"
+    },
+    {
+      "answer": "men",
+      "question": "hommes"
+    },
+    {
+      "answer": "change",
+      "question": "changement"
+    },
+    {
+      "answer": "went",
+      "question": "est allé"
+    },
+    {
+      "answer": "light",
+      "question": "lumière"
+    },
+    {
+      "answer": "kind",
+      "question": "genre"
+    },
+    {
+      "answer": "off",
+      "question": "de"
+    },
+    {
+      "answer": "need",
+      "question": "besoin"
+    },
+    {
+      "answer": "house",
+      "question": "maison"
+    },
+    {
+      "answer": "picture",
+      "question": "image"
+    },
+    {
+      "answer": "try",
+      "question": "essayer"
+    },
+    {
+      "answer": "us",
+      "question": "nous"
+    },
+    {
+      "answer": "again",
+      "question": "encore"
+    },
+    {
+      "answer": "animal",
+      "question": "animal"
+    },
+    {
+      "answer": "point",
+      "question": "point"
+    },
+    {
+      "answer": "mother",
+      "question": "mère"
+    },
+    {
+      "answer": "world",
+      "question": "monde"
+    },
+    {
+      "answer": "near",
+      "question": "près de"
+    },
+    {
+      "answer": "build",
+      "question": "construire"
+    },
+    {
+      "answer": "self",
+      "question": "soi"
+    },
+    {
+      "answer": "earth",
+      "question": "terre"
+    },
+    {
+      "answer": "father",
+      "question": "père"
+    },
+    {
+      "answer": "any",
+      "question": "tout"
+    },
+    {
+      "answer": "new",
+      "question": "nouveau"
+    },
+    {
+      "answer": "work",
+      "question": "travail"
+    },
+    {
+      "answer": "part",
+      "question": "partie"
+    },
+    {
+      "answer": "take",
+      "question": "prendre"
+    },
+    {
+      "answer": "get",
+      "question": "obtenir"
+    },
+    {
+      "answer": "place",
+      "question": "lieu"
+    },
+    {
+      "answer": "made",
+      "question": "fabriqué"
+    },
+    {
+      "answer": "live",
+      "question": "vivre"
+    },
+    {
+      "answer": "where",
+      "question": "où"
+    },
+    {
+      "answer": "after",
+      "question": "après"
+    },
+    {
+      "answer": "back",
+      "question": "arrière"
+    },
+    {
+      "answer": "little",
+      "question": "peu"
+    },
+    {
+      "answer": "only",
+      "question": "seulement"
+    },
+    {
+      "answer": "round",
+      "question": "tour"
+    },
+    {
+      "answer": "man",
+      "question": "homme"
+    },
+    {
+      "answer": "year",
+      "question": "année"
+    },
+    {
+      "answer": "came",
+      "question": "est venu"
+    },
+    {
+      "answer": "show",
+      "question": "montrer"
+    },
+    {
+      "answer": "every",
+      "question": "tous"
+    },
+    {
+      "answer": "good",
+      "question": "bon"
+    },
+    {
+      "answer": "me",
+      "question": "moi"
+    },
+    {
+      "answer": "give",
+      "question": "donner"
+    },
+    {
+      "answer": "our",
+      "question": "notre"
+    },
+    {
+      "answer": "under",
+      "question": "sous"
+    },
+    {
+      "answer": "name",
+      "question": "nom"
+    },
+    {
+      "answer": "very",
+      "question": "très"
+    },
+    {
+      "answer": "through",
+      "question": "par"
+    },
+    {
+      "answer": "just",
+      "question": "juste"
+    },
+    {
+      "answer": "form",
+      "question": "forme"
+    },
+    {
+      "answer": "sentence",
+      "question": "phrase"
+    },
+    {
+      "answer": "great",
+      "question": "grand"
+    },
+    {
+      "answer": "think",
+      "question": "penser"
+    },
+    {
+      "answer": "say",
+      "question": "dire"
+    },
+    {
+      "answer": "help",
+      "question": "aider"
+    },
+    {
+      "answer": "low",
+      "question": "faible"
+    },
+    {
+      "answer": "line",
+      "question": "ligne"
+    },
+    {
+      "answer": "differ",
+      "question": "différer"
+    },
+    {
+      "answer": "turn",
+      "question": "tour"
+    },
+    {
+      "answer": "cause",
+      "question": "la cause"
+    },
+    {
+      "answer": "much",
+      "question": "beaucoup"
+    },
+    {
+      "answer": "mean",
+      "question": "signifier"
+    },
+    {
+      "answer": "before",
+      "question": "avant"
+    },
+    {
+      "answer": "move",
+      "question": "déménagement"
+    },
+    {
+      "answer": "right",
+      "question": "droit"
+    },
+    {
+      "answer": "boy",
+      "question": "garçon"
+    },
+    {
+      "answer": "old",
+      "question": "vieux"
+    },
+    {
+      "answer": "too",
+      "question": "trop"
+    },
+    {
+      "answer": "same",
+      "question": "même"
+    },
+    {
+      "answer": "she",
+      "question": "elle"
+    },
+    {
+      "answer": "all",
+      "question": "tous"
+    },
+    {
+      "answer": "there",
+      "question": "là"
+    },
+    {
+      "answer": "when",
+      "question": "quand"
+    },
+    {
+      "answer": "up",
+      "question": "jusqu’à"
+    },
+    {
+      "answer": "use",
+      "question": "utiliser"
+    },
+    {
+      "answer": "your",
+      "question": "votre"
+    },
+    {
+      "answer": "way",
+      "question": "manière"
+    },
+    {
+      "answer": "about",
+      "question": "sur"
+    },
+    {
+      "answer": "many",
+      "question": "beaucoup"
+    },
+    {
+      "answer": "then",
+      "question": "puis"
+    },
+    {
+      "answer": "them",
+      "question": "les"
+    },
+    {
+      "answer": "write",
+      "question": "écrire"
+    },
+    {
+      "answer": "would",
+      "question": "voudrais"
+    },
+    {
+      "answer": "like",
+      "question": "comme"
+    },
+    {
+      "answer": "so",
+      "question": "si"
+    },
+    {
+      "answer": "these",
+      "question": "ces"
+    },
+    {
+      "answer": "her",
+      "question": "son"
+    },
+    {
+      "answer": "long",
+      "question": "long"
+    },
+    {
+      "answer": "make",
+      "question": "faire"
+    },
+    {
+      "answer": "thing",
+      "question": "chose"
+    },
+    {
+      "answer": "see",
+      "question": "voir"
+    },
+    {
+      "answer": "him",
+      "question": "lui"
+    },
+    {
+      "answer": "two",
+      "question": "deux"
+    },
+    {
+      "answer": "has",
+      "question": "a"
+    },
+    {
+      "answer": "look",
+      "question": "regarder"
+    },
+    {
+      "answer": "more",
+      "question": "plus"
+    },
+    {
+      "answer": "day",
+      "question": "jour"
+    },
+    {
+      "answer": "could",
+      "question": "pourrait"
+    },
+    {
+      "answer": "go",
+      "question": "aller"
+    },
+    {
+      "answer": "come",
+      "question": "venir"
+    },
+    {
+      "answer": "did",
+      "question": "fait"
+    },
+    {
+      "answer": "number",
+      "question": "nombre"
+    },
+    {
+      "answer": "sound",
+      "question": "son"
+    },
+    {
+      "answer": "no",
+      "question": "aucun"
+    },
+    {
+      "answer": "most",
+      "question": "plus"
+    },
+    {
+      "answer": "people",
+      "question": "personnes"
+    },
+    {
+      "answer": "my",
+      "question": "ma"
+    },
+    {
+      "answer": "over",
+      "question": "sur"
+    },
+    {
+      "answer": "know",
+      "question": "savoir"
+    },
+    {
+      "answer": "water",
+      "question": "eau"
+    },
+    {
+      "answer": "than",
+      "question": "que"
+    },
+    {
+      "answer": "call",
+      "question": "appel"
+    },
+    {
+      "answer": "first",
+      "question": "première"
+    },
+    {
+      "answer": "who",
+      "question": "qui"
+    },
+    {
+      "answer": "may",
+      "question": "peut"
+    },
+    {
+      "answer": "down",
+      "question": "vers le bas"
+    },
+    {
+      "answer": "side",
+      "question": "côté"
+    },
+    {
+      "answer": "been",
+      "question": "été"
+    },
+    {
+      "answer": "now",
+      "question": "maintenant"
+    },
+    {
+      "answer": "find",
+      "question": "trouver"
+    },
+    {
+      "answer": "head",
+      "question": "tête"
+    },
+    {
+      "answer": "stand",
+      "question": "supporter"
+    },
+    {
+      "answer": "own",
+      "question": "propre"
+    },
+    {
+      "answer": "page",
+      "question": "page"
+    },
+    {
+      "answer": "should",
+      "question": "devrait"
+    },
+    {
+      "answer": "country",
+      "question": "pays"
+    },
+    {
+      "answer": "found",
+      "question": "trouvé"
+    },
+    {
+      "answer": "answer",
+      "question": "réponse"
+    },
+    {
+      "answer": "school",
+      "question": "école"
+    },
+    {
+      "answer": "grow",
+      "question": "croître"
+    },
+    {
+      "answer": "study",
+      "question": "étude"
+    },
+    {
+      "answer": "still",
+      "question": "encore"
+    },
+    {
+      "answer": "learn",
+      "question": "apprendre"
+    },
+    {
+      "answer": "plant",
+      "question": "usine"
+    },
+    {
+      "answer": "cover",
+      "question": "couvercle"
+    },
+    {
+      "answer": "food",
+      "question": "nourriture"
+    },
+    {
+      "answer": "sun",
+      "question": "soleil"
+    },
+    {
+      "answer": "four",
+      "question": "quatre"
+    },
+    {
+      "answer": "between",
+      "question": "entre"
+    },
+    {
+      "answer": "state",
+      "question": "état"
+    },
+    {
+      "answer": "keep",
+      "question": "garder"
+    },
+    {
+      "answer": "eye",
+      "question": "œil"
+    },
+    {
+      "answer": "never",
+      "question": "jamais"
+    },
+    {
+      "answer": "last",
+      "question": "dernier"
+    },
+    {
+      "answer": "let",
+      "question": "laisser"
+    },
+    {
+      "answer": "thought",
+      "question": "pensée"
+    },
+    {
+      "answer": "city",
+      "question": "ville"
+    },
+    {
+      "answer": "tree",
+      "question": "arbre"
+    },
+    {
+      "answer": "cross",
+      "question": "traverser"
+    },
+    {
+      "answer": "farm",
+      "question": "ferme"
+    },
+    {
+      "answer": "hard",
+      "question": "dur"
+    },
+    {
+      "answer": "start",
+      "question": "début"
+    },
+    {
+      "answer": "might",
+      "question": "puissance"
+    },
+    {
+      "answer": "story",
+      "question": "histoire"
+    },
+    {
+      "answer": "saw",
+      "question": "scie"
+    },
+    {
+      "answer": "far",
+      "question": "loin"
+    },
+    {
+      "answer": "sea",
+      "question": "mer"
+    },
+    {
+      "answer": "draw",
+      "question": "tirer"
+    },
+    {
+      "answer": "left",
+      "question": "gauche"
+    },
+    {
+      "answer": "late",
+      "question": "tard"
+    },
+    {
+      "answer": "run",
+      "question": "courir"
+    },
+    {
+      "answer": "don’t",
+      "question": "needs a context"
+    },
+    {
+      "answer": "while",
+      "question": "tandis que"
+    },
+    {
+      "answer": "press",
+      "question": "presse"
+    },
+    {
+      "answer": "close",
+      "question": "proche"
+    },
+    {
+      "answer": "night",
+      "question": "nuit"
+    },
+    {
+      "answer": "real",
+      "question": "réel"
+    },
+    {
+      "answer": "life",
+      "question": "vie"
+    },
+    {
+      "answer": "few",
+      "question": "peu"
+    },
+    {
+      "answer": "north",
+      "question": "nord"
+    },
+    {
+      "answer": "book",
+      "question": "livre"
+    },
+    {
+      "answer": "carry",
+      "question": "porter"
+    },
+    {
+      "answer": "took",
+      "question": "a pris"
+    },
+    {
+      "answer": "science",
+      "question": "science"
+    },
+    {
+      "answer": "eat",
+      "question": "manger"
+    },
+    {
+      "answer": "room",
+      "question": "chambre"
+    },
+    {
+      "answer": "friend",
+      "question": "ami"
+    },
+    {
+      "answer": "began",
+      "question": "a commencé"
+    },
+    {
+      "answer": "idea",
+      "question": "idée"
+    },
+    {
+      "answer": "fish",
+      "question": "poisson"
+    },
+    {
+      "answer": "mountain",
+      "question": "montagne"
+    },
+    {
+      "answer": "stop",
+      "question": "Arrêtez"
+    },
+    {
+      "answer": "once",
+      "question": "une fois"
+    },
+    {
+      "answer": "base",
+      "question": "base"
+    },
+    {
+      "answer": "hear",
+      "question": "entendre"
+    },
+    {
+      "answer": "horse",
+      "question": "cheval"
+    },
+    {
+      "answer": "cut",
+      "question": "coupe"
+    },
+    {
+      "answer": "sure",
+      "question": "sûr"
+    },
+    {
+      "answer": "watch",
+      "question": "regarder"
+    },
+    {
+      "answer": "color",
+      "question": "couleur"
+    },
+    {
+      "answer": "face",
+      "question": "face"
+    },
+    {
+      "answer": "wood",
+      "question": "bois"
+    },
+    {
+      "answer": "main",
+      "question": "principal"
+    },
+    {
+      "answer": "open",
+      "question": "ouvert"
+    },
+    {
+      "answer": "seem",
+      "question": "paraître"
+    },
+    {
+      "answer": "together",
+      "question": "ensemble"
+    },
+    {
+      "answer": "next",
+      "question": "suivant"
+    },
+    {
+      "answer": "white",
+      "question": "blanc"
+    },
+    {
+      "answer": "children",
+      "question": "enfants"
+    },
+    {
+      "answer": "begin",
+      "question": "commencer"
+    },
+    {
+      "answer": "got",
+      "question": "eu"
+    },
+    {
+      "answer": "walk",
+      "question": "marcher"
+    },
+    {
+      "answer": "example",
+      "question": "exemple"
+    },
+    {
+      "answer": "ease",
+      "question": "facilité"
+    },
+    {
+      "answer": "paper",
+      "question": "papier"
+    },
+    {
+      "answer": "group",
+      "question": "groupe"
+    },
+    {
+      "answer": "always",
+      "question": "toujours"
+    },
+    {
+      "answer": "music",
+      "question": "musique"
+    },
+    {
+      "answer": "those",
+      "question": "ceux"
+    },
+    {
+      "answer": "both",
+      "question": "tous les deux"
+    },
+    {
+      "answer": "mark",
+      "question": "marque"
+    },
+    {
+      "answer": "often",
+      "question": "souvent"
+    },
+    {
+      "answer": "letter",
+      "question": "lettre"
+    },
+    {
+      "answer": "until",
+      "question": "jusqu’à ce que"
+    },
+    {
+      "answer": "mile",
+      "question": "mile"
+    },
+    {
+      "answer": "river",
+      "question": "rivière"
+    },
+    {
+      "answer": "car",
+      "question": "voiture"
+    },
+    {
+      "answer": "feet",
+      "question": "pieds"
+    },
+    {
+      "answer": "care",
+      "question": "soins"
+    },
+    {
+      "answer": "second",
+      "question": "deuxième"
+    },
+    {
+      "answer": "enough",
+      "question": "assez"
+    },
+    {
+      "answer": "plain",
+      "question": "plaine"
+    },
+    {
+      "answer": "girl",
+      "question": "fille"
+    },
+    {
+      "answer": "usual",
+      "question": "habituel"
+    },
+    {
+      "answer": "young",
+      "question": "jeune"
+    },
+    {
+      "answer": "ready",
+      "question": "prêt"
+    },
+    {
+      "answer": "above",
+      "question": "au-dessus"
+    },
+    {
+      "answer": "ever",
+      "question": "jamais"
+    },
+    {
+      "answer": "red",
+      "question": "rouge"
+    },
+    {
+      "answer": "list",
+      "question": "liste"
+    },
+    {
+      "answer": "though",
+      "question": "bien que"
+    },
+    {
+      "answer": "feel",
+      "question": "sentir"
+    },
+    {
+      "answer": "talk",
+      "question": "parler"
+    },
+    {
+      "answer": "bird",
+      "question": "oiseau"
+    },
+    {
+      "answer": "soon",
+      "question": "bientôt"
+    },
+    {
+      "answer": "body",
+      "question": "corps"
+    },
+    {
+      "answer": "dog",
+      "question": "chien"
+    },
+    {
+      "answer": "family",
+      "question": "famille"
+    },
+    {
+      "answer": "direct",
+      "question": "direct"
+    },
+    {
+      "answer": "pose",
+      "question": "pose"
+    },
+    {
+      "answer": "leave",
+      "question": "laisser"
+    },
+    {
+      "answer": "song",
+      "question": "chanson"
+    },
+    {
+      "answer": "measure",
+      "question": "mesurer"
+    },
+    {
+      "answer": "door",
+      "question": "porte"
+    },
+    {
+      "answer": "product",
+      "question": "produit"
+    },
+    {
+      "answer": "black",
+      "question": "noir"
+    },
+    {
+      "answer": "short",
+      "question": "court"
+    },
+    {
+      "answer": "numeral",
+      "question": "chiffre"
+    },
+    {
+      "answer": "class",
+      "question": "classe"
+    },
+    {
+      "answer": "wind",
+      "question": "vent"
+    },
+    {
+      "answer": "question",
+      "question": "question"
+    },
+    {
+      "answer": "happen",
+      "question": "arriver"
+    },
+    {
+      "answer": "complete",
+      "question": "complète"
+    },
+    {
+      "answer": "ship",
+      "question": "navire"
+    },
+    {
+      "answer": "area",
+      "question": "zone"
+    },
+    {
+      "answer": "half",
+      "question": "moitié"
+    },
+    {
+      "answer": "rock",
+      "question": "rock"
+    },
+    {
+      "answer": "order",
+      "question": "ordre"
+    },
+    {
+      "answer": "fire",
+      "question": "feu"
+    },
+    {
+      "answer": "south",
+      "question": "sud"
+    },
+    {
+      "answer": "problem",
+      "question": "problème"
+    },
+    {
+      "answer": "piece",
+      "question": "pièce"
+    },
+    {
+      "answer": "told",
+      "question": "dit"
+    },
+    {
+      "answer": "knew",
+      "question": "savait"
+    },
+    {
+      "answer": "pass",
+      "question": "passer"
+    },
+    {
+      "answer": "since",
+      "question": "depuis"
+    },
+    {
+      "answer": "top",
+      "question": "haut"
+    },
+    {
+      "answer": "whole",
+      "question": "ensemble"
+    },
+    {
+      "answer": "king",
+      "question": "roi"
+    },
+    {
+      "answer": "street",
+      "question": "rue"
+    },
+    {
+      "answer": "inch",
+      "question": "pouce"
+    },
+    {
+      "answer": "multiply",
+      "question": "multiplier"
+    },
+    {
+      "answer": "nothing",
+      "question": "rien"
+    },
+    {
+      "answer": "course",
+      "question": "cours"
+    },
+    {
+      "answer": "stay",
+      "question": "rester"
+    },
+    {
+      "answer": "wheel",
+      "question": "roue"
+    },
+    {
+      "answer": "full",
+      "question": "plein"
+    },
+    {
+      "answer": "force",
+      "question": "force"
+    },
+    {
+      "answer": "blue",
+      "question": "bleu"
+    },
+    {
+      "answer": "object",
+      "question": "objet"
+    },
+    {
+      "answer": "decide",
+      "question": "décider"
+    },
+    {
+      "answer": "surface",
+      "question": "surface"
+    },
+    {
+      "answer": "deep",
+      "question": "profond"
+    },
+    {
+      "answer": "moon",
+      "question": "lune"
+    },
+    {
+      "answer": "island",
+      "question": "île"
+    },
+    {
+      "answer": "foot",
+      "question": "pied"
+    },
+    {
+      "answer": "system",
+      "question": "système"
+    },
+    {
+      "answer": "busy",
+      "question": "occupé"
+    },
+    {
+      "answer": "test",
+      "question": "test"
+    },
+    {
+      "answer": "record",
+      "question": "record"
+    },
+    {
+      "answer": "boat",
+      "question": "bateau"
+    },
+    {
+      "answer": "common",
+      "question": "commun"
+    },
+    {
+      "answer": "gold",
+      "question": "or"
+    },
+    {
+      "answer": "possible",
+      "question": "possible"
+    },
+    {
+      "answer": "plane",
+      "question": "plan"
+    },
+    {
+      "answer": "stead",
+      "question": "place"
+    },
+    {
+      "answer": "dry",
+      "question": "sec"
+    },
+    {
+      "answer": "wonder",
+      "question": "se demander"
+    },
+    {
+      "answer": "laugh",
+      "question": "rire"
+    },
+    {
+      "answer": "thousand",
+      "question": "mille"
+    },
+    {
+      "answer": "ago",
+      "question": "il ya"
+    },
+    {
+      "answer": "ran",
+      "question": "ran"
+    },
+    {
+      "answer": "check",
+      "question": "vérifier"
+    },
+    {
+      "answer": "game",
+      "question": "jeu"
+    },
+    {
+      "answer": "shape",
+      "question": "forme"
+    },
+    {
+      "answer": "equate",
+      "question": "assimiler"
+    },
+    {
+      "answer": "hot",
+      "question": "chaud"
+    },
+    {
+      "answer": "miss",
+      "question": "manquer"
+    },
+    {
+      "answer": "brought",
+      "question": "apporté"
+    },
+    {
+      "answer": "heat",
+      "question": "chaleur"
+    },
+    {
+      "answer": "snow",
+      "question": "neige"
+    },
+    {
+      "answer": "tire",
+      "question": "pneu"
+    },
+    {
+      "answer": "bring",
+      "question": "apporter"
+    },
+    {
+      "answer": "yes",
+      "question": "oui"
+    },
+    {
+      "answer": "distant",
+      "question": "lointain"
+    },
+    {
+      "answer": "fill",
+      "question": "remplir"
+    },
+    {
+      "answer": "east",
+      "question": "est"
+    },
+    {
+      "answer": "paint",
+      "question": "peindre"
+    },
+    {
+      "answer": "language",
+      "question": "langue"
+    },
+    {
+      "answer": "among",
+      "question": "entre"
+    },
+    {
+      "answer": "unit",
+      "question": "unité"
+    },
+    {
+      "answer": "power",
+      "question": "puissance"
+    },
+    {
+      "answer": "town",
+      "question": "ville"
+    },
+    {
+      "answer": "fine",
+      "question": "fin"
+    },
+    {
+      "answer": "certain",
+      "question": "certain"
+    },
+    {
+      "answer": "fly",
+      "question": "voler"
+    },
+    {
+      "answer": "fall",
+      "question": "tomber"
+    },
+    {
+      "answer": "lead",
+      "question": "conduire"
+    },
+    {
+      "answer": "cry",
+      "question": "cri"
+    },
+    {
+      "answer": "dark",
+      "question": "sombre"
+    },
+    {
+      "answer": "machine",
+      "question": "machine"
+    },
+    {
+      "answer": "note",
+      "question": "Note"
+    },
+    {
+      "answer": "wait",
+      "question": "patienter"
+    },
+    {
+      "answer": "plan",
+      "question": "plan"
+    },
+    {
+      "answer": "figure",
+      "question": "figure"
+    },
+    {
+      "answer": "star",
+      "question": "étoile"
+    },
+    {
+      "answer": "box",
+      "question": "boîte"
+    },
+    {
+      "answer": "noun",
+      "question": "nom"
+    },
+    {
+      "answer": "field",
+      "question": "domaine"
+    },
+    {
+      "answer": "rest",
+      "question": "reste"
+    },
+    {
+      "answer": "correct",
+      "question": "correct"
+    },
+    {
+      "answer": "able",
+      "question": "capable"
+    },
+    {
+      "answer": "pound",
+      "question": "livre"
+    },
+    {
+      "answer": "done",
+      "question": "Terminé"
+    },
+    {
+      "answer": "beauty",
+      "question": "beauté"
+    },
+    {
+      "answer": "drive",
+      "question": "entraînement"
+    },
+    {
+      "answer": "stood",
+      "question": "résisté"
+    },
+    {
+      "answer": "contain",
+      "question": "contenir"
+    },
+    {
+      "answer": "front",
+      "question": "avant"
+    },
+    {
+      "answer": "teach",
+      "question": "enseigner"
+    },
+    {
+      "answer": "week",
+      "question": "semaine"
+    },
+    {
+      "answer": "final",
+      "question": "finale"
+    },
+    {
+      "answer": "gave",
+      "question": "donné"
+    },
+    {
+      "answer": "green",
+      "question": "vert"
+    },
+    {
+      "answer": "oh",
+      "question": "oh"
+    },
+    {
+      "answer": "quick",
+      "question": "rapide"
+    },
+    {
+      "answer": "develop",
+      "question": "développer"
+    },
+    {
+      "answer": "ocean",
+      "question": "océan"
+    },
+    {
+      "answer": "warm",
+      "question": "chaud"
+    },
+    {
+      "answer": "free",
+      "question": "gratuit"
+    },
+    {
+      "answer": "minute",
+      "question": "minute"
+    },
+    {
+      "answer": "strong",
+      "question": "fort"
+    },
+    {
+      "answer": "special",
+      "question": "spécial"
+    },
+    {
+      "answer": "mind",
+      "question": "esprit"
+    },
+    {
+      "answer": "behind",
+      "question": "derrière"
+    },
+    {
+      "answer": "clear",
+      "question": "clair"
+    },
+    {
+      "answer": "tail",
+      "question": "queue"
+    },
+    {
+      "answer": "produce",
+      "question": "produire"
+    },
+    {
+      "answer": "fact",
+      "question": "fait"
+    },
+    {
+      "answer": "space",
+      "question": "espace"
+    },
+    {
+      "answer": "heard",
+      "question": "entendu"
+    },
+    {
+      "answer": "best",
+      "question": "meilleur"
+    },
+    {
+      "answer": "hour",
+      "question": "heure"
+    },
+    {
+      "answer": "better",
+      "question": "mieux"
+    },
+    {
+      "answer": "true",
+      "question": "VRAI"
+    },
+    {
+      "answer": "during",
+      "question": "pendant"
+    },
+    {
+      "answer": "hundred",
+      "question": "cent"
+    },
+    {
+      "answer": "five",
+      "question": "cinq"
+    },
+    {
+      "answer": "remember",
+      "question": "rappeler"
+    },
+    {
+      "answer": "step",
+      "question": "étape"
+    },
+    {
+      "answer": "early",
+      "question": "tôt"
+    },
+    {
+      "answer": "hold",
+      "question": "tenir"
+    },
+    {
+      "answer": "west",
+      "question": "ouest"
+    },
+    {
+      "answer": "ground",
+      "question": "sol"
+    },
+    {
+      "answer": "interest",
+      "question": "intérêt"
+    },
+    {
+      "answer": "reach",
+      "question": "atteindre"
+    },
+    {
+      "answer": "fast",
+      "question": "rapide"
+    },
+    {
+      "answer": "verb",
+      "question": "verbe"
+    },
+    {
+      "answer": "sing",
+      "question": "chanter"
+    },
+    {
+      "answer": "listen",
+      "question": "écouter"
+    },
+    {
+      "answer": "six",
+      "question": "six"
+    },
+    {
+      "answer": "table",
+      "question": "table"
+    },
+    {
+      "answer": "travel",
+      "question": "Voyage"
+    },
+    {
+      "answer": "less",
+      "question": "moins"
+    },
+    {
+      "answer": "morning",
+      "question": "matin"
+    },
+    {
+      "answer": "ten",
+      "question": "dix"
+    },
+    {
+      "answer": "simple",
+      "question": "simple"
+    },
+    {
+      "answer": "several",
+      "question": "plusieurs"
+    },
+    {
+      "answer": "vowel",
+      "question": "voyelle"
+    },
+    {
+      "answer": "toward",
+      "question": "vers"
+    },
+    {
+      "answer": "war",
+      "question": "guerre"
+    },
+    {
+      "answer": "lay",
+      "question": "poser"
+    },
+    {
+      "answer": "against",
+      "question": "contre"
+    },
+    {
+      "answer": "pattern",
+      "question": "modèle"
+    },
+    {
+      "answer": "slow",
+      "question": "lent"
+    },
+    {
+      "answer": "center",
+      "question": "centre"
+    },
+    {
+      "answer": "love",
+      "question": "amour"
+    },
+    {
+      "answer": "person",
+      "question": "personne"
+    },
+    {
+      "answer": "money",
+      "question": "argent"
+    },
+    {
+      "answer": "serve",
+      "question": "servir"
+    },
+    {
+      "answer": "appear",
+      "question": "apparaître"
+    },
+    {
+      "answer": "road",
+      "question": "route"
+    },
+    {
+      "answer": "map",
+      "question": "carte"
+    },
+    {
+      "answer": "rain",
+      "question": "pluie"
+    },
+    {
+      "answer": "rule",
+      "question": "règle"
+    },
+    {
+      "answer": "govern",
+      "question": "gouverner"
+    },
+    {
+      "answer": "pull",
+      "question": "tirer"
+    },
+    {
+      "answer": "cold",
+      "question": "froid"
+    },
+    {
+      "answer": "notice",
+      "question": "avis"
+    },
+    {
+      "answer": "voice",
+      "question": "voix"
+    },
+    {
+      "answer": "energy",
+      "question": "énergie"
+    },
+    {
+      "answer": "hunt",
+      "question": "chasse"
+    },
+    {
+      "answer": "probable",
+      "question": "probable"
+    },
+    {
+      "answer": "bed",
+      "question": "lit"
+    },
+    {
+      "answer": "brother",
+      "question": "frère"
+    },
+    {
+      "answer": "egg",
+      "question": "œuf"
+    },
+    {
+      "answer": "ride",
+      "question": "tour"
+    },
+    {
+      "answer": "cell",
+      "question": "cellule"
+    },
+    {
+      "answer": "believe",
+      "question": "croire"
+    },
+    {
+      "answer": "perhaps",
+      "question": "peut-être"
+    },
+    {
+      "answer": "pick",
+      "question": "choisir"
+    },
+    {
+      "answer": "sudden",
+      "question": "soudain"
+    },
+    {
+      "answer": "count",
+      "question": "compter"
+    },
+    {
+      "answer": "square",
+      "question": "carré"
+    },
+    {
+      "answer": "reason",
+      "question": "raison"
+    },
+    {
+      "answer": "length",
+      "question": "longueur"
+    },
+    {
+      "answer": "represent",
+      "question": "représenter"
+    },
+    {
+      "answer": "art",
+      "question": "art"
+    },
+    {
+      "answer": "subject",
+      "question": "sujet"
+    },
+    {
+      "answer": "region",
+      "question": "région"
+    },
+    {
+      "answer": "size",
+      "question": "taille"
+    },
+    {
+      "answer": "vary",
+      "question": "varier"
+    },
+    {
+      "answer": "settle",
+      "question": "régler"
+    },
+    {
+      "answer": "speak",
+      "question": "parler"
+    },
+    {
+      "answer": "weight",
+      "question": "poids"
+    },
+    {
+      "answer": "general",
+      "question": "général"
+    },
+    {
+      "answer": "ice",
+      "question": "glace"
+    },
+    {
+      "answer": "matter",
+      "question": "question"
+    },
+    {
+      "answer": "circle",
+      "question": "cercle"
+    },
+    {
+      "answer": "pair",
+      "question": "paire"
+    },
+    {
+      "answer": "include",
+      "question": "inclure"
+    },
+    {
+      "answer": "divide",
+      "question": "fracture"
+    },
+    {
+      "answer": "syllable",
+      "question": "syllabe"
+    },
+    {
+      "answer": "felt",
+      "question": "feutre"
+    },
+    {
+      "answer": "grand",
+      "question": "grandiose"
+    },
+    {
+      "answer": "ball",
+      "question": "balle"
+    },
+    {
+      "answer": "yet",
+      "question": "encore"
+    },
+    {
+      "answer": "wave",
+      "question": "vague"
+    },
+    {
+      "answer": "drop",
+      "question": "tomber"
+    },
+    {
+      "answer": "heart",
+      "question": "cœur"
+    },
+    {
+      "answer": "am",
+      "question": "h"
+    },
+    {
+      "answer": "present",
+      "question": "présent"
+    },
+    {
+      "answer": "heavy",
+      "question": "lourd"
+    },
+    {
+      "answer": "dance",
+      "question": "danse"
+    },
+    {
+      "answer": "engine",
+      "question": "moteur"
+    },
+    {
+      "answer": "position",
+      "question": "position"
+    },
+    {
+      "answer": "arm",
+      "question": "bras"
+    },
+    {
+      "answer": "wide",
+      "question": "large"
+    },
+    {
+      "answer": "sail",
+      "question": "voile"
+    },
+    {
+      "answer": "material",
+      "question": "matériel"
+    },
+    {
+      "answer": "fraction",
+      "question": "fraction"
+    },
+    {
+      "answer": "forest",
+      "question": "forêt"
+    },
+    {
+      "answer": "sit",
+      "question": "s’asseoir"
+    },
+    {
+      "answer": "race",
+      "question": "course"
+    },
+    {
+      "answer": "window",
+      "question": "fenêtre"
+    },
+    {
+      "answer": "store",
+      "question": "magasin"
+    },
+    {
+      "answer": "summer",
+      "question": "été"
+    },
+    {
+      "answer": "train",
+      "question": "train"
+    },
+    {
+      "answer": "sleep",
+      "question": "sommeil"
+    },
+    {
+      "answer": "prove",
+      "question": "prouver"
+    },
+    {
+      "answer": "lone",
+      "question": "seul"
+    },
+    {
+      "answer": "leg",
+      "question": "jambe"
+    },
+    {
+      "answer": "exercise",
+      "question": "exercice"
+    },
+    {
+      "answer": "wall",
+      "question": "mur"
+    },
+    {
+      "answer": "catch",
+      "question": "capture"
+    },
+    {
+      "answer": "mount",
+      "question": "monture"
+    },
+    {
+      "answer": "wish",
+      "question": "souhaiter"
+    },
+    {
+      "answer": "sky",
+      "question": "ciel"
+    },
+    {
+      "answer": "board",
+      "question": "conseil"
+    },
+    {
+      "answer": "joy",
+      "question": "joie"
+    },
+    {
+      "answer": "winter",
+      "question": "hiver"
+    },
+    {
+      "answer": "sat",
+      "question": "sat"
+    },
+    {
+      "answer": "written",
+      "question": "écrit"
+    },
+    {
+      "answer": "wild",
+      "question": "sauvage"
+    },
+    {
+      "answer": "instrument",
+      "question": "instrument"
+    },
+    {
+      "answer": "kept",
+      "question": "conservé"
+    },
+    {
+      "answer": "glass",
+      "question": "verre"
+    },
+    {
+      "answer": "grass",
+      "question": "herbe"
+    },
+    {
+      "answer": "cow",
+      "question": "vache"
+    },
+    {
+      "answer": "job",
+      "question": "emploi"
+    },
+    {
+      "answer": "edge",
+      "question": "bord"
+    },
+    {
+      "answer": "sign",
+      "question": "signe"
+    },
+    {
+      "answer": "visit",
+      "question": "visite"
+    },
+    {
+      "answer": "past",
+      "question": "passé"
+    },
+    {
+      "answer": "soft",
+      "question": "doux"
+    },
+    {
+      "answer": "fun",
+      "question": "amusement"
+    },
+    {
+      "answer": "bright",
+      "question": "clair"
+    },
+    {
+      "answer": "gas",
+      "question": "gaz"
+    },
+    {
+      "answer": "weather",
+      "question": "temps"
+    },
+    {
+      "answer": "month",
+      "question": "mois"
+    },
+    {
+      "answer": "million",
+      "question": "million"
+    },
+    {
+      "answer": "bear",
+      "question": "porter"
+    },
+    {
+      "answer": "finish",
+      "question": "finition"
+    },
+    {
+      "answer": "happy",
+      "question": "heureux"
+    },
+    {
+      "answer": "hope",
+      "question": "espoir"
+    },
+    {
+      "answer": "flower",
+      "question": "fleur"
+    },
+    {
+      "answer": "clothe",
+      "question": "vêtir"
+    },
+    {
+      "answer": "strange",
+      "question": "étrange"
+    },
+    {
+      "answer": "gone",
+      "question": "disparu"
+    },
+    {
+      "answer": "trade",
+      "question": "commerce"
+    },
+    {
+      "answer": "melody",
+      "question": "mélodie"
+    },
+    {
+      "answer": "trip",
+      "question": "voyage"
+    },
+    {
+      "answer": "office",
+      "question": "bureau"
+    },
+    {
+      "answer": "receive",
+      "question": "recevoir"
+    },
+    {
+      "answer": "row",
+      "question": "rangée"
+    },
+    {
+      "answer": "mouth",
+      "question": "bouche"
+    },
+    {
+      "answer": "exact",
+      "question": "exact"
+    },
+    {
+      "answer": "symbol",
+      "question": "symbole"
+    },
+    {
+      "answer": "die",
+      "question": "mourir"
+    },
+    {
+      "answer": "least",
+      "question": "moins"
+    },
+    {
+      "answer": "trouble",
+      "question": "difficulté"
+    },
+    {
+      "answer": "shout",
+      "question": "cri"
+    },
+    {
+      "answer": "except",
+      "question": "sauf"
+    },
+    {
+      "answer": "wrote",
+      "question": "écrit"
+    },
+    {
+      "answer": "seed",
+      "question": "semence"
+    },
+    {
+      "answer": "tone",
+      "question": "ton"
+    },
+    {
+      "answer": "join",
+      "question": "joindre"
+    },
+    {
+      "answer": "suggest",
+      "question": "suggérer"
+    },
+    {
+      "answer": "clean",
+      "question": "propre"
+    },
+    {
+      "answer": "break",
+      "question": "pause"
+    },
+    {
+      "answer": "lady",
+      "question": "dame"
+    },
+    {
+      "answer": "yard",
+      "question": "cour"
+    },
+    {
+      "answer": "rise",
+      "question": "augmenter"
+    },
+    {
+      "answer": "bad",
+      "question": "mauvais"
+    },
+    {
+      "answer": "blow",
+      "question": "coup"
+    },
+    {
+      "answer": "oil",
+      "question": "huile"
+    },
+    {
+      "answer": "blood",
+      "question": "sang"
+    },
+    {
+      "answer": "touch",
+      "question": "toucher"
+    },
+    {
+      "answer": "grew",
+      "question": "a augmenté"
+    },
+    {
+      "answer": "cent",
+      "question": "cent"
+    },
+    {
+      "answer": "mix",
+      "question": "mélanger"
+    },
+    {
+      "answer": "team",
+      "question": "équipe"
+    },
+    {
+      "answer": "wire",
+      "question": "fil"
+    },
+    {
+      "answer": "cost",
+      "question": "coût"
+    },
+    {
+      "answer": "lost",
+      "question": "perdu"
+    },
+    {
+      "answer": "brown",
+      "question": "brun"
+    },
+    {
+      "answer": "wear",
+      "question": "porter"
+    },
+    {
+      "answer": "garden",
+      "question": "jardin"
+    },
+    {
+      "answer": "equal",
+      "question": "égal"
+    },
+    {
+      "answer": "sent",
+      "question": "expédié"
+    },
+    {
+      "answer": "choose",
+      "question": "choisir"
+    },
+    {
+      "answer": "fell",
+      "question": "est tombé"
+    },
+    {
+      "answer": "fit",
+      "question": "s’adapter"
+    },
+    {
+      "answer": "flow",
+      "question": "débit"
+    },
+    {
+      "answer": "fair",
+      "question": "juste"
+    },
+    {
+      "answer": "bank",
+      "question": "banque"
+    },
+    {
+      "answer": "collect",
+      "question": "recueillir"
+    },
+    {
+      "answer": "save",
+      "question": "sauver"
+    },
+    {
+      "answer": "control",
+      "question": "contrôle"
+    },
+    {
+      "answer": "decimal",
+      "question": "décimal"
+    },
+    {
+      "answer": "ear",
+      "question": "oreille"
+    },
+    {
+      "answer": "else",
+      "question": "autre"
+    },
+    {
+      "answer": "quite",
+      "question": "tout à fait"
+    },
+    {
+      "answer": "broke",
+      "question": "cassé"
+    },
+    {
+      "answer": "case",
+      "question": "cas"
+    },
+    {
+      "answer": "middle",
+      "question": "milieu"
+    },
+    {
+      "answer": "kill",
+      "question": "tuer"
+    },
+    {
+      "answer": "son",
+      "question": "fils"
+    },
+    {
+      "answer": "lake",
+      "question": "lac"
+    },
+    {
+      "answer": "moment",
+      "question": "moment"
+    },
+    {
+      "answer": "scale",
+      "question": "échelle"
+    },
+    {
+      "answer": "loud",
+      "question": "fort"
+    },
+    {
+      "answer": "spring",
+      "question": "printemps"
+    },
+    {
+      "answer": "observe",
+      "question": "observer"
+    },
+    {
+      "answer": "child",
+      "question": "enfant"
+    },
+    {
+      "answer": "straight",
+      "question": "droit"
+    },
+    {
+      "answer": "consonant",
+      "question": "consonne"
+    },
+    {
+      "answer": "nation",
+      "question": "nation"
+    },
+    {
+      "answer": "dictionary",
+      "question": "dictionnaire"
+    },
+    {
+      "answer": "milk",
+      "question": "lait"
+    },
+    {
+      "answer": "speed",
+      "question": "vitesse"
+    },
+    {
+      "answer": "method",
+      "question": "méthode"
+    },
+    {
+      "answer": "organ",
+      "question": "organe"
+    },
+    {
+      "answer": "pay",
+      "question": "payer"
+    },
+    {
+      "answer": "age",
+      "question": "âge"
+    },
+    {
+      "answer": "section",
+      "question": "section"
+    },
+    {
+      "answer": "dress",
+      "question": "robe"
+    },
+    {
+      "answer": "cloud",
+      "question": "nuage"
+    },
+    {
+      "answer": "surprise",
+      "question": "surprise"
+    },
+    {
+      "answer": "quiet",
+      "question": "calme"
+    },
+    {
+      "answer": "stone",
+      "question": "pierre"
+    },
+    {
+      "answer": "tiny",
+      "question": "minuscule"
+    },
+    {
+      "answer": "climb",
+      "question": "montée"
+    },
+    {
+      "answer": "cool",
+      "question": "frais"
+    },
+    {
+      "answer": "design",
+      "question": "conception"
+    },
+    {
+      "answer": "poor",
+      "question": "pauvres"
+    },
+    {
+      "answer": "lot",
+      "question": "lot"
+    },
+    {
+      "answer": "experiment",
+      "question": "expérience"
+    },
+    {
+      "answer": "bottom",
+      "question": "bas"
+    },
+    {
+      "answer": "key",
+      "question": "clé"
+    },
+    {
+      "answer": "iron",
+      "question": "fer"
+    },
+    {
+      "answer": "single",
+      "question": "unique"
+    },
+    {
+      "answer": "stick",
+      "question": "bâton"
+    },
+    {
+      "answer": "flat",
+      "question": "plat"
+    },
+    {
+      "answer": "twenty",
+      "question": "vingt"
+    },
+    {
+      "answer": "skin",
+      "question": "peau"
+    },
+    {
+      "answer": "smile",
+      "question": "sourire"
+    },
+    {
+      "answer": "crease",
+      "question": "pli"
+    },
+    {
+      "answer": "hole",
+      "question": "trou"
+    },
+    {
+      "answer": "jump",
+      "question": "sauter"
+    },
+    {
+      "answer": "baby",
+      "question": "bébé"
+    },
+    {
+      "answer": "eight",
+      "question": "huit"
+    },
+    {
+      "answer": "village",
+      "question": "village"
+    },
+    {
+      "answer": "meet",
+      "question": "se rencontrent"
+    },
+    {
+      "answer": "root",
+      "question": "racine"
+    },
+    {
+      "answer": "buy",
+      "question": "acheter"
+    },
+    {
+      "answer": "raise",
+      "question": "augmenter"
+    },
+    {
+      "answer": "solve",
+      "question": "résoudre"
+    },
+    {
+      "answer": "metal",
+      "question": "métal"
+    },
+    {
+      "answer": "whether",
+      "question": "si"
+    },
+    {
+      "answer": "push",
+      "question": "pousser"
+    },
+    {
+      "answer": "seven",
+      "question": "sept"
+    },
+    {
+      "answer": "paragraph",
+      "question": "paragraphe"
+    },
+    {
+      "answer": "third",
+      "question": "troisième"
+    },
+    {
+      "answer": "shall",
+      "question": "doit"
+    },
+    {
+      "answer": "held",
+      "question": "en attente"
+    },
+    {
+      "answer": "hair",
+      "question": "cheveux"
+    },
+    {
+      "answer": "describe",
+      "question": "décrire"
+    },
+    {
+      "answer": "cook",
+      "question": "cuisinier"
+    },
+    {
+      "answer": "floor",
+      "question": "étage"
+    },
+    {
+      "answer": "either",
+      "question": "chaque"
+    },
+    {
+      "answer": "result",
+      "question": "résultat"
+    },
+    {
+      "answer": "burn",
+      "question": "brûler"
+    },
+    {
+      "answer": "hill",
+      "question": "colline"
+    },
+    {
+      "answer": "safe",
+      "question": "coffre-fort"
+    },
+    {
+      "answer": "cat",
+      "question": "chat"
+    },
+    {
+      "answer": "century",
+      "question": "siècle"
+    },
+    {
+      "answer": "consider",
+      "question": "envisager"
+    },
+    {
+      "answer": "type",
+      "question": "type"
+    },
+    {
+      "answer": "law",
+      "question": "droit"
+    },
+    {
+      "answer": "bit",
+      "question": "peu"
+    },
+    {
+      "answer": "coast",
+      "question": "côte"
+    },
+    {
+      "answer": "copy",
+      "question": "copie"
+    },
+    {
+      "answer": "phrase",
+      "question": "phrase"
+    },
+    {
+      "answer": "silent",
+      "question": "silencieux"
+    },
+    {
+      "answer": "tall",
+      "question": "haut"
+    },
+    {
+      "answer": "sand",
+      "question": "sable"
+    },
+    {
+      "answer": "soil",
+      "question": "sol"
+    },
+    {
+      "answer": "roll",
+      "question": "rouleau"
+    },
+    {
+      "answer": "temperature",
+      "question": "température"
+    },
+    {
+      "answer": "finger",
+      "question": "doigt"
+    },
+    {
+      "answer": "industry",
+      "question": "industrie"
+    },
+    {
+      "answer": "value",
+      "question": "valeur"
+    },
+    {
+      "answer": "fight",
+      "question": "lutte"
+    },
+    {
+      "answer": "lie",
+      "question": "mensonge"
+    },
+    {
+      "answer": "beat",
+      "question": "battre"
+    },
+    {
+      "answer": "excite",
+      "question": "exciter"
+    },
+    {
+      "answer": "natural",
+      "question": "naturel"
+    },
+    {
+      "answer": "view",
+      "question": "vue"
+    },
+    {
+      "answer": "sense",
+      "question": "sens"
+    },
+    {
+      "answer": "capital",
+      "question": "capital"
+    },
+    {
+      "answer": "won’t",
+      "question": "ne sera pas"
+    },
+    {
+      "answer": "chair",
+      "question": "chaise"
+    },
+    {
+      "answer": "danger",
+      "question": "danger"
+    },
+    {
+      "answer": "fruit",
+      "question": "fruit"
+    },
+    {
+      "answer": "rich",
+      "question": "riche"
+    },
+    {
+      "answer": "thick",
+      "question": "épais"
+    },
+    {
+      "answer": "soldier",
+      "question": "soldat"
+    },
+    {
+      "answer": "process",
+      "question": "processus"
+    },
+    {
+      "answer": "operate",
+      "question": "fonctionner"
+    },
+    {
+      "answer": "practice",
+      "question": "pratique"
+    },
+    {
+      "answer": "separate",
+      "question": "séparé"
+    },
+    {
+      "answer": "difficult",
+      "question": "difficile"
+    },
+    {
+      "answer": "doctor",
+      "question": "médecin"
+    },
+    {
+      "answer": "please",
+      "question": "s’il vous plaît"
+    },
+    {
+      "answer": "protect",
+      "question": "protéger"
+    },
+    {
+      "answer": "noon",
+      "question": "midi"
+    },
+    {
+      "answer": "crop",
+      "question": "récolte"
+    },
+    {
+      "answer": "modern",
+      "question": "moderne"
+    },
+    {
+      "answer": "element",
+      "question": "élément"
+    },
+    {
+      "answer": "hit",
+      "question": "frapper"
+    },
+    {
+      "answer": "student",
+      "question": "étudiant"
+    },
+    {
+      "answer": "corner",
+      "question": "coin"
+    },
+    {
+      "answer": "party",
+      "question": "partie"
+    },
+    {
+      "answer": "supply",
+      "question": "alimentation"
+    },
+    {
+      "answer": "whose",
+      "question": "dont"
+    },
+    {
+      "answer": "locate",
+      "question": "localiser"
+    },
+    {
+      "answer": "ring",
+      "question": "anneau"
+    },
+    {
+      "answer": "character",
+      "question": "caractère"
+    },
+    {
+      "answer": "insect",
+      "question": "insecte"
+    },
+    {
+      "answer": "caught",
+      "question": "pris"
+    },
+    {
+      "answer": "period",
+      "question": "période"
+    },
+    {
+      "answer": "indicate",
+      "question": "indiquer"
+    },
+    {
+      "answer": "radio",
+      "question": "radio"
+    },
+    {
+      "answer": "spoke",
+      "question": "rayon"
+    },
+    {
+      "answer": "atom",
+      "question": "atome"
+    },
+    {
+      "answer": "human",
+      "question": "humain"
+    },
+    {
+      "answer": "history",
+      "question": "histoire"
+    },
+    {
+      "answer": "effect",
+      "question": "effet"
+    },
+    {
+      "answer": "electric",
+      "question": "électrique"
+    },
+    {
+      "answer": "expect",
+      "question": "attendre"
+    },
+    {
+      "answer": "bone",
+      "question": "os"
+    },
+    {
+      "answer": "rail",
+      "question": "rail"
+    },
+    {
+      "answer": "imagine",
+      "question": "imaginer"
+    },
+    {
+      "answer": "provide",
+      "question": "fournir"
+    },
+    {
+      "answer": "agree",
+      "question": "se mettre d’accord"
+    },
+    {
+      "answer": "thus",
+      "question": "ainsi"
+    },
+    {
+      "answer": "gentle",
+      "question": "doux"
+    },
+    {
+      "answer": "woman",
+      "question": "femme"
+    },
+    {
+      "answer": "captain",
+      "question": "capitaine"
+    },
+    {
+      "answer": "guess",
+      "question": "deviner"
+    },
+    {
+      "answer": "necessary",
+      "question": "nécessaire"
+    },
+    {
+      "answer": "sharp",
+      "question": "net"
+    },
+    {
+      "answer": "wing",
+      "question": "aile"
+    },
+    {
+      "answer": "create",
+      "question": "créer"
+    },
+    {
+      "answer": "neighbor",
+      "question": "voisin"
+    },
+    {
+      "answer": "wash",
+      "question": "lavage"
+    },
+    {
+      "answer": "bat",
+      "question": "chauve-souris"
+    },
+    {
+      "answer": "rather",
+      "question": "plutôt"
+    },
+    {
+      "answer": "crowd",
+      "question": "foule"
+    },
+    {
+      "answer": "corn",
+      "question": "blé"
+    },
+    {
+      "answer": "compare",
+      "question": "comparer"
+    },
+    {
+      "answer": "poem",
+      "question": "poème"
+    },
+    {
+      "answer": "string",
+      "question": "chaîne"
+    },
+    {
+      "answer": "bell",
+      "question": "cloche"
+    },
+    {
+      "answer": "depend",
+      "question": "dépendre"
+    },
+    {
+      "answer": "meat",
+      "question": "viande"
+    },
+    {
+      "answer": "rub",
+      "question": "rub"
+    },
+    {
+      "answer": "tube",
+      "question": "tube"
+    },
+    {
+      "answer": "famous",
+      "question": "célèbre"
+    },
+    {
+      "answer": "dollar",
+      "question": "dollar"
+    },
+    {
+      "answer": "stream",
+      "question": "courant"
+    },
+    {
+      "answer": "fear",
+      "question": "peur"
+    },
+    {
+      "answer": "sight",
+      "question": "vue"
+    },
+    {
+      "answer": "thin",
+      "question": "mince"
+    },
+    {
+      "answer": "triangle",
+      "question": "triangle"
+    },
+    {
+      "answer": "planet",
+      "question": "planète"
+    },
+    {
+      "answer": "hurry",
+      "question": "se dépêcher"
+    },
+    {
+      "answer": "chief",
+      "question": "chef"
+    },
+    {
+      "answer": "colony",
+      "question": "colonie"
+    },
+    {
+      "answer": "clock",
+      "question": "horloge"
+    },
+    {
+      "answer": "mine",
+      "question": "mine"
+    },
+    {
+      "answer": "tie",
+      "question": "lien"
+    },
+    {
+      "answer": "enter",
+      "question": "entrer"
+    },
+    {
+      "answer": "major",
+      "question": "majeur"
+    },
+    {
+      "answer": "fresh",
+      "question": "frais"
+    },
+    {
+      "answer": "search",
+      "question": "recherche"
+    },
+    {
+      "answer": "send",
+      "question": "envoyer"
+    },
+    {
+      "answer": "yellow",
+      "question": "jaune"
+    },
+    {
+      "answer": "gun",
+      "question": "pistolet"
+    },
+    {
+      "answer": "allow",
+      "question": "permettre"
+    },
+    {
+      "answer": "print",
+      "question": "impression"
+    },
+    {
+      "answer": "dead",
+      "question": "mort"
+    },
+    {
+      "answer": "spot",
+      "question": "place"
+    },
+    {
+      "answer": "desert",
+      "question": "désert"
+    },
+    {
+      "answer": "suit",
+      "question": "costume"
+    },
+    {
+      "answer": "current",
+      "question": "courant"
+    },
+    {
+      "answer": "lift",
+      "question": "ascenseur"
+    },
+    {
+      "answer": "rose",
+      "question": "rose"
+    },
+    {
+      "answer": "arrive",
+      "question": "arriver"
+    },
+    {
+      "answer": "master",
+      "question": "maître"
+    },
+    {
+      "answer": "track",
+      "question": "piste"
+    },
+    {
+      "answer": "parent",
+      "question": "mère"
+    },
+    {
+      "answer": "shore",
+      "question": "rivage"
+    },
+    {
+      "answer": "division",
+      "question": "division"
+    },
+    {
+      "answer": "sheet",
+      "question": "feuille"
+    },
+    {
+      "answer": "substance",
+      "question": "substance"
+    },
+    {
+      "answer": "favor",
+      "question": "favoriser"
+    },
+    {
+      "answer": "connect",
+      "question": "relier"
+    },
+    {
+      "answer": "post",
+      "question": "poste"
+    },
+    {
+      "answer": "spend",
+      "question": "passer"
+    },
+    {
+      "answer": "chord",
+      "question": "corde"
+    },
+    {
+      "answer": "fat",
+      "question": "graisse"
+    },
+    {
+      "answer": "glad",
+      "question": "heureux"
+    },
+    {
+      "answer": "original",
+      "question": "original"
+    },
+    {
+      "answer": "share",
+      "question": "part"
+    },
+    {
+      "answer": "station",
+      "question": "station"
+    },
+    {
+      "answer": "dad",
+      "question": "papa"
+    },
+    {
+      "answer": "bread",
+      "question": "pain"
+    },
+    {
+      "answer": "charge",
+      "question": "charger"
+    },
+    {
+      "answer": "proper",
+      "question": "propre"
+    },
+    {
+      "answer": "bar",
+      "question": "bar"
+    },
+    {
+      "answer": "offer",
+      "question": "proposition"
+    },
+    {
+      "answer": "segment",
+      "question": "segment"
+    },
+    {
+      "answer": "slave",
+      "question": "esclave"
+    },
+    {
+      "answer": "duck",
+      "question": "canard"
+    },
+    {
+      "answer": "instant",
+      "question": "instant"
+    },
+    {
+      "answer": "market",
+      "question": "marché"
+    },
+    {
+      "answer": "degree",
+      "question": "degré"
+    },
+    {
+      "answer": "populate",
+      "question": "peupler"
+    },
+    {
+      "answer": "chick",
+      "question": "poussin"
+    },
+    {
+      "answer": "dear",
+      "question": "cher"
+    },
+    {
+      "answer": "enemy",
+      "question": "ennemi"
+    },
+    {
+      "answer": "reply",
+      "question": "répondre"
+    },
+    {
+      "answer": "drink",
+      "question": "boisson"
+    },
+    {
+      "answer": "occur",
+      "question": "se produire"
+    },
+    {
+      "answer": "support",
+      "question": "support"
+    },
+    {
+      "answer": "speech",
+      "question": "discours"
+    },
+    {
+      "answer": "nature",
+      "question": "nature"
+    },
+    {
+      "answer": "range",
+      "question": "gamme"
+    },
+    {
+      "answer": "steam",
+      "question": "vapeur"
+    },
+    {
+      "answer": "motion",
+      "question": "mouvement"
+    },
+    {
+      "answer": "path",
+      "question": "chemin"
+    },
+    {
+      "answer": "liquid",
+      "question": "liquide"
+    },
+    {
+      "answer": "log",
+      "question": "enregistrer"
+    },
+    {
+      "answer": "meant",
+      "question": "signifiait"
+    },
+    {
+      "answer": "quotient",
+      "question": "quotient"
+    },
+    {
+      "answer": "teeth",
+      "question": "dents"
+    },
+    {
+      "answer": "shell",
+      "question": "coquille"
+    },
+    {
+      "answer": "neck",
+      "question": "cou"
+    },
+    {
+      "answer": "oxygen",
+      "question": "oxygène"
+    },
+    {
+      "answer": "sugar",
+      "question": "sucre"
+    },
+    {
+      "answer": "death",
+      "question": "décès"
+    },
+    {
+      "answer": "pretty",
+      "question": "assez"
+    },
+    {
+      "answer": "skill",
+      "question": "compétence"
+    },
+    {
+      "answer": "women",
+      "question": "femmes"
+    },
+    {
+      "answer": "season",
+      "question": "saison"
+    },
+    {
+      "answer": "solution",
+      "question": "solution"
+    },
+    {
+      "answer": "magnet",
+      "question": "aimant"
+    },
+    {
+      "answer": "silver",
+      "question": "argent"
+    },
+    {
+      "answer": "thank",
+      "question": "merci"
+    },
+    {
+      "answer": "branch",
+      "question": "branche"
+    },
+    {
+      "answer": "match",
+      "question": "rencontre"
+    },
+    {
+      "answer": "suffix",
+      "question": "suffixe"
+    },
+    {
+      "answer": "especially",
+      "question": "particulièrement"
+    },
+    {
+      "answer": "fig",
+      "question": "figue"
+    },
+    {
+      "answer": "afraid",
+      "question": "peur"
+    },
+    {
+      "answer": "huge",
+      "question": "énorme"
+    },
+    {
+      "answer": "sister",
+      "question": "sœur"
+    },
+    {
+      "answer": "steel",
+      "question": "acier"
+    },
+    {
+      "answer": "discuss",
+      "question": "discuter"
+    },
+    {
+      "answer": "forward",
+      "question": "avant"
+    },
+    {
+      "answer": "similar",
+      "question": "similaire"
+    },
+    {
+      "answer": "guide",
+      "question": "guider"
+    },
+    {
+      "answer": "experience",
+      "question": "expérience"
+    },
+    {
+      "answer": "score",
+      "question": "score"
+    },
+    {
+      "answer": "apple",
+      "question": "pomme"
+    },
+    {
+      "answer": "bought",
+      "question": "acheté"
+    },
+    {
+      "answer": "led",
+      "question": "LED"
+    },
+    {
+      "answer": "pitch",
+      "question": "pas"
+    },
+    {
+      "answer": "coat",
+      "question": "manteau"
+    },
+    {
+      "answer": "mass",
+      "question": "masse"
+    },
+    {
+      "answer": "card",
+      "question": "carte"
+    },
+    {
+      "answer": "band",
+      "question": "bande"
+    },
+    {
+      "answer": "rope",
+      "question": "corde"
+    },
+    {
+      "answer": "slip",
+      "question": "glissement"
+    },
+    {
+      "answer": "win",
+      "question": "gagner"
+    },
+    {
+      "answer": "dream",
+      "question": "rêver"
+    },
+    {
+      "answer": "evening",
+      "question": "soirée"
+    },
+    {
+      "answer": "condition",
+      "question": "condition"
+    },
+    {
+      "answer": "feed",
+      "question": "alimentation"
+    },
+    {
+      "answer": "tool",
+      "question": "outil"
+    },
+    {
+      "answer": "total",
+      "question": "total"
+    },
+    {
+      "answer": "basic",
+      "question": "de base"
+    },
+    {
+      "answer": "smell",
+      "question": "odeur"
+    },
+    {
+      "answer": "valley",
+      "question": "vallée"
+    },
+    {
+      "answer": "nor",
+      "question": "ni"
+    },
+    {
+      "answer": "double",
+      "question": "double"
+    },
+    {
+      "answer": "seat",
+      "question": "siège"
+    },
+    {
+      "answer": "continue",
+      "question": "continuer"
+    },
+    {
+      "answer": "block",
+      "question": "bloc"
+    },
+    {
+      "answer": "chart",
+      "question": "graphique"
+    },
+    {
+      "answer": "hat",
+      "question": "chapeau"
+    },
+    {
+      "answer": "sell",
+      "question": "vendre"
+    },
+    {
+      "answer": "success",
+      "question": "succès"
+    },
+    {
+      "answer": "company",
+      "question": "entreprise"
+    },
+    {
+      "answer": "subtract",
+      "question": "soustraire"
+    },
+    {
+      "answer": "event",
+      "question": "événement"
+    },
+    {
+      "answer": "particular",
+      "question": "particulier"
+    },
+    {
+      "answer": "deal",
+      "question": "accord"
+    },
+    {
+      "answer": "swim",
+      "question": "baignade"
+    },
+    {
+      "answer": "term",
+      "question": "terme"
+    },
+    {
+      "answer": "opposite",
+      "question": "opposé"
+    },
+    {
+      "answer": "wife",
+      "question": "femme"
+    },
+    {
+      "answer": "shoe",
+      "question": "chaussure"
+    },
+    {
+      "answer": "shoulder",
+      "question": "épaule"
+    },
+    {
+      "answer": "spread",
+      "question": "propagation"
+    },
+    {
+      "answer": "arrange",
+      "question": "organiser"
+    },
+    {
+      "answer": "camp",
+      "question": "camp"
+    },
+    {
+      "answer": "invent",
+      "question": "inventer"
+    },
+    {
+      "answer": "cotton",
+      "question": "coton"
+    },
+    {
+      "answer": "born",
+      "question": "né"
+    },
+    {
+      "answer": "determine",
+      "question": "déterminer"
+    },
+    {
+      "answer": "quart",
+      "question": "litre"
+    },
+    {
+      "answer": "nine",
+      "question": "neuf"
+    },
+    {
+      "answer": "truck",
+      "question": "camion"
+    },
+    {
+      "answer": "noise",
+      "question": "bruit"
+    },
+    {
+      "answer": "level",
+      "question": "niveau"
+    },
+    {
+      "answer": "chance",
+      "question": "chance"
+    },
+    {
+      "answer": "gather",
+      "question": "recueillir"
+    },
+    {
+      "answer": "shop",
+      "question": "boutique"
+    },
+    {
+      "answer": "stretch",
+      "question": "tronçon"
+    },
+    {
+      "answer": "throw",
+      "question": "jeter"
+    },
+    {
+      "answer": "shine",
+      "question": "éclat"
+    },
+    {
+      "answer": "property",
+      "question": "propriété"
+    },
+    {
+      "answer": "column",
+      "question": "colonne"
+    },
+    {
+      "answer": "molecule",
+      "question": "molécule"
+    },
+    {
+      "answer": "select",
+      "question": "sélectionner"
+    },
+    {
+      "answer": "wrong",
+      "question": "mal"
+    },
+    {
+      "answer": "gray",
+      "question": "gris"
+    },
+    {
+      "answer": "repeat",
+      "question": "répétition"
+    },
+    {
+      "answer": "require",
+      "question": "exiger"
+    },
+    {
+      "answer": "broad",
+      "question": "large"
+    },
+    {
+      "answer": "prepare",
+      "question": "préparer"
+    },
+    {
+      "answer": "salt",
+      "question": "sel"
+    },
+    {
+      "answer": "nose",
+      "question": "nez"
+    },
+    {
+      "answer": "plural",
+      "question": "pluriel"
+    },
+    {
+      "answer": "anger",
+      "question": "colère"
+    },
+    {
+      "answer": "claim",
+      "question": "revendication"
+    },
+    {
+      "answer": "continent",
+      "question": "continent"
+    }
+  ],
+  "subject": "learn_english_1000_words",
+  "type": "BUTTON",
+  "sentence": null,
+  "voice_2": null,
+  "number": "1"
+}
