@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "create-db": "node src/DB_PUL/pays_capitales.js",
+    "create-db": "prisma migrate reset --force && node src/DB_PUL/create_prisma_dbs.js",
     "dev": "next dev",
     "postinstall": "prisma generate",
     "lint": "next lint",
@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@next-auth/prisma-adapter": "^1.0.5",
-    "@prisma/client": "^4.11.0",
+    "@prisma/client": "^4.12.0",
     "@tanstack/react-query": "^4.28.0",
     "@trpc/client": "^10.18.0",
     "@trpc/next": "^10.18.0",

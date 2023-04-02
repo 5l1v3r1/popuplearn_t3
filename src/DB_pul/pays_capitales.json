@@ -1,0 +1,30 @@
+{
+  "name": "pays_capitales",
+  "type": "BUTTON",
+  "language_1": "fr",
+  "voice_1": "Lea",
+  "language_2": "fr",
+  "voice_2": "Lea",
+  "subject": "Géographie",
+  "number": "1",
+  "introduction": "Les capitales politiques des pays du monde",
+  "sentence": "La capitale de QUESTION est ANSWER.",
+  "pul_elements": [
+    {
+      "question": "chine",
+      "answer": "pékin",
+      "details": [
+        { "description": "Le palais impérial : 'Cité interdite' date du XVème siécle. Dynasties Ming et Qing." },
+        { "description": "Le stade national construit en 2008 pour les jeux olympiques de Pékin." }
+      ]
+    },
+    {
+      "question": "inde",
+      "answer": "new delhi",
+      "details": [
+        { "description": "Ville nouvelle créée par les britanniques au XXème siècle pour déplacer la capitale qui était Calcutta." },
+        { "description": "Le Fort Rouge, palais de l'empereur moghol, construit au XVIIème siècle." }
+      ]
+    }
+  ]
+}
