@@ -30,6 +30,7 @@ model PUL {
   number       String
   introduction String
   sentence     String
+  subscriptions Subscription[]
 }
 
 model pul_element {
@@ -84,6 +85,16 @@ model User {
   image         String?
   accounts      Account[]
   sessions      Session[]
+  subscriptions Subscription[]
+}
+
+model Subscription {
+  id      Int     @id @default(autoincrement())
+  user    User    @relation(fields: [userId], references: [id])
+  pul     PUL     @relation(fields: [pulId], references: [id])
+  userId  String
+  pulId   Int
+  // pul_elements pul_element[]
 }
 
 model VerificationToken {

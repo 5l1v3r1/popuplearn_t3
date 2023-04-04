@@ -1,4 +1,8 @@
 #Convert old .pul format (in DB/*.pul + recursive) to .json (in src/DB.pul/*.json)
+#Run manually : & .\db2json.ps1
+#Run before "npm run create-db"
+
+Remove-Item -Path "src\DB_pul\*.json"
 Get-ChildItem -Path ".\DB" -Filter "*.pul" -Recurse | ForEach-Object {
     # Read contents of current .pul file
     $fileContent = Get-Content -Path $_.FullName -Raw
@@ -34,15 +38,19 @@ Get-ChildItem -Path ".\DB" -Filter "*.pul" -Recurse | ForEach-Object {
                     "details"  = $details
                 }
             }
-            # elseif ($_ -match '^\|\|\|(.+)\|\|\|$') {
             elseif ($_ -match '^(.+)\s+\|=\|\s+(.+)$') {
                 #if no ||| details
                 $question = $Matches[1]
                 $answer = $Matches[2]
+                $details = @(
+                    @{
+                        "description" = ""
+                    }
+                )
                 $qaPairs += @{
                     "question" = $question
                     "answer"   = $answer
-                    # "details"  = ""
+                    "details"  = $details
                 }
             }
         }

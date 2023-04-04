@@ -33,8 +33,13 @@
       "answer": "Have a safe trip home, everyone."
     },
     {
-      "answer": "It's my last day at this school.",
-      "question": "‎วันนี้ก็เป็นวันสุดท้ายแล้วนะคะ ‎ที่เมย์จะได้อยู่โรงเรียนนี้น่ะ"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎วันนี้ก็เป็นวันสุดท้ายแล้วนะคะ ‎ที่เมย์จะได้อยู่โรงเรียนนี้น่ะ",
+      "answer": "It's my last day at this school."
     },
     {
       "details": [
@@ -46,1428 +51,3208 @@
       "answer": "I'm going to miss it."
     },
     {
-      "answer": "Group photo!",
-      "question": "‎- ถ่ายรูปกันดีกว่า ชิดๆ ‎- [ผู้หญิง] เร็ว"
-    },
-    {
-      "answer": "Us, too!",
-      "question": "‎มาเร็วๆ"
-    },
-    {
-      "answer": "Us, too! Don't block me!",
-      "question": "‎- เอาเลย ‎- เดี๋ยวๆ กล้องกูๆ"
-    },
-    {
-      "answer": "Sorry.",
-      "question": "‎โทษทีว่ะ"
-    },
-    {
-      "answer": "If I'm ever back, I'll grab a bite where you work.",
-      "question": "‎เอาไว้กูกลับมาเมื่อไหร่ ‎เดี๋ยวไปแดกข้าวที่ร้านนะ"
-    },
-    {
-      "answer": "I'll be in Bangkok.",
-      "question": "‎เดี๋ยวเราไปกรุงเทพฯ แล้ว"
-    },
-    {
-      "answer": "Whoa, island boy is going to the city!",
-      "question": "‎เอาว่ะ ชาวเกาะจะไปเป็นชาวกรุงแล้วเว้ย"
-    },
-    {
-      "answer": "For work?",
-      "question": "‎[อนันต์] ไปทำงานเหรอ"
-    },
-    {
-      "answer": "For school.",
-      "question": "‎ไปเรียน"
-    },
-    {
-      "answer": "No way. You got a scholarship again?",
-      "question": "‎จริงสิ นี่มึงได้ทุนอีกแล้วเหรอวะ"
-    },
-    {
-      "answer": "Lucky you.",
-      "question": "‎[อนันต์] โชคดีจังเนอะ"
-    },
-    {
-      "answer": "-I aced the exam. -Hey, May!",
-      "question": "‎- ถ้านายสอบได้... ‎- [อนันต์] เมย์"
-    },
-    {
-      "answer": "Oh, Anan.",
-      "question": "‎อ้าว อนันต์"
-    },
-    {
-      "answer": "I thought you were upstairs.",
-      "question": "‎เมื่อกี้บอกว่าอยู่ข้างบนไม่ใช่เหรอ"
-    },
-    {
-      "answer": "I came down. Where's your graduation robe?",
-      "question": "‎เพิ่งลงมา แล้วชุดครุยเมย์ล่ะ"
-    },
-    {
-      "answer": "I took it off.",
-      "question": "‎[เมย์] อ๋อ ถอดไปเก็บแล้ว มันร้อนน่ะ"
-    },
-    {
-      "answer": "Just ignore him. Tomorrow, we all go our different ways.",
-      "question": "‎ไม่ต้องไปสนใจมันหรอก ‎เดี๋ยวพรุ่งนี้ก็ต่างคนต่างไปแล้ว"
-    },
-    {
-      "answer": "Will you be at the Lunar Eclipse party tonight?",
-      "question": "‎เออ แล้วคืนนี้มึงไปปาร์ตี้ ‎จันทรุปราคาหรือเปล่านี่"
-    },
-    {
-      "answer": "Everyone has to leave the island by 6 p.m.",
-      "question": "‎คืนนี้ทุกคนต้องออกจากเกาะ ‎ก่อนหกโมงไม่ใช่เหรอ"
-    },
-    {
-      "answer": "Right, but I asked my dad to pull some strings.",
-      "question": "‎ก็ใช่ แต่กูน่ะให้พ่อกูช่วยคุยกับผอ. ให้แล้ว"
-    },
-    {
-      "answer": "Tonight, the island is ours. Cool, huh?",
-      "question": "‎คืนนี้ ทั้งเกาะจะเป็นของเรา เจ๋งหรือเปล่า"
-    },
-    {
-      "answer": "But I have to work at the restaurant.",
-      "question": "‎แต่คืนนี้เราต้องทำงานที่ร้านอาหารว่ะ"
-    },
-    {
-      "answer": "We're gonna party until dawn. Come after work.",
-      "question": "‎กูปาร์ตี้ยันเช้าอยู่แล้ว ตามมาแล้วกัน"
-    },
-    {
-      "answer": "See you.",
-      "question": "‎เจอกัน"
-    },
-    {
-      "answer": "Are you really going to leave tomorrow?",
-      "question": "‎ตอนเช้า เอ็งจะไปจริงๆ ใช่ไหม"
-    },
-    {
-      "answer": "Dad...",
-      "question": "‎พ่อ"
-    },
-    {
-      "answer": "I know, I know... I knew this day would come.",
-      "question": "‎พ่อรู้ พ่อรู้ พ่อรู้ว่าสักวันหนึ่งแกต้องไป"
-    },
-    {
-      "answer": "But it came sooner than I expected.",
-      "question": "‎แต่พ่อไม่คิดว่ามันจะเร็วไปสักนิด"
-    },
-    {
-      "answer": "Dad...",
-      "question": "‎พ่อ"
-    },
-    {
-      "answer": "-What is it? -Open it.",
-      "question": "‎- อะไรน่ะพ่อ ‎- ลองเปิดดูสิ"
-    },
-    {
-      "answer": "Where did you get this dagger?",
-      "question": "‎พ่อไปเอามีดเล่มนี้มาจากไหน"
-    },
-    {
-      "answer": "It... belonged to your real father.",
-      "question": "‎มันเป็น... ของพ่อแท้ๆ ของแก"
-    },
-    {
-      "answer": "He left it for you.",
-      "question": "‎ที่เขาฝากไว้ให้"
-    },
-    {
-      "answer": "But...",
-      "question": "‎ไหน..."
-    },
-    {
-      "answer": "But you told me that you never met him.",
-      "question": "‎ไหนพ่อบอกว่า พ่อไม่รู้จักพ่อแท้ๆ ของผม"
-    },
-    {
-      "answer": "You didn't listen to the voicemail that I left?",
-      "question": "‎นี่แกไม่ได้ฟังข้อความเสียง ที่พ่อฝากไปใช่ไหม"
-    },
-    {
-      "answer": "The eclipse is here!",
-      "question": "‎พวกเรา พระจันทร์มาแล้ว"
-    },
-    {
-      "answer": "Kraam! Get in the car!",
-      "question": "‎คราม ขึ้นรถเร็ว"
-    },
-    {
-      "answer": "Dad! Wake up!",
-      "question": "‎พ่อ ตื่นก่อนพ่อ"
-    },
-    {
-      "answer": "Dad!",
-      "question": "‎[ครามตะโกน]"
-    },
-    {
-      "answer": "Are we the only ones left in this world?",
-      "question": "‎ตอนนี้เหลือแค่พวกเราบนโลกแล้วหรือไงวะ"
-    },
-    {
-      "answer": "How come we haven't been rescued?",
-      "question": "‎[จุ๋มจิ๋ม] ทำไมป่านนี้ยังไม่มีใคร ‎มาช่วยเหลือพวกเราเลยล่ะ"
-    },
-    {
-      "answer": "It's driving me mad.",
-      "question": "‎นี่เราจะบ้าตายอยู่แล้วนะ"
-    },
-    {
-      "answer": "-How come everyone seems okay? -No one is okay about it.",
-      "question": "‎- แล้วทำไมทุกคนยังดูโอเคกันหมดเลยล่ะ ‎- [คราม] ทุกคนไม่ได้โอเคหรอก"
-    },
-    {
-      "answer": "We're all scared.",
-      "question": "‎ทุกคนกลัว"
-    },
-    {
-      "answer": "I'm scared, too.",
-      "question": "‎เราเองก็กลัว"
-    },
-    {
-      "answer": "But you're not alone.",
-      "question": "‎แต่ว่าเธอไม่ได้อยู่ที่นี่คนเดียวนะ"
-    },
-    {
-      "answer": "Kraam... I have something to ask you.",
-      "question": "‎คราม เรามีอะไรจะถามเธอหน่อย"
-    },
-    {
-      "answer": "How did you survive the tsunami?",
-      "question": "‎ตอนนั้นน่ะเธอรอดมาจากสึนามิได้ยังไงวะ"
-    },
-    {
-      "answer": "I'm not sure.",
-      "question": "‎ไม่รู้สิ"
-    },
-    {
-      "answer": "Arisa!",
-      "question": "‎อริสา"
-    },
-    {
-      "answer": "Find any signal?",
-      "question": "‎เจอสัญญาณไหม"
-    },
-    {
-      "answer": "We should tell everyone that this is useless.",
-      "question": "‎เราว่าคงต้องบอกคนอื่นแล้วแหละ ‎ว่าที่ทำอยู่มันเสียเวลาเปล่า"
-    },
-    {
-      "answer": "We don't know the extent of damage to the mainland.",
-      "question": "‎แต่นี่เรายังไม่รู้เลยนะ ‎ว่าบนฝั่งเสียหายมากแค่ไหนน่ะ"
-    },
-    {
-      "answer": "They might be trying to bring the network back online.",
-      "question": "‎คือบางทีเขาอาจจะกำลัง ‎กู้ระบบให้กลับมาใช้งานได้ก็ได้"
-    },
-    {
-      "answer": "Joey? Can you say something?",
-      "question": "‎โจอี้มีอะไรจะพูดหน่อยไหม"
-    },
-    {
-      "answer": "What?",
-      "question": "‎เรื่องอะไร"
-    },
-    {
-      "answer": "We all agreed to your plan.",
-      "question": "‎คือทุกคนเคารพการตัดสินใจของมึงนะโว้ย"
-    },
-    {
-      "answer": "But it's time to admit...",
-      "question": "‎แต่มึงต้องยอมรับได้แล้วว่ะ"
-    },
-    {
-      "answer": "Admit what?",
-      "question": "‎ยอมรับว่า"
-    },
-    {
-      "answer": "Admit that your plan hasn't worked.",
-      "question": "‎ยอมรับว่าที่เราทำอยู่น่ะ มันไม่เวิร์ค"
-    },
-    {
-      "answer": "Everyone is pissed that we confiscated their phones.",
-      "question": "‎แล้วทุกคนก็เริ่มไม่พอใจแล้วด้วย ‎ที่เรายึดโทรศัพท์มา"
-    },
-    {
-      "answer": "But they agreed to this.",
-      "question": "‎แต่พวกมันก็เต็มใจให้เรามาเองไม่ใช่เหรอ"
-    },
-    {
-      "answer": "Right. But that was just after the tsunami.",
-      "question": "‎มันก็ใช่แต่นั่นมันเพิ่งตอนที่เกิดสึนามิใหม่ๆ"
-    },
-    {
-      "answer": "We were all in shock.",
-      "question": "‎ทุกคนมันก็เลยช็อกอยู่"
-    },
-    {
-      "answer": "But by returning their phones, we throw away any hope",
-      "question": "‎แต่การที่เราคืนโทรศัพท์ทุกคนไป ‎มันเท่ากับว่าเราทิ้งความหวัง"
-    },
-    {
-      "answer": "of being rescued.",
-      "question": "‎ที่จะมีใครสักคนมาช่วยพวกเรานะ"
-    },
-    {
-      "answer": "If anyone is coming, they would've come by now.",
-      "question": "‎ถ้าเขาจะมา เขามานานแล้ว"
-    },
-    {
-      "answer": "Does your body ache?",
-      "question": "‎[เมย์] แล้วมีปวดเมื่อยตัวบ้างไหม"
-    },
-    {
-      "answer": "A little.",
-      "question": "‎ช่วงนี้ก็มีปวดเมื่อยบ้าง"
-    },
-    {
-      "answer": "38.3 degrees.",
-      "question": "‎สามสิบแปดจุดสาม"
-    },
-    {
-      "answer": "How is your leg?",
-      "question": "‎แล้วช่วงนี้ยังเจ็บแผลที่ขาอยู่หรือเปล่าล่ะ"
-    },
-    {
-      "answer": "It feels better.",
-      "question": "‎ก็โอเคขึ้นนะ"
-    },
-    {
-      "answer": "It doesn't hurt as much.",
-      "question": "‎ไม่ค่อยเจ็บเหมือนวันแรกๆ น่ะ"
-    },
-    {
-      "answer": "Let's take a look.",
-      "question": "‎[เมย์] ขอดูหน่อยนะ"
-    },
-    {
-      "answer": "I want you to stay here.",
-      "question": "‎เราอยากให้แจ็คนอนพักที่นี่ก่อนน่ะ"
-    },
-    {
-      "answer": "So I can treat your wound",
-      "question": "‎เราจะได้ทำแผลให้แล้วก็"
-    },
-    {
-      "answer": "and make sure it doesn't get wet.",
-      "question": "‎ระวังเรื่องแผลโดนน้ำให้ด้วยน่ะ"
-    },
-    {
-      "answer": "Don't worry about that.",
-      "question": "‎[แจน] ไม่ต้องห่วงเรื่องแผลโดนน้ำหรอก"
-    },
-    {
-      "answer": "Krit cleans Jack by hand every day.",
-      "question": "‎เพราะว่ากฤษน่ะคอยเช็ดตัวให้แจ็คทุกวัน"
-    },
-    {
-      "answer": "My brother is lucky Krit is his boyfriend.",
-      "question": "‎น้องเรานี่นะ โชคดีจริงๆ เลยที่ได้กฤษเป็นแฟน"
-    },
-    {
-      "answer": "I will give you something for the fever.",
-      "question": "‎[เมย์] งั้นเดี๋ยวเราจัดยาลดไข้ไว้ให้แล้วกันนะ"
-    },
-    {
-      "answer": "You're amazing, May.",
-      "question": "‎เมย์นี่เก่งนะ"
-    },
-    {
-      "answer": "I'm not. I just learned a few things from my dad.",
-      "question": "‎ไม่หรอก เราแค่รู้เรื่องยานิดหน่อยเอง"
-    },
-    {
-      "answer": "With the way things are we're lucky to have you.",
-      "question": "‎แต่ในเวลาแบบนี้ รู้แค่นี้ก็สำคัญมากแล้วนะ"
-    },
-    {
-      "answer": "Without you, we wouldn't survive.",
-      "question": "‎ถ้าไม่มีเมย์น่ะ พวกเราทุกคนคงแย่แน่"
-    },
-    {
-      "answer": "Thank you.",
-      "question": "‎แต๊งกิ้วนะ"
-    },
-    {
-      "answer": "Thanks, Jan.",
-      "question": "‎[แจน] อือ"
-    },
-    {
-      "answer": "Joey!",
-      "question": "‎[เมย์] โจอี้"
-    },
-    {
-      "answer": "I'm worred about Jack.",
-      "question": "‎คือ ตอนนี้แจ็คอาการไม่ดีเลยน่ะ"
-    },
-    {
-      "answer": "His wound is infected.",
-      "question": "‎แผลมันเริ่มติดเชื้อแล้วด้วย"
-    },
-    {
-      "answer": "Just disinfecting it isn't enough.",
-      "question": "‎[เมย์] เราล้างแผลเฉยๆ น่าจะเอาไม่อยู่น่ะ"
-    },
-    {
-      "answer": "He needs antibiotics.",
-      "question": "‎มันต้องกินยาฆ่าเชื้อเพิ่ม"
-    },
-    {
-      "answer": "Any idea where we might find some?",
-      "question": "‎เธอพอจะรู้ไหมว่าจะหายาเพิ่มได้จากไหนอีกน่ะ"
-    },
-    {
-      "answer": "Kraam might know. I'll ask him.",
-      "question": "‎[โจอี้] งั้น เดี๋ยวเราลองชวนครามไปหาดูให้นะ"
-    },
-    {
-      "answer": "Nothing on me?",
-      "question": "‎แล้วของผมไม่มีข้อมูลอะไรเลยเหรอ"
-    },
-    {
-      "answer": "You haven't been sick. Why would there be?",
-      "question": "‎ก็เธอไม่เคยป่วย จะมีได้ยังไง"
-    },
-    {
-      "answer": "You look stressed? Can I help?",
-      "question": "‎เมย์ดูเครียดๆ นะ มีอะไรให้ช่วยหรือเปล่า"
-    },
-    {
-      "answer": "I'm fine.",
-      "question": "‎ก็ ไม่ได้เครียดนะ"
-    },
-    {
-      "answer": "Gotta go.",
-      "question": "‎ไปแล้ว"
-    },
-    {
-      "answer": "Everyone, listen up!",
-      "question": "‎ทุกคน ฟังเราหน่อยนะ"
-    },
-    {
-      "answer": "I have something important to say.",
-      "question": "‎[อนันต์] เรามีเรื่องสำคัญจะคุยด้วย"
-    },
-    {
-      "answer": "We've searched for a signal everywhere.",
-      "question": "‎คือวันนี้เราไปหาสัญญาณมาทั่วทั้งเกาะแล้วน่ะ"
-    },
-    {
-      "answer": "And while we haven't found one yet...",
-      "question": "‎แล้วมันก็ยังไม่เจอสัญญาณเหมือนเดิม"
-    },
-    {
-      "answer": "Hey! Look at what we've found!",
-      "question": "‎เฮ้ย ทุกคนดูสิ พวกเราเจออะไรด้วยล่ะ"
-    },
-    {
-      "answer": "It must be a retro video game!",
-      "question": "‎มันต้องเป็นเครื่องเล่นเกมยุคโบราณแน่เลย"
-    },
-    {
-      "answer": "Tomorrow we...",
-      "question": "‎คือพรุ่งนี้..."
-    },
-    {
-      "answer": "How do we play it?",
-      "question": "‎เล่นยังไงวะ"
-    },
-    {
-      "answer": "Out of my way.",
-      "question": "‎หลบสิ"
-    },
-    {
-      "answer": "Is it a video game?",
-      "question": "‎เครื่องเล่นเกมใช่หรือเปล่า"
-    },
-    {
-      "answer": "You idiot!",
-      "question": "‎[อริสา] เครื่องเล่นเกมบ้าอะไรล่ะ"
-    },
-    {
-      "answer": "This is a tape player!",
-      "question": "‎นี่มันเครื่องเล่นเทปรีล"
-    },
-    {
-      "answer": "How do you know?",
-      "question": "‎แล้วเธอรู้จักมันได้ยังไง"
-    },
-    {
-      "answer": "Because I'm smart.",
-      "question": "‎ฉลาด"
-    },
-    {
-      "answer": "It's a vintage tape player.",
-      "question": "‎[อริสา] มันเป็นเครื่องเล่นเทปสมัยโบราณน่ะ"
-    },
-    {
-      "answer": "From the 1930s or '40s.",
-      "question": "‎มีตั้งแต่ยุคสมัยสงครามโลกแล้ว"
-    },
-    {
-      "answer": "So, it can play music?",
-      "question": "‎อย่างนี้มันก็เปิดเพลงฟังได้สิวะ"
-    },
-    {
-      "answer": "Cool! Can it?",
-      "question": "‎เออ เปิดเพลง เปิดเพลงได้หรือเปล่า"
-    },
-    {
-      "answer": "You guys want music?",
-      "question": "‎[ไอซ์] พวกมึงอยากฟังเพลงใช่หรือเปล่า"
-    },
-    {
-      "answer": "There.",
-      "question": "‎นี่ไง"
-    },
-    {
-      "answer": "Our confiscated phones... Let's get them back.",
-      "question": "‎โทรศัพท์ที่โดนยึดไปน่ะ ไปเอาคืนมาสิ"
-    },
-    {
-      "answer": "You haven't found jack shit.",
-      "question": "‎มึงเอาไปตั้งนานแล้ว ‎ไม่ได้เหี้ยอะไรกลับมาเลยเนี่ย"
-    },
-    {
-      "answer": "Just give them back.",
-      "question": "‎มึงเอาคืนมาเถอะ"
-    },
-    {
-      "answer": "Just give them back. You haven't found a signal?",
-      "question": "‎[เนย] นั่นสิ นี่ยังหาสัญญาณไม่เจอเลยใช่มั้ย"
-    },
-    {
-      "answer": "-Right! Then why keep our phones? -My battery is probably dead by now.",
-      "question": "‎[เค] จริงด้วย จะยึดโทรศัพท์เราไปทำไมก็ไม่รู้ ‎[ผู้ชายคนที่สอง] แบตฯ กูหมดแล้วมั้ง"
-    },
-    {
-      "answer": "Listen.",
-      "question": "‎โทษทีนะ"
-    },
-    {
-      "answer": "Searching for a signal",
-      "question": "‎แต่การค้นหาสัญญาณโทรศัพท์เนี่ย"
-    },
-    {
-      "answer": "is the only way to tell people that we're alive.",
-      "question": "‎มันเป็นวิธีเดียวที่จะทำให้คนนอกเกาะ ‎รู้ว่าพวกเรายังมีชีวิตอยู่"
-    },
-    {
-      "answer": "And be rescued. So, I won't give up",
-      "question": "‎[อนันต์] จะได้ส่งคนมาช่วยไง ‎เพราะงั้นเนี่ย กูจะไม่ยอมยกเลิก"
-    },
-    {
-      "answer": "and let you waste the battery on some shitty songs.",
-      "question": "‎เพื่อให้มึงผลาญแบตฯ โทรศัพท์ที่เหลือ ‎ไปกับการฟังเพลงเหี้ยๆ นั่นหรอก"
-    },
-    {
-      "answer": "You're full of it. Stop talking shit.",
-      "question": "‎มึงพล่ามเก่งเนอะ ‎มึงช่วยทำอะไรที่มันเก่ง ‎เหมือนปากมึงได้หรือเปล่าวะ"
-    },
-    {
-      "answer": "What the fuck have you found with our phones?",
-      "question": "‎โทรศัพท์เอาไปกี่วันแล้วได้เหี้ยอะไรมาบ้าง"
-    },
-    {
-      "answer": "Give them back! We need our phones!",
-      "question": "‎มึงเอาคืนมาเถอะ พวกกูต้องใช้ใช่หรือเปล่า"
-    },
-    {
-      "answer": "You borrowed all our phones,",
-      "question": "‎[ผู้ชายคนที่สาม] กูอยากฟังเพลงเหมือนกันน่ะ"
-    },
-    {
-      "answer": "You borrowed all our phones, said you'd use them one at a time to save the battery.",
-      "question": "‎[ผู้หญิง] มายืมโทรศัพท์พวกเราไป ‎บอกว่าทยอยใช้ทีละเครื่องเพื่อเซฟแบตฯ"
-    },
-    {
-      "answer": "Everybody!",
-      "question": "‎ทุกคนๆ"
-    },
-    {
-      "answer": "Calm down!",
-      "question": "‎[โจอี้] ใจเย็นๆ ก่อน"
-    },
-    {
-      "answer": "I know you're upset.",
-      "question": "‎เรารู้ว่าทุกคนกำลังไม่พอใจ"
-    },
-    {
-      "answer": "I'd also like my phone back.",
-      "question": "‎เราเองก็อยากได้โทรศัพท์คืนเหมือนกัน"
-    },
-    {
-      "answer": "I miss my parents.",
-      "question": "‎คิดถึงพ่อแม่ว่ะ"
-    },
-    {
-      "answer": "I want to look at their photos again.",
-      "question": "‎อยากเปิดรูปพวกเขาดูอีกครั้ง"
-    },
-    {
-      "answer": "Think about it, though.",
-      "question": "‎[โจอี้] แต่ลองคิดดูดีๆ นะ"
-    },
-    {
-      "answer": "If we could see them again,",
-      "question": "‎ถ้าเราได้กลับไปเจอหน้าพวกเขา"
-    },
-    {
-      "answer": "hug them again,",
-      "question": "‎ได้กลับไปกอดพวกเขา"
-    },
-    {
-      "answer": "hold them in our arms,",
-      "question": "‎ด้วยมือของพวกเราเองน่ะ"
-    },
-    {
-      "answer": "wouldn't it be better?",
-      "question": "‎มันจะดีกว่าหรือเปล่า"
-    },
-    {
-      "answer": "Look, give us five more days.",
-      "question": "‎เอาอย่างนี้ เราขอเวลาอีกแค่ห้าวัน"
-    },
-    {
-      "answer": "It will have been a month.",
-      "question": "‎ถ้าครบเดือนหนึ่งแล้ว"
-    },
-    {
-      "answer": "If we can't call or find a signal,",
-      "question": "‎ยังติดต่อใครไม่ได้หรือยังไม่มีสัญญาณอีก"
-    },
-    {
-      "answer": "then I will return your phones.",
-      "question": "‎เราจะเป็นคนคืนมือถือให้ทุกคน"
-    },
-    {
-      "answer": "I promise. Okay?",
-      "question": "‎ด้วยมือของเราเอง โอเคไหม"
-    },
-    {
-      "answer": "Fine. Five days isn't long.",
-      "question": "‎[ไอซ์] ก็ได้วะ"
-    },
-    {
-      "answer": "This is my room!",
-      "question": "‎ห้องตัวเองไม่มีเหรอ"
-    },
-    {
-      "answer": "Go fuck in your own room.",
-      "question": "‎[อริสา] อยากทำมาก ‎ทำไมไม่กลับไปทำห้องตัวเองล่ะ"
-    },
-    {
-      "answer": "Sorry, we didn't know it's your room.",
-      "question": "‎โทษทีน่ะ เราไม่รู้ว่าห้องนี้เป็นห้องเธอ"
-    },
-    {
-      "answer": "Don't apologize.",
-      "question": "‎เฮ้ย จะขอโทษมันทำไมล่ะ"
-    },
-    {
-      "answer": "Not to this bitch.",
-      "question": "‎ไอ้นี่มันเคยทำเรื่องแย่กว่านี้อีก"
-    },
-    {
-      "answer": "How about this?",
-      "question": "‎[ไอซ์] เอาอย่างนี้ดีกว่า"
-    },
-    {
-      "answer": "We're not leaving until we're done fucking. Okay?",
-      "question": "‎กูจะไม่ไปไหนทั้งนั้นน่ะ ‎จนกว่าจะเอาเสร็จ โอเคเปล่า"
-    },
-    {
-      "answer": "You can watch if you'd like.",
-      "question": "‎ถ้าอยากดูมากก็ดูไป"
-    },
-    {
-      "answer": "I don't mind.",
-      "question": "‎- [ไอซ์] กูไม่ว่าหรอกนะ ‎- [หญิง] ไปแกล้งเขา"
-    },
-    {
-      "answer": "Fine. But the hammer is loose.",
-      "question": "‎ได้ แต่เนี่ย หัวค้อนมันชอบหลุดบ่อยๆ นะ"
-    },
-    {
-      "answer": "If it happens to hit you on the head,",
-      "question": "‎[อริสา] ถ้าบังเอิ๊นบังเอิญกระเด็น ‎ไปโดนหัวใครเข้า"
-    },
-    {
-      "answer": "you can let May stitch it up.",
-      "question": "‎กลับไปให้เมย์เย็บแล้วกัน"
-    },
-    {
-      "answer": "Don't you think the Village Chief's house was swept away in the tsunami?",
-      "question": "‎[โจอี้] มึงว่ายาที่บ้านผู้ใหญ่บ้าน ‎แม่งจะโดนสึนามิซัดไปหรือเปล่าวะ"
-    },
-    {
-      "answer": "I don't think so. It's on the hill.",
-      "question": "‎[คราม] คิดว่าไม่น่านะเพราะว่าบ้านแกอยู่ที่สูง"
-    },
-    {
-      "answer": "Knife or dagger?",
-      "question": "‎เฮ้ย มีดมึงเหรอวะ สวยดีว่ะ"
-    },
-    {
-      "answer": "Can I check it out?",
-      "question": "‎ขอดูหน่อยได้หรือเปล่า"
-    },
-    {
-      "answer": "Careful.",
-      "question": "‎ระวังนะ"
-    },
-    {
-      "answer": "Looks ancient. Where'd you get it?",
-      "question": "‎เหมือนของโบราณเลยว่ะ ใครให้มาวะ"
-    },
-    {
-      "answer": "My dad.",
-      "question": "‎พ่อน่ะ"
-    },
-    {
-      "answer": "Hey, sorry. At least you know what happened to him.",
-      "question": "‎เฮ้ย เอาน่า อย่างน้อยมึงก็รู้นะเว้ย ‎ว่าเกิดอะไรขึ้นกับพ่อมึงน่ะ"
-    },
-    {
-      "answer": "None of us have a clue how our families are.",
-      "question": "‎กูกับคนอื่นๆ แม่งไม่รู้ด้วยซ้ำ ‎ว่าครอบครัวจะเป็นยังไงบ้าง"
-    },
-    {
-      "answer": "Maybe everybody on earth is dead.",
-      "question": "‎ป่านนี้คนบนโลกแม่งอาจจะตายหมดแล้วก็ได้"
-    },
-    {
-      "answer": "This is a really cool gift.",
-      "question": "‎แต่ของที่พ่อมึงให้ โคตรคูลเลยว่ะ"
-    },
-    {
-      "answer": "It's useful, too.",
-      "question": "‎แถมยังมีประโยชน์อีก"
-    },
-    {
-      "answer": "Know what my dad got me for my birthday?",
-      "question": "‎มึงรู้หรือเปล่า พ่อกูให้อะไรเป็นของขวัญวันเกิด"
-    },
-    {
-      "answer": "-What? -A PS4.",
-      "question": "‎- ให้อะไร ‎- พีเอสโฟร์ไง"
-    },
-    {
-      "answer": "It's totally useless now, without power.",
-      "question": "‎แล้วเป็นไงล่ะ สึนามิมาทีเรียบร้อย ไฟดับ"
-    },
-    {
-      "answer": "Now I use it as a doorstop.",
-      "question": "‎นอนคั่นประตูอยู่หน้าห้องกูน่ะ"
-    },
-    {
-      "answer": "Arisa!",
-      "question": "‎อริสา"
-    },
-    {
-      "answer": "Arisa, my dear.",
-      "question": "‎อริสาจ๋า"
-    },
-    {
-      "answer": "I think you might need this.",
-      "question": "‎[นัท] ฉันว่า เธอต้องใช้สิ่งนี้นะ"
-    },
-    {
-      "answer": "It says \"Gone with the Wind.\"",
-      "question": "‎ปกมันเขียนว่า \"วิมานลอย\" น่ะ"
-    },
-    {
-      "answer": "Is this a movie?",
-      "question": "‎เป็นหนังใช่หรือเปล่า"
-    },
-    {
-      "answer": "How can this be a movie? It's an audio tape reel.",
-      "question": "‎มันจะเป็นหนังได้ยังไง นี่มันม้วนเทป ‎ไว้เล่นกับเครื่องเสียง"
-    },
-    {
-      "answer": "So, does it still work?",
-      "question": "‎เออ แล้วสรุป มันยังใช้ได้อยู่หรือเปล่า"
-    },
-    {
-      "answer": "Do you mind?",
-      "question": "‎โทษนะแก"
-    },
-    {
-      "answer": "What?",
-      "question": "‎อะไรเหรอ"
-    },
-    {
-      "answer": "When did you brush your teeth last?",
-      "question": "‎แปรงฟันครั้งล่าสุดเมื่อไหร่วะ"
-    },
-    {
-      "answer": "Your breath stinks.",
-      "question": "‎ปากนี่แบบเหม็นมากเลยว่ะ"
-    },
-    {
-      "answer": "How are you going to fix it?",
-      "question": "‎เออ แล้วเธอจะทำอะไรกับมันได้บ้าง"
-    },
-    {
-      "answer": "Your breath stinks worse than your wife's.",
-      "question": "‎ปากแกนี่เหม็นกว่าเมียแกอีกนะ"
-    },
-    {
-      "answer": "Hey, Arisa.",
-      "question": "‎นี่ อริสา"
-    },
-    {
-      "answer": "You've got a nasty mouth.",
-      "question": "‎เธอนี่โคตรปากหมาเลย"
-    },
-    {
-      "answer": "It's my default reaction to morons.",
-      "question": "‎คือมันเป็นโหมดหนึ่งในตัวฉัน ‎เอาไว้คุยกับพวกปัญญาอ่อน"
-    },
-    {
-      "answer": "This is why everyone talks shit about you.",
-      "question": "‎ก็เพราะว่าเธอเป็นอย่างนี้ไง ‎คนเขาถึงเมาท์เธอกันน่ะ"
-    },
-    {
-      "answer": "Don't you wonder why everyone hates you?",
-      "question": "‎[นัท] ไม่สงสัยหรือไงว่าทำไมถึงมีคนเกลียดเธอ"
-    },
-    {
-      "answer": "Like I care.",
-      "question": "‎คิดว่าฉันแคร์หรือเปล่าล่ะ"
-    },
-    {
-      "answer": "If they were at home that night, then we wouldn't be the only ones left.",
-      "question": "‎[โจอี้] นี่ถ้าพวกเขาอยู่บ้านในคืนที่เกิดสึนามิ ‎ก็คงไม่เหลือแค่พวกเราบนเกาะนี้หรอก"
-    },
-    {
-      "answer": "Lots of medicine.",
-      "question": "‎ยาเพียบเลยว่ะ"
-    },
-    {
-      "answer": "Let's take as much as we can.",
-      "question": "‎อะไรที่พอใช้ได้ มึงเอาไปให้หมดเลยนะ"
-    },
-    {
-      "answer": "Ying, Arisa, May.",
-      "question": "‎[โจอี้] พี่หญิง อริสา เมย์"
-    },
-    {
-      "answer": "Don't act confused.",
-      "question": "‎มึงงงอะไรเนี่ย"
-    },
-    {
-      "answer": "Fuck-Marry-Kill.",
-      "question": "‎ฟัค แมรี่ คิล ไง"
-    },
-    {
-      "answer": "Choose who you want to fuck, marry, or kill.",
-      "question": "‎เลือกมาว่าอยากจะมีอะไรกับใคร ‎แต่งงานกับใคร หรือว่าอยากจะฆ่าใคร"
-    },
-    {
-      "answer": "Just choose!",
-      "question": "‎มึงเลือกๆ มาเถอะ"
-    },
-    {
-      "answer": "I won't tell anyone.",
-      "question": "‎กูไม่บอกใครหรอก"
-    },
-    {
-      "answer": "That's tough.",
-      "question": "‎โห งั้นคง"
-    },
-    {
-      "answer": "I'd choose to have sex with Ying.",
-      "question": "‎เลือกมีอะไรกับพี่หญิงมั้ง"
-    },
-    {
-      "answer": "She's pretty sexy.",
-      "question": "‎เห็นชอบแต่งตัวเซ็กซี่น่ะ"
-    },
-    {
-      "answer": "Shit! I would, too.",
-      "question": "‎เชี่ย คิดเหมือนกูเลยว่ะ"
-    },
-    {
-      "answer": "I'm fucking jealous of Ice. Stranded and he's the only one getting action.",
-      "question": "‎อิจฉาไอ้ไอซ์ฉิบหาย ‎ติดเกาะแบบนี้ แม่งได้ฟินอยู่คนเดียวเลยนะเว้ย"
-    },
-    {
-      "answer": "If I'd known, I would have invited more girls to the party.",
-      "question": "‎รู้อย่างนี้ กูชวนสาวๆ มาปาร์ตี้จันทรุปราคาก็ดีน่ะ"
-    },
-    {
-      "answer": "What's the medicine that May wants?",
-      "question": "‎เมย์ต้องการยาชื่ออะไรนะ"
-    },
-    {
-      "answer": "Cloxac, or something.",
-      "question": "‎โคแซค อะไรสักอย่างหนึ่งน่ะ"
-    },
-    {
-      "answer": "That's it!",
-      "question": "‎เออ โคแซค"
-    },
-    {
-      "answer": "How does May know all this?",
-      "question": "‎เมย์รู้จักยาพวกนี้ได้ยังไงน่ะ"
-    },
-    {
-      "answer": "Wait! Don't play dumb.",
-      "question": "‎เฮ้ย มึงอย่ามาเนียน"
-    },
-    {
-      "answer": "You didn't answer the other two.",
-      "question": "‎มึงยังไม่บอกกูเลย อีกสองคนที่เหลือ"
-    },
-    {
-      "answer": "Quick!",
-      "question": "‎[โจอี้] เร็ว"
-    },
-    {
-      "answer": "I will... kill Arisa.",
-      "question": "‎คง... ‎ฆ่าอริสา"
-    },
-    {
-      "answer": "And marry...",
-      "question": "‎แล้วก็แต่งงานกับ..."
-    },
-    {
-      "answer": "I knew it. You really like May.",
-      "question": "‎กูว่าแล้ว ว่ามึงต้องชอบเมย์จริงๆ"
-    },
-    {
-      "answer": "Hey, it's just a game, isn't it?",
-      "question": "‎เฮ้ย มันก็แค่เกมไม่ใช่เหรอ"
-    },
-    {
-      "answer": "Yes, it's just a game. So, why are you blushing?",
-      "question": "‎ก็ใช่ไง ก็แค่เกมไง แค่เกมแล้วมึงเขินทำไม"
-    },
-    {
-      "answer": "I am not!",
-      "question": "‎ไม่ได้เขิน"
-    },
-    {
-      "answer": "I won't tell anyone that you like May.",
-      "question": "‎กูไม่บอกใครหรอก ว่ามึงชอบเมย์"
-    },
-    {
-      "answer": "Don't.",
-      "question": "‎เฮ้ย"
-    },
-    {
-      "answer": "Kraam, take a look at this!",
-      "question": "‎[โจอี้] เชี่ยคราม มาดูนี่สิ"
-    },
-    {
-      "answer": "Is the doctor in?",
-      "question": "‎คุณหมออยู่ไหมครับ"
-    },
-    {
-      "answer": "How's Jack?",
-      "question": "‎[อนันต์] แจ็คเป็นไงบ้าง"
-    },
-    {
-      "answer": "Not any better.",
-      "question": "‎แจ็คไม่ดีขึ้นเลยน่ะ"
-    },
-    {
-      "answer": "You're doing a good job.",
-      "question": "‎เมย์ทำดีแล้วแหละ"
-    },
-    {
-      "answer": "May...",
-      "question": "‎[อนันต์] เมย์"
-    },
-    {
-      "answer": "We haven't spent much time together.",
-      "question": "‎เราไม่ได้อยู่ด้วยกันมานานแล้วนะ"
-    },
-    {
-      "answer": "I really miss you.",
-      "question": "‎เราคิดถึงเมย์มากเลยล่ะ"
-    },
-    {
-      "answer": "Anan, this isn't the time.",
-      "question": "‎อนันต์ มันใช่เวลาไหมเนี่ย"
-    },
-    {
-      "answer": "What do I have to do to get more time with you?",
-      "question": "‎เราต้องทำยังไงล่ะถึงจะได้อยู่กับเมย์"
-    },
-    {
-      "answer": "Don't you remember who you should really be taking care of?",
-      "question": "‎เมย์ต้องอย่าลืมสิ ‎ว่าคนที่เมย์ควรจะดูแลที่สุดตอนนี้คือใคร"
-    },
-    {
-      "answer": "Unless... you're cheating on me with Jack?",
-      "question": "‎หรือว่า เมย์เป็นชู้กับแจ็ค"
-    },
-    {
-      "answer": "Anan.",
-      "question": "‎อนันต์"
-    },
-    {
-      "answer": "There's a smile.",
-      "question": "‎ยิ้มออกแล้ว"
-    },
-    {
-      "answer": "Hey, I've got something for you.",
-      "question": "‎เธอ เรามีอะไรจะให้"
-    },
-    {
-      "answer": "No, thanks.",
-      "question": "‎ไม่เอาล่ะ"
-    },
-    {
-      "answer": "Ant, don't play around.",
-      "question": "‎ไอ้แอ๊นท์ มึงเดินดีๆ"
-    },
-    {
-      "answer": "Holy shit.",
-      "question": "‎[โจอี้] เชี่ย"
-    },
-    {
-      "answer": "I've searched this area for signals so many times...",
-      "question": "‎กูมาเดินหาสัญญาณผ่านมาแถวนี้ตั้งหลายรอบ"
-    },
-    {
-      "answer": "But I never noticed this boat.",
-      "question": "‎ไม่เคยสังเกตเห็นเรือลำนี้เลยว่ะ"
-    },
-    {
-      "answer": "If we can get it down,",
-      "question": "‎ถ้าเรา ช่วยกันเอาลงมา"
-    },
-    {
-      "answer": "we could use it to find help.",
-      "question": "‎แล้วออกไปหาคนช่วย"
-    },
-    {
-      "answer": "It would be better than waiting around like this.",
-      "question": "‎กูว่า แม่งน่าจะดีกว่านั่งอยู่เฉยๆ แบบนี้"
-    },
-    {
-      "answer": "What about finding a signal?",
-      "question": "‎แล้ว ไอ้เรื่องหาสัญญาณล่ะ"
-    },
-    {
-      "answer": "Signal...",
-      "question": "‎สัญญาณ..."
-    },
-    {
-      "answer": "There is none.",
-      "question": "‎กูว่าคงไม่มีหรอก"
-    },
-    {
-      "answer": "I don't think we're going to find one, but I haven't told anyone.",
-      "question": "‎[โจอี้] กูรู้ตั้งแต่แรกแล้ว แต่ไม่ได้บอกใค‎ร"
-    },
-    {
-      "answer": "This boat is our last hope.",
-      "question": "‎เรือนี่แม่งน่าจะเป็น ‎ความหวังสุดท้ายของพวกเราแล้ว"
-    },
-    {
-      "answer": "You know more about boats. Can we fix it?",
-      "question": "‎มึงรู้เรื่องเรือนี่ ซ่อมได้ใช่หรือเปล่า"
-    },
-    {
-      "answer": "It has a hole in the hull.",
-      "question": "‎มีรอยรั่ว"
-    },
-    {
-      "answer": "I'm not sure if it can be fixed.",
-      "question": "‎[คราม] ไม่แน่ใจเหมือนกันว่าจะซ่อมได้แค่ไหน"
-    },
-    {
-      "answer": "It's okay. Let's take a closer look.",
-      "question": "‎ไม่เป็นไร เดี๋ยวกู ขึ้นไปดูก่อน"
-    },
-    {
-      "answer": "Joey!",
-      "question": "‎เฮ้ย โจอี้"
-    },
-    {
-      "answer": "Joey!",
-      "question": "‎โจอี้"
-    },
-    {
-      "answer": "Joey! Are you okay?",
-      "question": "‎โจอี้ เฮ้ย โจอี้เป็นไงบ้าง"
-    },
-    {
-      "answer": "May!",
-      "question": "‎- [น้ำ] เมย์ ‎- [เสียงเปิดประตู]"
-    },
-    {
-      "answer": "Joey needs help.",
-      "question": "‎โจอี้เป็นอะไรก็ไม่รู้"
-    },
-    {
-      "answer": "What happened? He fell from a cliff and can't breathe.",
-      "question": "‎- [เมย์] โจอี้เป็นอะไรน่ะ ‎- ตกหน้าผามา แล้วมันหายใจไม่ออก"
-    },
-    {
-      "answer": "Get him to the bed.",
-      "question": "‎เอาโจอี้ไปนอนที่เตียงก่อน"
-    },
-    {
-      "answer": "Sit down first.",
-      "question": "‎[คราม] นั่งก่อนๆ"
-    },
-    {
-      "answer": "Help me lift his legs.",
-      "question": "‎[คราม] ช่วยเอาขาขึ้นหน่อย"
-    },
-    {
-      "answer": "-Where does it hurt? -My ribs...",
-      "question": "‎- โจอี้เจ็บตรงไหน ‎- ซี่โครง"
-    },
-    {
-      "answer": "Just try to relax.",
-      "question": "‎[คราม] นอนไปๆ"
-    },
-    {
-      "answer": "Okay?",
-      "question": "‎[เมย์หายใจถี่]"
-    },
-    {
-      "answer": "-May? -I can't hear his left lung.",
-      "question": "‎- เมย์ ‎- ทำไมไม่ได้ยิน เสียงปอดข้างซ้ายเลยล่ะ"
-    },
-    {
-      "answer": "May! What do we do?",
-      "question": "‎เมย์ เป็นไงบ้าง"
-    },
-    {
-      "answer": "I don't know. I really don't.",
-      "question": "‎ไม่รู้ๆ ไม่รู้จริงๆ"
-    },
-    {
-      "answer": "Hey, let's clear the room. May needs to focus.",
-      "question": "‎เฮ้ย ทุกคน ช่วยออกไปหน่อยได้ไหม ‎เมย์ต้องใช้สมาธิ"
-    },
-    {
-      "answer": "Let's leave.",
-      "question": "‎ออกไปก่อนนะ"
-    },
-    {
-      "answer": "May, you have to do something.",
-      "question": "‎[คราม] เมย์ รีบทำอะไรสักอย่างเถอะ"
-    },
-    {
-      "answer": "Broken ribs. Broken ribs. Blue lips.",
-      "question": "‎ซี่โครงหัก ปากม่วง"
-    },
-    {
-      "answer": "I think his lung collapsed.",
-      "question": "‎ฉันว่า ฉันว่าปอดฉีกน่ะ"
-    },
-    {
-      "answer": "Collapsed? So what do we do?",
-      "question": "‎ปอดฉีกเลยเหรอ ทำยังไงล่ะ"
-    },
-    {
-      "answer": "\"Insert a large needle in the chest cavity to release air from the lungs.\"",
-      "question": "‎ต้องใช้เข็มเบอร์สิบสี่เจาะลงไปที่ซี่โครงซี่ที่สอง ‎เพื่อระบายลมออกจากปอด"
-    },
-    {
-      "answer": "Is he still breathing?",
-      "question": "‎ตอนนี้โจอี้หายใจอยู่หรือเปล่า"
-    },
-    {
-      "answer": "He is.",
-      "question": "‎[คราม] หายใจอยู่"
-    },
-    {
-      "answer": "Okay. Wait a sec!",
-      "question": "‎แป๊บหนึ่งนะ"
-    },
-    {
-      "answer": "You're gonna be okay.",
-      "question": "‎อดทนหน่อยนะ อีกแป๊บเดียวๆ"
-    },
-    {
-      "answer": "-Kraam... -What is it?",
-      "question": "‎- [เสียงแผ่ว] คราม ‎- ว่าไง"
-    },
-    {
-      "answer": "I'd marry her, too.",
-      "question": "‎กูก็อยากแต่งงานกับเขาเหมือนกันว่ะ"
-    },
-    {
-      "answer": "May, what are you doing?",
-      "question": "‎เมย์ นั่นอะไรน่ะ"
-    },
-    {
-      "answer": "I have to puncture his lung!",
-      "question": "‎โจอี้ปอดรั่ว ฉันต้องเจาะปอดเขา"
-    },
-    {
-      "answer": "Do you know how?",
-      "question": "‎แล้ว เมย์เจาะเป็นเหรอ"
-    },
-    {
-      "answer": "I think I can do this!",
-      "question": "‎ฉันคิดว่าฉันทำได้"
-    },
-    {
-      "answer": "Hang in there, okay?",
-      "question": "‎อดทนนิดนึงนะ"
-    },
-    {
-      "answer": "Okay.",
-      "question": "‎โอเค"
-    },
-    {
-      "answer": "What, Joey?",
-      "question": "‎ว่าไงโจอี้"
-    },
-    {
-      "answer": "It's fine.",
-      "question": "‎[โจอี้] ไม่เป็นไร"
-    },
-    {
-      "answer": "Joey...",
-      "question": "‎[เมย์] โจอี้"
-    },
-    {
-      "answer": "Joey, I'm so sorry...",
-      "question": "‎โจอี้ เราขอโทษ"
-    },
-    {
-      "answer": "If I'd grabbed his hand in time,",
-      "question": "‎[คราม] ถ้าตอนนั้น ‎เราหันไปคว้ามือโจอี้ไว้ได้ทัน"
-    },
-    {
-      "answer": "he wouldn't have fallen so hard...",
-      "question": "‎เขาก็คงไม่เจ็บหนักขนาดนี้"
-    },
-    {
-      "answer": "and he wouldn't have...",
-      "question": "‎แล้วเขาก็คงไม่..."
-    },
-    {
-      "answer": "We're not going to be rescued, are we?",
-      "question": "‎ตกลงจะมีคนมาช่วยพวกเราไหม"
-    },
-    {
-      "answer": "-How would I know? -You must.",
-      "question": "‎- กูจะรู้ได้ยังไง ‎- นายต้องรู้สิ"
-    },
-    {
-      "answer": "Joey told me he didn't think we'd ever find a signal. After the funeral...",
-      "question": "‎[คราม] โจอี้บอกเรา ‎เรื่องหาสัญญาณโทรศัพท์หมดแล้วนะ ‎หลังจากงานศพ"
-    },
-    {
-      "answer": "I will tell everyone.",
-      "question": "‎เราจะบอกเรื่องนี้กับทุกคน"
-    },
-    {
-      "answer": "I want us to bring down the boat.",
-      "question": "‎เราจะชวนทุกคนเนี่ยเอาเรือลงมาจากหน้าผา"
-    },
-    {
-      "answer": "To find help.",
-      "question": "‎[คราม] ออกไปหาความช่วยเหลือ"
-    },
-    {
-      "answer": "Are you crazy?",
-      "question": "‎นี่มึงจะบ้าเหรอไอ้คราม"
-    },
-    {
-      "answer": "The nearest coast is nearly 100 kilometers away.",
-      "question": "‎ชายฝั่งที่ใกล้ที่สุดเนี่ย มันห่างจากเกาะเรา ‎เกือบร้อยกิโลเลยนะเว้ย"
-    },
-    {
-      "answer": "But I can't let Joey die in vain.",
-      "question": "‎แต่ยังไงเราก็จะไม่ยอมให้การตายของโจอี้ ‎ต้องสูญเปล่า"
-    },
-    {
-      "answer": "I disagree.",
-      "question": "‎กูไม่เห็นด้วย"
-    },
-    {
-      "answer": "I can't put anyone at risk.",
-      "question": "‎กูไม่อยากให้ใครต้องออกไปเสี่ยง"
-    },
-    {
-      "answer": "No one is coming to save us.",
-      "question": "‎[อนันต์] จนถึงตอนนี้ ‎คงไม่มีใครมาช่วยพวกเราแล้วทั้งนั้น"
-    },
-    {
-      "answer": "Our hopes... have died with Joey today.",
-      "question": "‎ความหวังที่พวกเราเคยมี ‎มันได้ตายไปพร้อมโจอี้แล้ววันนี้"
-    },
-    {
-      "answer": "But luck is with us.",
-      "question": "‎แต่พวกเรายังโชคดี"
-    },
-    {
-      "answer": "There is a boat stuck on a cliff.",
-      "question": "‎ที่มีเรืออยู่ลำหนึ่งไปติดอยู่ตรงหน้าผา"
-    },
-    {
-      "answer": "We must bring this boat down. So we can use it",
-      "question": "‎สิ่งที่พวกเราทุกคนต้องทำ คือช่วยกัน ‎เอาเรือลำนั้นลงมา เพื่อที่จะใช้เรือลำนี้"
-    },
-    {
-      "answer": "to go out and find help.",
-      "question": "‎ออกไปตามหาคนมาช่วยเหลือเรากันเอง"
-    },
-    {
-      "answer": "We must cooperate.",
-      "question": "‎พวกเราทุกคนต้องช่วยกันทำมัน"
-    },
-    {
-      "answer": "Work together and trust each other.",
-      "question": "‎ทำมันไปด้วยกัน เชื่อใจกัน"
-    },
-    {
-      "answer": "That's how we will survive.",
-      "question": "‎เราก็จะสามารถผ่านมันไปได้"
-    },
-    {
-      "answer": "We will find a way off this island with our own hands!",
-      "question": "‎พวกเราจะต้องมีชีวิตรอดออกไปจากที่นี่ ‎ด้วยตัวของพวกเราเอง"
-    },
-    {
-      "answer": "We will survive!",
-      "question": "‎พวกเราต้องรอดเว้ย"
-    },
-    {
-      "answer": "We will survive! We will survive!",
-      "question": "‎[ทุกคนส่งเสียงฮึกเหิม]"
-    },
-    {
-      "answer": "I am stopping the search for a signal.",
-      "question": "‎[อนันต์] เราจะยกเลิกการค้นหา ‎สัญญาณโทรศัพท์แล้ว"
-    },
-    {
-      "answer": "There is still some power left on your phones.",
-      "question": "‎แบตฯ โทรศัพท์ของทุกคนน่ะยังพอมีเหลืออยู่บ้าง"
-    },
-    {
-      "answer": "Feel free to use them for the last time.",
-      "question": "‎ถ้าใครอยากจะทำอะไรกับมันเป็นครั้งสุดท้าย"
-    },
-    {
-      "answer": "It's up to you.",
-      "question": "‎ก็แล้วแต่เลย"
-    },
-    {
-      "answer": "Surprise!",
-      "question": "‎เซอร์ไพรส์"
-    },
-    {
-      "answer": "I wish you happiness and joy.",
-      "question": "‎ก็อยากจะบอกว่าขอให้แจ็คมีความสุขมากๆ นะ"
-    },
-    {
-      "answer": "When will the loneliness be gone?",
-      "question": "‎♪ ความเดียวดายเมื่อไหร่จะหาย♪"
-    },
-    {
-      "answer": "When will tomorrow have meaning?",
-      "question": "‎♪ เมื่อไหร่พรุ่งนี้จะมีความหมาย♪"
-    },
-    {
-      "answer": "On this empty path How much further to the end?",
-      "question": "‎♪ บนทางที่ว่างเปล่า ‎อีกไกลแค่ไหนถึงจุดหมาย♪"
-    },
-    {
-      "answer": "Loneliness still hurts",
-      "question": "‎♪ ความเดียวดายยังคอยทำร้าย♪"
-    },
-    {
-      "answer": "Will tomorrow be the last day?",
-      "question": "‎♪ หวังเพียงพรุ่งนี้เป็นวันสุดท้าย♪"
-    },
-    {
-      "answer": "Will someone ever come",
-      "question": "‎♪ มีไหมสักคนหนึ่ง เข้ามาเปลี่ยน♪"
-    },
-    {
-      "answer": "To end our solitary lives?",
-      "question": "‎♪ ชีวิตเดี่ยวให้หายไป♪"
-    },
-    {
-      "answer": "Will someone ever come",
-      "question": "‎♪ มีไหมสักคนหนึ่ง เข้ามาเปลี่ยน♪"
-    },
-    {
-      "answer": "To end our solitary lives?",
-      "question": "‎♪ ชีวิตเดี่ยวให้หายไป ♪"
-    },
-    {
-      "answer": "Group photo, everyone!",
-      "question": "‎ทุกคน ถ่ายรูปรวมกันหน่อยเร็ว มาๆ"
-    },
-    {
-      "answer": "-Whose phone still has power? -Mine!",
-      "question": "‎- [แอ๊นท์] มือถือใครมีแบตฯ บ้าง ‎- [ผู้ชาย] แบตฯ เรายังเหลืออยู่"
-    },
-    {
-      "answer": "Ant, put the phone there.",
-      "question": "‎[อนันต์] เฮ้ย แอ๊นท์ มึงเอามือถือ ‎ไปวางถ่ายตรงนั้นสิ จะได้ถ่ายครบๆ"
-    },
-    {
-      "answer": "Set the timer.",
-      "question": "‎[แอ๊นท์] ตั้งเวลาสิบวิ กดเลยๆ"
-    },
-    {
-      "answer": "Okay, nine,",
-      "question": "‎โอเค ไปๆ เก้า"
-    },
-    {
-      "answer": "eight, seven, six, five...",
-      "question": "‎แปด เจ็ด หก ห้า..."
-    },
-    {
-      "answer": "Hello? Kraam.",
-      "question": "‎[ข้อความเสียงจากพ่อของคราม] ฮัลโหล คราม"
-    },
-    {
-      "answer": "Can you hear me, son?",
-      "question": "‎ได้ยินไหมลูก"
-    },
-    {
-      "answer": "I couldn't reach you,",
-      "question": "‎พ่อโทรหาแกไม่ติด"
-    },
-    {
-      "answer": "so I'm leaving this voice message instead.",
-      "question": "‎เลยส่งข้อความเสียงมาดู"
-    },
-    {
-      "answer": "Tomorrow, you are leaving this island",
-      "question": "‎ตอนเช้า แกจะไปจากเกาะนี้แล้ว"
-    },
-    {
-      "answer": "for a better future. I wish you the best of luck.",
-      "question": "‎ไปมีอนาคตที่ดี ‎ก็ขอให้โชคดีนะลูก"
-    },
-    {
-      "answer": "If you have time tonight, I'd like to see you.",
-      "question": "‎แต่ถ้ามีเวลาคืนนี้พ่ออยากเจอแก"
-    },
-    {
-      "answer": "I have something important to tell you.",
-      "question": "‎พ่อมีเรื่องสำคัญจะคุยกับแกด้วย"
-    },
-    {
-      "answer": "It's about... who you are and where you're from.",
-      "question": "‎เรื่อง... ที่ว่าแกเป็นใคร มาจากไหน"
-    },
-    {
-      "answer": "The truth is... you're the...",
-      "question": "‎พ่อ พ่อจะบอกว่า ลูก..."
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- ถ่ายรูปกันดีกว่า ชิดๆ ‎- [ผู้หญิง] เร็ว",
+      "answer": "Group photo!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มาเร็วๆ",
+      "answer": "Us, too!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- เอาเลย ‎- เดี๋ยวๆ กล้องกูๆ",
+      "answer": "Us, too! Don't block me!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทษทีว่ะ",
+      "answer": "Sorry."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เอาไว้กูกลับมาเมื่อไหร่ ‎เดี๋ยวไปแดกข้าวที่ร้านนะ",
+      "answer": "If I'm ever back, I'll grab a bite where you work."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เดี๋ยวเราไปกรุงเทพฯ แล้ว",
+      "answer": "I'll be in Bangkok."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เอาว่ะ ชาวเกาะจะไปเป็นชาวกรุงแล้วเว้ย",
+      "answer": "Whoa, island boy is going to the city!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] ไปทำงานเหรอ",
+      "answer": "For work?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไปเรียน",
+      "answer": "For school."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎จริงสิ นี่มึงได้ทุนอีกแล้วเหรอวะ",
+      "answer": "No way. You got a scholarship again?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] โชคดีจังเนอะ",
+      "answer": "Lucky you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- ถ้านายสอบได้... ‎- [อนันต์] เมย์",
+      "answer": "-I aced the exam. -Hey, May!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อ้าว อนันต์",
+      "answer": "Oh, Anan."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมื่อกี้บอกว่าอยู่ข้างบนไม่ใช่เหรอ",
+      "answer": "I thought you were upstairs."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เพิ่งลงมา แล้วชุดครุยเมย์ล่ะ",
+      "answer": "I came down. Where's your graduation robe?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] อ๋อ ถอดไปเก็บแล้ว มันร้อนน่ะ",
+      "answer": "I took it off."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่ต้องไปสนใจมันหรอก ‎เดี๋ยวพรุ่งนี้ก็ต่างคนต่างไปแล้ว",
+      "answer": "Just ignore him. Tomorrow, we all go our different ways."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เออ แล้วคืนนี้มึงไปปาร์ตี้ ‎จันทรุปราคาหรือเปล่านี่",
+      "answer": "Will you be at the Lunar Eclipse party tonight?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คืนนี้ทุกคนต้องออกจากเกาะ ‎ก่อนหกโมงไม่ใช่เหรอ",
+      "answer": "Everyone has to leave the island by 6 p.m."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็ใช่ แต่กูน่ะให้พ่อกูช่วยคุยกับผอ. ให้แล้ว",
+      "answer": "Right, but I asked my dad to pull some strings."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คืนนี้ ทั้งเกาะจะเป็นของเรา เจ๋งหรือเปล่า",
+      "answer": "Tonight, the island is ours. Cool, huh?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่คืนนี้เราต้องทำงานที่ร้านอาหารว่ะ",
+      "answer": "But I have to work at the restaurant."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูปาร์ตี้ยันเช้าอยู่แล้ว ตามมาแล้วกัน",
+      "answer": "We're gonna party until dawn. Come after work."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เจอกัน",
+      "answer": "See you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตอนเช้า เอ็งจะไปจริงๆ ใช่ไหม",
+      "answer": "Are you really going to leave tomorrow?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อ",
+      "answer": "Dad..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อรู้ พ่อรู้ พ่อรู้ว่าสักวันหนึ่งแกต้องไป",
+      "answer": "I know, I know... I knew this day would come."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่พ่อไม่คิดว่ามันจะเร็วไปสักนิด",
+      "answer": "But it came sooner than I expected."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อ",
+      "answer": "Dad..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- อะไรน่ะพ่อ ‎- ลองเปิดดูสิ",
+      "answer": "-What is it? -Open it."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อไปเอามีดเล่มนี้มาจากไหน",
+      "answer": "Where did you get this dagger?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันเป็น... ของพ่อแท้ๆ ของแก",
+      "answer": "It... belonged to your real father."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ที่เขาฝากไว้ให้",
+      "answer": "He left it for you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไหน...",
+      "answer": "But..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไหนพ่อบอกว่า พ่อไม่รู้จักพ่อแท้ๆ ของผม",
+      "answer": "But you told me that you never met him."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่แกไม่ได้ฟังข้อความเสียง ที่พ่อฝากไปใช่ไหม",
+      "answer": "You didn't listen to the voicemail that I left?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พวกเรา พระจันทร์มาแล้ว",
+      "answer": "The eclipse is here!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คราม ขึ้นรถเร็ว",
+      "answer": "Kraam! Get in the car!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อ ตื่นก่อนพ่อ",
+      "answer": "Dad! Wake up!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ครามตะโกน]",
+      "answer": "Dad!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตอนนี้เหลือแค่พวกเราบนโลกแล้วหรือไงวะ",
+      "answer": "Are we the only ones left in this world?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[จุ๋มจิ๋ม] ทำไมป่านนี้ยังไม่มีใคร ‎มาช่วยเหลือพวกเราเลยล่ะ",
+      "answer": "How come we haven't been rescued?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่เราจะบ้าตายอยู่แล้วนะ",
+      "answer": "It's driving me mad."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- แล้วทำไมทุกคนยังดูโอเคกันหมดเลยล่ะ ‎- [คราม] ทุกคนไม่ได้โอเคหรอก",
+      "answer": "-How come everyone seems okay? -No one is okay about it."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทุกคนกลัว",
+      "answer": "We're all scared."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราเองก็กลัว",
+      "answer": "I'm scared, too."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่ว่าเธอไม่ได้อยู่ที่นี่คนเดียวนะ",
+      "answer": "But you're not alone."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คราม เรามีอะไรจะถามเธอหน่อย",
+      "answer": "Kraam... I have something to ask you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตอนนั้นน่ะเธอรอดมาจากสึนามิได้ยังไงวะ",
+      "answer": "How did you survive the tsunami?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่รู้สิ",
+      "answer": "I'm not sure."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อริสา",
+      "answer": "Arisa!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เจอสัญญาณไหม",
+      "answer": "Find any signal?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราว่าคงต้องบอกคนอื่นแล้วแหละ ‎ว่าที่ทำอยู่มันเสียเวลาเปล่า",
+      "answer": "We should tell everyone that this is useless."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่นี่เรายังไม่รู้เลยนะ ‎ว่าบนฝั่งเสียหายมากแค่ไหนน่ะ",
+      "answer": "We don't know the extent of damage to the mainland."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือบางทีเขาอาจจะกำลัง ‎กู้ระบบให้กลับมาใช้งานได้ก็ได้",
+      "answer": "They might be trying to bring the network back online."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้มีอะไรจะพูดหน่อยไหม",
+      "answer": "Joey? Can you say something?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เรื่องอะไร",
+      "answer": "What?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือทุกคนเคารพการตัดสินใจของมึงนะโว้ย",
+      "answer": "We all agreed to your plan."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่มึงต้องยอมรับได้แล้วว่ะ",
+      "answer": "But it's time to admit..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ยอมรับว่า",
+      "answer": "Admit what?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ยอมรับว่าที่เราทำอยู่น่ะ มันไม่เวิร์ค",
+      "answer": "Admit that your plan hasn't worked."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วทุกคนก็เริ่มไม่พอใจแล้วด้วย ‎ที่เรายึดโทรศัพท์มา",
+      "answer": "Everyone is pissed that we confiscated their phones."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่พวกมันก็เต็มใจให้เรามาเองไม่ใช่เหรอ",
+      "answer": "But they agreed to this."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันก็ใช่แต่นั่นมันเพิ่งตอนที่เกิดสึนามิใหม่ๆ",
+      "answer": "Right. But that was just after the tsunami."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทุกคนมันก็เลยช็อกอยู่",
+      "answer": "We were all in shock."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่การที่เราคืนโทรศัพท์ทุกคนไป ‎มันเท่ากับว่าเราทิ้งความหวัง",
+      "answer": "But by returning their phones, we throw away any hope"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ที่จะมีใครสักคนมาช่วยพวกเรานะ",
+      "answer": "of being rescued."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าเขาจะมา เขามานานแล้ว",
+      "answer": "If anyone is coming, they would've come by now."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] แล้วมีปวดเมื่อยตัวบ้างไหม",
+      "answer": "Does your body ache?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ช่วงนี้ก็มีปวดเมื่อยบ้าง",
+      "answer": "A little."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎สามสิบแปดจุดสาม",
+      "answer": "38.3 degrees."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วช่วงนี้ยังเจ็บแผลที่ขาอยู่หรือเปล่าล่ะ",
+      "answer": "How is your leg?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็โอเคขึ้นนะ",
+      "answer": "It feels better."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่ค่อยเจ็บเหมือนวันแรกๆ น่ะ",
+      "answer": "It doesn't hurt as much."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] ขอดูหน่อยนะ",
+      "answer": "Let's take a look."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราอยากให้แจ็คนอนพักที่นี่ก่อนน่ะ",
+      "answer": "I want you to stay here."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราจะได้ทำแผลให้แล้วก็",
+      "answer": "So I can treat your wound"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ระวังเรื่องแผลโดนน้ำให้ด้วยน่ะ",
+      "answer": "and make sure it doesn't get wet."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[แจน] ไม่ต้องห่วงเรื่องแผลโดนน้ำหรอก",
+      "answer": "Don't worry about that."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เพราะว่ากฤษน่ะคอยเช็ดตัวให้แจ็คทุกวัน",
+      "answer": "Krit cleans Jack by hand every day."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎น้องเรานี่นะ โชคดีจริงๆ เลยที่ได้กฤษเป็นแฟน",
+      "answer": "My brother is lucky Krit is his boyfriend."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] งั้นเดี๋ยวเราจัดยาลดไข้ไว้ให้แล้วกันนะ",
+      "answer": "I will give you something for the fever."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์นี่เก่งนะ",
+      "answer": "You're amazing, May."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่หรอก เราแค่รู้เรื่องยานิดหน่อยเอง",
+      "answer": "I'm not. I just learned a few things from my dad."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่ในเวลาแบบนี้ รู้แค่นี้ก็สำคัญมากแล้วนะ",
+      "answer": "With the way things are we're lucky to have you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าไม่มีเมย์น่ะ พวกเราทุกคนคงแย่แน่",
+      "answer": "Without you, we wouldn't survive."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต๊งกิ้วนะ",
+      "answer": "Thank you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[แจน] อือ",
+      "answer": "Thanks, Jan."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] โจอี้",
+      "answer": "Joey!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือ ตอนนี้แจ็คอาการไม่ดีเลยน่ะ",
+      "answer": "I'm worred about Jack."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แผลมันเริ่มติดเชื้อแล้วด้วย",
+      "answer": "His wound is infected."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] เราล้างแผลเฉยๆ น่าจะเอาไม่อยู่น่ะ",
+      "answer": "Just disinfecting it isn't enough."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันต้องกินยาฆ่าเชื้อเพิ่ม",
+      "answer": "He needs antibiotics."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เธอพอจะรู้ไหมว่าจะหายาเพิ่มได้จากไหนอีกน่ะ",
+      "answer": "Any idea where we might find some?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] งั้น เดี๋ยวเราลองชวนครามไปหาดูให้นะ",
+      "answer": "Kraam might know. I'll ask him."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วของผมไม่มีข้อมูลอะไรเลยเหรอ",
+      "answer": "Nothing on me?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็เธอไม่เคยป่วย จะมีได้ยังไง",
+      "answer": "You haven't been sick. Why would there be?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ดูเครียดๆ นะ มีอะไรให้ช่วยหรือเปล่า",
+      "answer": "You look stressed? Can I help?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็ ไม่ได้เครียดนะ",
+      "answer": "I'm fine."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไปแล้ว",
+      "answer": "Gotta go."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทุกคน ฟังเราหน่อยนะ",
+      "answer": "Everyone, listen up!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] เรามีเรื่องสำคัญจะคุยด้วย",
+      "answer": "I have something important to say."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือวันนี้เราไปหาสัญญาณมาทั่วทั้งเกาะแล้วน่ะ",
+      "answer": "We've searched for a signal everywhere."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วมันก็ยังไม่เจอสัญญาณเหมือนเดิม",
+      "answer": "And while we haven't found one yet..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย ทุกคนดูสิ พวกเราเจออะไรด้วยล่ะ",
+      "answer": "Hey! Look at what we've found!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันต้องเป็นเครื่องเล่นเกมยุคโบราณแน่เลย",
+      "answer": "It must be a retro video game!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือพรุ่งนี้...",
+      "answer": "Tomorrow we..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เล่นยังไงวะ",
+      "answer": "How do we play it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎หลบสิ",
+      "answer": "Out of my way."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เครื่องเล่นเกมใช่หรือเปล่า",
+      "answer": "Is it a video game?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อริสา] เครื่องเล่นเกมบ้าอะไรล่ะ",
+      "answer": "You idiot!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่มันเครื่องเล่นเทปรีล",
+      "answer": "This is a tape player!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วเธอรู้จักมันได้ยังไง",
+      "answer": "How do you know?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ฉลาด",
+      "answer": "Because I'm smart."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อริสา] มันเป็นเครื่องเล่นเทปสมัยโบราณน่ะ",
+      "answer": "It's a vintage tape player."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มีตั้งแต่ยุคสมัยสงครามโลกแล้ว",
+      "answer": "From the 1930s or '40s."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อย่างนี้มันก็เปิดเพลงฟังได้สิวะ",
+      "answer": "So, it can play music?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เออ เปิดเพลง เปิดเพลงได้หรือเปล่า",
+      "answer": "Cool! Can it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ไอซ์] พวกมึงอยากฟังเพลงใช่หรือเปล่า",
+      "answer": "You guys want music?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่ไง",
+      "answer": "There."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทรศัพท์ที่โดนยึดไปน่ะ ไปเอาคืนมาสิ",
+      "answer": "Our confiscated phones... Let's get them back."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงเอาไปตั้งนานแล้ว ‎ไม่ได้เหี้ยอะไรกลับมาเลยเนี่ย",
+      "answer": "You haven't found jack shit."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงเอาคืนมาเถอะ",
+      "answer": "Just give them back."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เนย] นั่นสิ นี่ยังหาสัญญาณไม่เจอเลยใช่มั้ย",
+      "answer": "Just give them back. You haven't found a signal?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เค] จริงด้วย จะยึดโทรศัพท์เราไปทำไมก็ไม่รู้ ‎[ผู้ชายคนที่สอง] แบตฯ กูหมดแล้วมั้ง",
+      "answer": "-Right! Then why keep our phones? -My battery is probably dead by now."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทษทีนะ",
+      "answer": "Listen."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่การค้นหาสัญญาณโทรศัพท์เนี่ย",
+      "answer": "Searching for a signal"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันเป็นวิธีเดียวที่จะทำให้คนนอกเกาะ ‎รู้ว่าพวกเรายังมีชีวิตอยู่",
+      "answer": "is the only way to tell people that we're alive."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] จะได้ส่งคนมาช่วยไง ‎เพราะงั้นเนี่ย กูจะไม่ยอมยกเลิก",
+      "answer": "And be rescued. So, I won't give up"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เพื่อให้มึงผลาญแบตฯ โทรศัพท์ที่เหลือ ‎ไปกับการฟังเพลงเหี้ยๆ นั่นหรอก",
+      "answer": "and let you waste the battery on some shitty songs."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงพล่ามเก่งเนอะ ‎มึงช่วยทำอะไรที่มันเก่ง ‎เหมือนปากมึงได้หรือเปล่าวะ",
+      "answer": "You're full of it. Stop talking shit."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทรศัพท์เอาไปกี่วันแล้วได้เหี้ยอะไรมาบ้าง",
+      "answer": "What the fuck have you found with our phones?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงเอาคืนมาเถอะ พวกกูต้องใช้ใช่หรือเปล่า",
+      "answer": "Give them back! We need our phones!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ผู้ชายคนที่สาม] กูอยากฟังเพลงเหมือนกันน่ะ",
+      "answer": "You borrowed all our phones,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ผู้หญิง] มายืมโทรศัพท์พวกเราไป ‎บอกว่าทยอยใช้ทีละเครื่องเพื่อเซฟแบตฯ",
+      "answer": "You borrowed all our phones, said you'd use them one at a time to save the battery."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทุกคนๆ",
+      "answer": "Everybody!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] ใจเย็นๆ ก่อน",
+      "answer": "Calm down!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เรารู้ว่าทุกคนกำลังไม่พอใจ",
+      "answer": "I know you're upset."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราเองก็อยากได้โทรศัพท์คืนเหมือนกัน",
+      "answer": "I'd also like my phone back."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คิดถึงพ่อแม่ว่ะ",
+      "answer": "I miss my parents."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อยากเปิดรูปพวกเขาดูอีกครั้ง",
+      "answer": "I want to look at their photos again."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] แต่ลองคิดดูดีๆ นะ",
+      "answer": "Think about it, though."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าเราได้กลับไปเจอหน้าพวกเขา",
+      "answer": "If we could see them again,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ได้กลับไปกอดพวกเขา",
+      "answer": "hug them again,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ด้วยมือของพวกเราเองน่ะ",
+      "answer": "hold them in our arms,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันจะดีกว่าหรือเปล่า",
+      "answer": "wouldn't it be better?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เอาอย่างนี้ เราขอเวลาอีกแค่ห้าวัน",
+      "answer": "Look, give us five more days."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าครบเดือนหนึ่งแล้ว",
+      "answer": "It will have been a month."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ยังติดต่อใครไม่ได้หรือยังไม่มีสัญญาณอีก",
+      "answer": "If we can't call or find a signal,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราจะเป็นคนคืนมือถือให้ทุกคน",
+      "answer": "then I will return your phones."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ด้วยมือของเราเอง โอเคไหม",
+      "answer": "I promise. Okay?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ไอซ์] ก็ได้วะ",
+      "answer": "Fine. Five days isn't long."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ห้องตัวเองไม่มีเหรอ",
+      "answer": "This is my room!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อริสา] อยากทำมาก ‎ทำไมไม่กลับไปทำห้องตัวเองล่ะ",
+      "answer": "Go fuck in your own room."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทษทีน่ะ เราไม่รู้ว่าห้องนี้เป็นห้องเธอ",
+      "answer": "Sorry, we didn't know it's your room."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย จะขอโทษมันทำไมล่ะ",
+      "answer": "Don't apologize."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไอ้นี่มันเคยทำเรื่องแย่กว่านี้อีก",
+      "answer": "Not to this bitch."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ไอซ์] เอาอย่างนี้ดีกว่า",
+      "answer": "How about this?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูจะไม่ไปไหนทั้งนั้นน่ะ ‎จนกว่าจะเอาเสร็จ โอเคเปล่า",
+      "answer": "We're not leaving until we're done fucking. Okay?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าอยากดูมากก็ดูไป",
+      "answer": "You can watch if you'd like."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- [ไอซ์] กูไม่ว่าหรอกนะ ‎- [หญิง] ไปแกล้งเขา",
+      "answer": "I don't mind."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ได้ แต่เนี่ย หัวค้อนมันชอบหลุดบ่อยๆ นะ",
+      "answer": "Fine. But the hammer is loose."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อริสา] ถ้าบังเอิ๊นบังเอิญกระเด็น ‎ไปโดนหัวใครเข้า",
+      "answer": "If it happens to hit you on the head,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กลับไปให้เมย์เย็บแล้วกัน",
+      "answer": "you can let May stitch it up."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] มึงว่ายาที่บ้านผู้ใหญ่บ้าน ‎แม่งจะโดนสึนามิซัดไปหรือเปล่าวะ",
+      "answer": "Don't you think the Village Chief's house was swept away in the tsunami?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] คิดว่าไม่น่านะเพราะว่าบ้านแกอยู่ที่สูง",
+      "answer": "I don't think so. It's on the hill."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย มีดมึงเหรอวะ สวยดีว่ะ",
+      "answer": "Knife or dagger?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ขอดูหน่อยได้หรือเปล่า",
+      "answer": "Can I check it out?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ระวังนะ",
+      "answer": "Careful."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เหมือนของโบราณเลยว่ะ ใครให้มาวะ",
+      "answer": "Looks ancient. Where'd you get it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อน่ะ",
+      "answer": "My dad."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย เอาน่า อย่างน้อยมึงก็รู้นะเว้ย ‎ว่าเกิดอะไรขึ้นกับพ่อมึงน่ะ",
+      "answer": "Hey, sorry. At least you know what happened to him."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูกับคนอื่นๆ แม่งไม่รู้ด้วยซ้ำ ‎ว่าครอบครัวจะเป็นยังไงบ้าง",
+      "answer": "None of us have a clue how our families are."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ป่านนี้คนบนโลกแม่งอาจจะตายหมดแล้วก็ได้",
+      "answer": "Maybe everybody on earth is dead."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่ของที่พ่อมึงให้ โคตรคูลเลยว่ะ",
+      "answer": "This is a really cool gift."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แถมยังมีประโยชน์อีก",
+      "answer": "It's useful, too."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงรู้หรือเปล่า พ่อกูให้อะไรเป็นของขวัญวันเกิด",
+      "answer": "Know what my dad got me for my birthday?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- ให้อะไร ‎- พีเอสโฟร์ไง",
+      "answer": "-What? -A PS4."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วเป็นไงล่ะ สึนามิมาทีเรียบร้อย ไฟดับ",
+      "answer": "It's totally useless now, without power."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นอนคั่นประตูอยู่หน้าห้องกูน่ะ",
+      "answer": "Now I use it as a doorstop."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อริสา",
+      "answer": "Arisa!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อริสาจ๋า",
+      "answer": "Arisa, my dear."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[นัท] ฉันว่า เธอต้องใช้สิ่งนี้นะ",
+      "answer": "I think you might need this."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ปกมันเขียนว่า \"วิมานลอย\" น่ะ",
+      "answer": "It says \"Gone with the Wind.\""
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เป็นหนังใช่หรือเปล่า",
+      "answer": "Is this a movie?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มันจะเป็นหนังได้ยังไง นี่มันม้วนเทป ‎ไว้เล่นกับเครื่องเสียง",
+      "answer": "How can this be a movie? It's an audio tape reel."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เออ แล้วสรุป มันยังใช้ได้อยู่หรือเปล่า",
+      "answer": "So, does it still work?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โทษนะแก",
+      "answer": "Do you mind?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อะไรเหรอ",
+      "answer": "What?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แปรงฟันครั้งล่าสุดเมื่อไหร่วะ",
+      "answer": "When did you brush your teeth last?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ปากนี่แบบเหม็นมากเลยว่ะ",
+      "answer": "Your breath stinks."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เออ แล้วเธอจะทำอะไรกับมันได้บ้าง",
+      "answer": "How are you going to fix it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ปากแกนี่เหม็นกว่าเมียแกอีกนะ",
+      "answer": "Your breath stinks worse than your wife's."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่ อริสา",
+      "answer": "Hey, Arisa."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เธอนี่โคตรปากหมาเลย",
+      "answer": "You've got a nasty mouth."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คือมันเป็นโหมดหนึ่งในตัวฉัน ‎เอาไว้คุยกับพวกปัญญาอ่อน",
+      "answer": "It's my default reaction to morons."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็เพราะว่าเธอเป็นอย่างนี้ไง ‎คนเขาถึงเมาท์เธอกันน่ะ",
+      "answer": "This is why everyone talks shit about you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[นัท] ไม่สงสัยหรือไงว่าทำไมถึงมีคนเกลียดเธอ",
+      "answer": "Don't you wonder why everyone hates you?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คิดว่าฉันแคร์หรือเปล่าล่ะ",
+      "answer": "Like I care."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] นี่ถ้าพวกเขาอยู่บ้านในคืนที่เกิดสึนามิ ‎ก็คงไม่เหลือแค่พวกเราบนเกาะนี้หรอก",
+      "answer": "If they were at home that night, then we wouldn't be the only ones left."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ยาเพียบเลยว่ะ",
+      "answer": "Lots of medicine."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อะไรที่พอใช้ได้ มึงเอาไปให้หมดเลยนะ",
+      "answer": "Let's take as much as we can."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] พี่หญิง อริสา เมย์",
+      "answer": "Ying, Arisa, May."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงงงอะไรเนี่ย",
+      "answer": "Don't act confused."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ฟัค แมรี่ คิล ไง",
+      "answer": "Fuck-Marry-Kill."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เลือกมาว่าอยากจะมีอะไรกับใคร ‎แต่งงานกับใคร หรือว่าอยากจะฆ่าใคร",
+      "answer": "Choose who you want to fuck, marry, or kill."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงเลือกๆ มาเถอะ",
+      "answer": "Just choose!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูไม่บอกใครหรอก",
+      "answer": "I won't tell anyone."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โห งั้นคง",
+      "answer": "That's tough."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เลือกมีอะไรกับพี่หญิงมั้ง",
+      "answer": "I'd choose to have sex with Ying."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เห็นชอบแต่งตัวเซ็กซี่น่ะ",
+      "answer": "She's pretty sexy."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เชี่ย คิดเหมือนกูเลยว่ะ",
+      "answer": "Shit! I would, too."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อิจฉาไอ้ไอซ์ฉิบหาย ‎ติดเกาะแบบนี้ แม่งได้ฟินอยู่คนเดียวเลยนะเว้ย",
+      "answer": "I'm fucking jealous of Ice. Stranded and he's the only one getting action."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎รู้อย่างนี้ กูชวนสาวๆ มาปาร์ตี้จันทรุปราคาก็ดีน่ะ",
+      "answer": "If I'd known, I would have invited more girls to the party."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ต้องการยาชื่ออะไรนะ",
+      "answer": "What's the medicine that May wants?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โคแซค อะไรสักอย่างหนึ่งน่ะ",
+      "answer": "Cloxac, or something."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เออ โคแซค",
+      "answer": "That's it!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์รู้จักยาพวกนี้ได้ยังไงน่ะ",
+      "answer": "How does May know all this?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย มึงอย่ามาเนียน",
+      "answer": "Wait! Don't play dumb."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงยังไม่บอกกูเลย อีกสองคนที่เหลือ",
+      "answer": "You didn't answer the other two."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] เร็ว",
+      "answer": "Quick!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คง... ‎ฆ่าอริสา",
+      "answer": "I will... kill Arisa."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วก็แต่งงานกับ...",
+      "answer": "And marry..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูว่าแล้ว ว่ามึงต้องชอบเมย์จริงๆ",
+      "answer": "I knew it. You really like May."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย มันก็แค่เกมไม่ใช่เหรอ",
+      "answer": "Hey, it's just a game, isn't it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็ใช่ไง ก็แค่เกมไง แค่เกมแล้วมึงเขินทำไม",
+      "answer": "Yes, it's just a game. So, why are you blushing?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่ได้เขิน",
+      "answer": "I am not!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูไม่บอกใครหรอก ว่ามึงชอบเมย์",
+      "answer": "I won't tell anyone that you like May."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย",
+      "answer": "Don't."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] เชี่ยคราม มาดูนี่สิ",
+      "answer": "Kraam, take a look at this!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎คุณหมออยู่ไหมครับ",
+      "answer": "Is the doctor in?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] แจ็คเป็นไงบ้าง",
+      "answer": "How's Jack?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แจ็คไม่ดีขึ้นเลยน่ะ",
+      "answer": "Not any better."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ทำดีแล้วแหละ",
+      "answer": "You're doing a good job."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] เมย์",
+      "answer": "May..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราไม่ได้อยู่ด้วยกันมานานแล้วนะ",
+      "answer": "We haven't spent much time together."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราคิดถึงเมย์มากเลยล่ะ",
+      "answer": "I really miss you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อนันต์ มันใช่เวลาไหมเนี่ย",
+      "answer": "Anan, this isn't the time."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราต้องทำยังไงล่ะถึงจะได้อยู่กับเมย์",
+      "answer": "What do I have to do to get more time with you?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ต้องอย่าลืมสิ ‎ว่าคนที่เมย์ควรจะดูแลที่สุดตอนนี้คือใคร",
+      "answer": "Don't you remember who you should really be taking care of?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎หรือว่า เมย์เป็นชู้กับแจ็ค",
+      "answer": "Unless... you're cheating on me with Jack?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อนันต์",
+      "answer": "Anan."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ยิ้มออกแล้ว",
+      "answer": "There's a smile."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เธอ เรามีอะไรจะให้",
+      "answer": "Hey, I've got something for you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่เอาล่ะ",
+      "answer": "No, thanks."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไอ้แอ๊นท์ มึงเดินดีๆ",
+      "answer": "Ant, don't play around."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] เชี่ย",
+      "answer": "Holy shit."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูมาเดินหาสัญญาณผ่านมาแถวนี้ตั้งหลายรอบ",
+      "answer": "I've searched this area for signals so many times..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่เคยสังเกตเห็นเรือลำนี้เลยว่ะ",
+      "answer": "But I never noticed this boat."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าเรา ช่วยกันเอาลงมา",
+      "answer": "If we can get it down,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วออกไปหาคนช่วย",
+      "answer": "we could use it to find help."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูว่า แม่งน่าจะดีกว่านั่งอยู่เฉยๆ แบบนี้",
+      "answer": "It would be better than waiting around like this."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้ว ไอ้เรื่องหาสัญญาณล่ะ",
+      "answer": "What about finding a signal?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎สัญญาณ...",
+      "answer": "Signal..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูว่าคงไม่มีหรอก",
+      "answer": "There is none."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] กูรู้ตั้งแต่แรกแล้ว แต่ไม่ได้บอกใค‎ร",
+      "answer": "I don't think we're going to find one, but I haven't told anyone."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เรือนี่แม่งน่าจะเป็น ‎ความหวังสุดท้ายของพวกเราแล้ว",
+      "answer": "This boat is our last hope."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มึงรู้เรื่องเรือนี่ ซ่อมได้ใช่หรือเปล่า",
+      "answer": "You know more about boats. Can we fix it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎มีรอยรั่ว",
+      "answer": "It has a hole in the hull."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] ไม่แน่ใจเหมือนกันว่าจะซ่อมได้แค่ไหน",
+      "answer": "I'm not sure if it can be fixed."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่เป็นไร เดี๋ยวกู ขึ้นไปดูก่อน",
+      "answer": "It's okay. Let's take a closer look."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย โจอี้",
+      "answer": "Joey!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้",
+      "answer": "Joey!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้ เฮ้ย โจอี้เป็นไงบ้าง",
+      "answer": "Joey! Are you okay?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- [น้ำ] เมย์ ‎- [เสียงเปิดประตู]",
+      "answer": "May!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้เป็นอะไรก็ไม่รู้",
+      "answer": "Joey needs help."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- [เมย์] โจอี้เป็นอะไรน่ะ ‎- ตกหน้าผามา แล้วมันหายใจไม่ออก",
+      "answer": "What happened? He fell from a cliff and can't breathe."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เอาโจอี้ไปนอนที่เตียงก่อน",
+      "answer": "Get him to the bed."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] นั่งก่อนๆ",
+      "answer": "Sit down first."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] ช่วยเอาขาขึ้นหน่อย",
+      "answer": "Help me lift his legs."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- โจอี้เจ็บตรงไหน ‎- ซี่โครง",
+      "answer": "-Where does it hurt? -My ribs..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] นอนไปๆ",
+      "answer": "Just try to relax."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์หายใจถี่]",
+      "answer": "Okay?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- เมย์ ‎- ทำไมไม่ได้ยิน เสียงปอดข้างซ้ายเลยล่ะ",
+      "answer": "-May? -I can't hear his left lung."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ เป็นไงบ้าง",
+      "answer": "May! What do we do?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไม่รู้ๆ ไม่รู้จริงๆ",
+      "answer": "I don't know. I really don't."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เฮ้ย ทุกคน ช่วยออกไปหน่อยได้ไหม ‎เมย์ต้องใช้สมาธิ",
+      "answer": "Hey, let's clear the room. May needs to focus."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ออกไปก่อนนะ",
+      "answer": "Let's leave."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] เมย์ รีบทำอะไรสักอย่างเถอะ",
+      "answer": "May, you have to do something."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ซี่โครงหัก ปากม่วง",
+      "answer": "Broken ribs. Broken ribs. Blue lips."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ฉันว่า ฉันว่าปอดฉีกน่ะ",
+      "answer": "I think his lung collapsed."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ปอดฉีกเลยเหรอ ทำยังไงล่ะ",
+      "answer": "Collapsed? So what do we do?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ต้องใช้เข็มเบอร์สิบสี่เจาะลงไปที่ซี่โครงซี่ที่สอง ‎เพื่อระบายลมออกจากปอด",
+      "answer": "\"Insert a large needle in the chest cavity to release air from the lungs.\""
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตอนนี้โจอี้หายใจอยู่หรือเปล่า",
+      "answer": "Is he still breathing?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] หายใจอยู่",
+      "answer": "He is."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แป๊บหนึ่งนะ",
+      "answer": "Okay. Wait a sec!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อดทนหน่อยนะ อีกแป๊บเดียวๆ",
+      "answer": "You're gonna be okay."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- [เสียงแผ่ว] คราม ‎- ว่าไง",
+      "answer": "-Kraam... -What is it?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูก็อยากแต่งงานกับเขาเหมือนกันว่ะ",
+      "answer": "I'd marry her, too."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เมย์ นั่นอะไรน่ะ",
+      "answer": "May, what are you doing?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้ปอดรั่ว ฉันต้องเจาะปอดเขา",
+      "answer": "I have to puncture his lung!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้ว เมย์เจาะเป็นเหรอ",
+      "answer": "Do you know how?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ฉันคิดว่าฉันทำได้",
+      "answer": "I think I can do this!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎อดทนนิดนึงนะ",
+      "answer": "Hang in there, okay?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โอเค",
+      "answer": "Okay."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ว่าไงโจอี้",
+      "answer": "What, Joey?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[โจอี้] ไม่เป็นไร",
+      "answer": "It's fine."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[เมย์] โจอี้",
+      "answer": "Joey..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โจอี้ เราขอโทษ",
+      "answer": "Joey, I'm so sorry..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] ถ้าตอนนั้น ‎เราหันไปคว้ามือโจอี้ไว้ได้ทัน",
+      "answer": "If I'd grabbed his hand in time,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เขาก็คงไม่เจ็บหนักขนาดนี้",
+      "answer": "he wouldn't have fallen so hard..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แล้วเขาก็คงไม่...",
+      "answer": "and he wouldn't have..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตกลงจะมีคนมาช่วยพวกเราไหม",
+      "answer": "We're not going to be rescued, are we?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- กูจะรู้ได้ยังไง ‎- นายต้องรู้สิ",
+      "answer": "-How would I know? -You must."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] โจอี้บอกเรา ‎เรื่องหาสัญญาณโทรศัพท์หมดแล้วนะ ‎หลังจากงานศพ",
+      "answer": "Joey told me he didn't think we'd ever find a signal. After the funeral..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราจะบอกเรื่องนี้กับทุกคน",
+      "answer": "I will tell everyone."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราจะชวนทุกคนเนี่ยเอาเรือลงมาจากหน้าผา",
+      "answer": "I want us to bring down the boat."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[คราม] ออกไปหาความช่วยเหลือ",
+      "answer": "To find help."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎นี่มึงจะบ้าเหรอไอ้คราม",
+      "answer": "Are you crazy?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ชายฝั่งที่ใกล้ที่สุดเนี่ย มันห่างจากเกาะเรา ‎เกือบร้อยกิโลเลยนะเว้ย",
+      "answer": "The nearest coast is nearly 100 kilometers away."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่ยังไงเราก็จะไม่ยอมให้การตายของโจอี้ ‎ต้องสูญเปล่า",
+      "answer": "But I can't let Joey die in vain."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูไม่เห็นด้วย",
+      "answer": "I disagree."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎กูไม่อยากให้ใครต้องออกไปเสี่ยง",
+      "answer": "I can't put anyone at risk."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] จนถึงตอนนี้ ‎คงไม่มีใครมาช่วยพวกเราแล้วทั้งนั้น",
+      "answer": "No one is coming to save us."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ความหวังที่พวกเราเคยมี ‎มันได้ตายไปพร้อมโจอี้แล้ววันนี้",
+      "answer": "Our hopes... have died with Joey today."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่พวกเรายังโชคดี",
+      "answer": "But luck is with us."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ที่มีเรืออยู่ลำหนึ่งไปติดอยู่ตรงหน้าผา",
+      "answer": "There is a boat stuck on a cliff."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎สิ่งที่พวกเราทุกคนต้องทำ คือช่วยกัน ‎เอาเรือลำนั้นลงมา เพื่อที่จะใช้เรือลำนี้",
+      "answer": "We must bring this boat down. So we can use it"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ออกไปตามหาคนมาช่วยเหลือเรากันเอง",
+      "answer": "to go out and find help."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พวกเราทุกคนต้องช่วยกันทำมัน",
+      "answer": "We must cooperate."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทำมันไปด้วยกัน เชื่อใจกัน",
+      "answer": "Work together and trust each other."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เราก็จะสามารถผ่านมันไปได้",
+      "answer": "That's how we will survive."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พวกเราจะต้องมีชีวิตรอดออกไปจากที่นี่ ‎ด้วยตัวของพวกเราเอง",
+      "answer": "We will find a way off this island with our own hands!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พวกเราต้องรอดเว้ย",
+      "answer": "We will survive!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ทุกคนส่งเสียงฮึกเหิม]",
+      "answer": "We will survive! We will survive!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] เราจะยกเลิกการค้นหา ‎สัญญาณโทรศัพท์แล้ว",
+      "answer": "I am stopping the search for a signal."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แบตฯ โทรศัพท์ของทุกคนน่ะยังพอมีเหลืออยู่บ้าง",
+      "answer": "There is still some power left on your phones."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ถ้าใครอยากจะทำอะไรกับมันเป็นครั้งสุดท้าย",
+      "answer": "Feel free to use them for the last time."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็แล้วแต่เลย",
+      "answer": "It's up to you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เซอร์ไพรส์",
+      "answer": "Surprise!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ก็อยากจะบอกว่าขอให้แจ็คมีความสุขมากๆ นะ",
+      "answer": "I wish you happiness and joy."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ ความเดียวดายเมื่อไหร่จะหาย♪",
+      "answer": "When will the loneliness be gone?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ เมื่อไหร่พรุ่งนี้จะมีความหมาย♪",
+      "answer": "When will tomorrow have meaning?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ บนทางที่ว่างเปล่า ‎อีกไกลแค่ไหนถึงจุดหมาย♪",
+      "answer": "On this empty path How much further to the end?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ ความเดียวดายยังคอยทำร้าย♪",
+      "answer": "Loneliness still hurts"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ หวังเพียงพรุ่งนี้เป็นวันสุดท้าย♪",
+      "answer": "Will tomorrow be the last day?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ มีไหมสักคนหนึ่ง เข้ามาเปลี่ยน♪",
+      "answer": "Will someone ever come"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ ชีวิตเดี่ยวให้หายไป♪",
+      "answer": "To end our solitary lives?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ มีไหมสักคนหนึ่ง เข้ามาเปลี่ยน♪",
+      "answer": "Will someone ever come"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎♪ ชีวิตเดี่ยวให้หายไป ♪",
+      "answer": "To end our solitary lives?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ทุกคน ถ่ายรูปรวมกันหน่อยเร็ว มาๆ",
+      "answer": "Group photo, everyone!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎- [แอ๊นท์] มือถือใครมีแบตฯ บ้าง ‎- [ผู้ชาย] แบตฯ เรายังเหลืออยู่",
+      "answer": "-Whose phone still has power? -Mine!"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[อนันต์] เฮ้ย แอ๊นท์ มึงเอามือถือ ‎ไปวางถ่ายตรงนั้นสิ จะได้ถ่ายครบๆ",
+      "answer": "Ant, put the phone there."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[แอ๊นท์] ตั้งเวลาสิบวิ กดเลยๆ",
+      "answer": "Set the timer."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎โอเค ไปๆ เก้า",
+      "answer": "Okay, nine,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แปด เจ็ด หก ห้า...",
+      "answer": "eight, seven, six, five..."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎[ข้อความเสียงจากพ่อของคราม] ฮัลโหล คราม",
+      "answer": "Hello? Kraam."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ได้ยินไหมลูก",
+      "answer": "Can you hear me, son?"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อโทรหาแกไม่ติด",
+      "answer": "I couldn't reach you,"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เลยส่งข้อความเสียงมาดู",
+      "answer": "so I'm leaving this voice message instead."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ตอนเช้า แกจะไปจากเกาะนี้แล้ว",
+      "answer": "Tomorrow, you are leaving this island"
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎ไปมีอนาคตที่ดี ‎ก็ขอให้โชคดีนะลูก",
+      "answer": "for a better future. I wish you the best of luck."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎แต่ถ้ามีเวลาคืนนี้พ่ออยากเจอแก",
+      "answer": "If you have time tonight, I'd like to see you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อมีเรื่องสำคัญจะคุยกับแกด้วย",
+      "answer": "I have something important to tell you."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎เรื่อง... ที่ว่าแกเป็นใคร มาจากไหน",
+      "answer": "It's about... who you are and where you're from."
+    },
+    {
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "‎พ่อ พ่อจะบอกว่า ลูก...",
+      "answer": "The truth is... you're the..."
     }
   ],
   "subject": "Thai_language",

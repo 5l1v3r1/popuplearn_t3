@@ -7,6 +7,7 @@ async function main() {
     .readdirSync("src/DB_pul")
     .filter((file) => file.endsWith(".json"));
 
+  //Create all PULs
   for (const file of files) {
     const item = fs.readFileSync("src/DB_pul/" + file);
     const jsonData = JSON.parse(item.toString());
@@ -18,7 +19,7 @@ async function main() {
         subject: jsonData.subject,
         language_1: jsonData.language_1,
         language_2: jsonData.language_2,
-        type: jsonData.type || "BUTTON",
+        type: jsonData.type || "",
         voice_1: jsonData.voice_1 || "",
         voice_2: jsonData.voice_2 || "",
         number: jsonData.number || "1",
@@ -29,9 +30,7 @@ async function main() {
             question: element.question,
             answer: element.answer,
             details: {
-              create: element.details?.map((description) => ({
-                description: description,
-              })),
+              create: element.details.map((description) => description),
             },
           })),
         },
@@ -39,6 +38,13 @@ async function main() {
     });
     console.log(`Created pUL ${jsonData.name} with id: ${result.id}`);
   }
+  //Make some subscriptions to PUL models
+  const subscription = await prisma.subscription.create({
+    data: {
+      user: { connect: { id: userId } },
+      pul: { connect: { id: pulId } },
+    },
+  });
 }
 
 main()

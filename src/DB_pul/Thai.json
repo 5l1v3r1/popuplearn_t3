@@ -411,8 +411,13 @@
       "answer": "ส้ม"
     },
     {
-      "answer": "รู้สึก",
-      "question": "to feel"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to feel",
+      "answer": "รู้สึก"
     },
     {
       "details": [
@@ -487,8 +492,13 @@
       "answer": "เพราะว่า"
     },
     {
-      "answer": "ทั้งสองอย่าง",
-      "question": "both"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "both",
+      "answer": "ทั้งสองอย่าง"
     },
     {
       "details": [
@@ -608,12 +618,22 @@
       "answer": "นักท่องเที่ยว"
     },
     {
-      "answer": "กลางวัน",
-      "question": "day time"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "day time",
+      "answer": "กลางวัน"
     },
     {
-      "answer": "กลางคืน",
-      "question": "night time"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "night time",
+      "answer": "กลางคืน"
     },
     {
       "details": [
@@ -625,92 +645,202 @@
       "answer": "ตะลึง"
     },
     {
-      "answer": "ตัว",
-      "question": "self"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "self",
+      "answer": "ตัว"
     },
     {
-      "answer": "กลิ่น",
-      "question": "odor, smell"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "odor, smell",
+      "answer": "กลิ่น"
     },
     {
-      "answer": "ว่า",
-      "question": "that"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "that",
+      "answer": "ว่า"
     },
     {
-      "answer": "ได้ยินมาว่า",
-      "question": "i have heard that"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "i have heard that",
+      "answer": "ได้ยินมาว่า"
     },
     {
-      "answer": "ขี้อาย",
-      "question": "to be shy"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to be shy",
+      "answer": "ขี้อาย"
     },
     {
-      "answer": "ขำ",
-      "question": "is amused, funny"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "is amused, funny",
+      "answer": "ขำ"
     },
     {
-      "answer": "หัวเราะ",
-      "question": "to laugh"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to laugh",
+      "answer": "หัวเราะ"
     },
     {
-      "answer": "บันดาล",
-      "question": "to inspire"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to inspire",
+      "answer": "บันดาล"
     },
     {
-      "answer": "แรงบันดาลใจ",
-      "question": "inspiration, muse"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "inspiration, muse",
+      "answer": "แรงบันดาลใจ"
     },
     {
-      "answer": "หนังสือ",
-      "question": "book"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "book",
+      "answer": "หนังสือ"
     },
     {
-      "answer": "หนังสือพิมพ์",
-      "question": "newspaper"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "newspaper",
+      "answer": "หนังสือพิมพ์"
     },
     {
-      "answer": "ถูก",
-      "question": "true, correct"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "true, correct",
+      "answer": "ถูก"
     },
     {
-      "answer": "พิมพ์",
-      "question": "to type"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to type",
+      "answer": "พิมพ์"
     },
     {
-      "answer": "ผิด",
-      "question": "wrong, incorrect"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "wrong, incorrect",
+      "answer": "ผิด"
     },
     {
-      "answer": "พิมพ์ผิด",
-      "question": "to type wrong"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "to type wrong",
+      "answer": "พิมพ์ผิด"
     },
     {
-      "answer": "2อาทิตย์ต่อปี",
-      "question": "2 weeks per year"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "2 weeks per year",
+      "answer": "2อาทิตย์ต่อปี"
     },
     {
-      "answer": "คุก",
-      "question": "jail"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "jail",
+      "answer": "คุก"
     },
     {
-      "answer": "ฉิบหาย",
-      "question": "damn!"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "damn!",
+      "answer": "ฉิบหาย"
     },
     {
-      "answer": "ต้น",
-      "question": "tree"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "tree",
+      "answer": "ต้น"
     },
     {
-      "answer": "ต้นสัก",
-      "question": "teak tree"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "teak tree",
+      "answer": "ต้นสัก"
     },
     {
-      "answer": "บ้านนอก",
-      "question": "countryside"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "countryside",
+      "answer": "บ้านนอก"
     },
     {
-      "answer": "นาดำ",
-      "question": "rice paddy"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "rice paddy",
+      "answer": "นาดำ"
     },
     {
       "details": [
@@ -1658,8 +1788,13 @@
       "answer": "เมีย"
     },
     {
-      "answer": "อวบ",
-      "question": "chubby"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "chubby",
+      "answer": "อวบ"
     },
     {
       "details": [
@@ -10860,8 +10995,13 @@
       "answer": "อาคาร"
     },
     {
-      "answer": "ไม่มีวัน",
-      "question": "never (in the future)"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "never (in the future)",
+      "answer": "ไม่มีวัน"
     },
     {
       "details": [
@@ -10873,8 +11013,13 @@
       "answer": "เคย"
     },
     {
-      "answer": "ไม่เคย",
-      "question": "never (in the past)"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "never (in the past)",
+      "answer": "ไม่เคย"
     },
     {
       "details": [
@@ -10985,12 +11130,22 @@
       "answer": "เวลา"
     },
     {
-      "answer": "ใช้เวลา",
-      "question": "spend time"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "spend time",
+      "answer": "ใช้เวลา"
     },
     {
-      "answer": "วันเกิด",
-      "question": "birthday"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "birthday",
+      "answer": "วันเกิด"
     },
     {
       "details": [
@@ -11002,8 +11157,13 @@
       "answer": "ฉลอง"
     },
     {
-      "answer": "ฉลองวันเกิด",
-      "question": "celebrate birthday"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "celebrate birthday",
+      "answer": "ฉลองวันเกิด"
     },
     {
       "details": [
@@ -11114,8 +11274,13 @@
       "answer": "แพร่ระบาด"
     },
     {
-      "answer": "การระบาดของโรค",
-      "question": "spread of a disease"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "spread of a disease",
+      "answer": "การระบาดของโรค"
     },
     {
       "details": [
@@ -11127,8 +11292,13 @@
       "answer": "อาการ"
     },
     {
-      "answer": "อาการของโรค",
-      "question": "symptoms of the disease"
+      "details": [
+        {
+          "description": ""
+        }
+      ],
+      "question": "symptoms of the disease",
+      "answer": "อาการของโรค"
     },
     {
       "details": [
