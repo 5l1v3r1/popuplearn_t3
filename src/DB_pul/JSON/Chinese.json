@@ -1,1733 +1,1733 @@
 {
-  "introduction": null,
-  "language_2": "cn",
   "name": "Chinese",
-  "language_1": "en",
+  "voice_2": null,
+  "number": "1",
   "voice_1": null,
+  "introduction": null,
   "pul_elements": [
     {
+      "answer": "我",
+      "question": "I, me",
       "details": [
         {
           "description": "wǒ [Pronoun]"
         }
-      ],
-      "question": "I, me",
-      "answer": "我"
+      ]
     },
     {
+      "answer": "叫",
+      "question": "to be called",
       "details": [
         {
           "description": "jiào [Verb] : 我叫...。 wǒ jiào .... My name is ...."
         }
-      ],
-      "question": "to be called",
-      "answer": "叫"
+      ]
     },
     {
+      "answer": "不",
+      "question": "no",
       "details": [
         {
           "description": "bù [Adverb]"
         }
-      ],
-      "question": "no",
-      "answer": "不"
+      ]
     },
     {
+      "answer": "学生",
+      "question": "student",
       "details": [
         {
           "description": "xuéshēng [Noun]"
         }
-      ],
-      "question": "student",
-      "answer": "学生"
+      ]
     },
     {
+      "answer": "是",
+      "question": "to be",
       "details": [
         {
           "description": "shì [Verb] (indicating that the subject and object are the same.) : 我不是学生。wǒ bú shì xuéshēng. I am not a student. (是 is only connecting nouns or pronouns. NOUN + 是 + NOUN)"
         }
-      ],
-      "question": "to be",
-      "answer": "是"
+      ]
     },
     {
+      "answer": "什么",
+      "question": "what",
       "details": [
         {
           "description": "shénme [Adjective/Adverb]"
         }
-      ],
-      "question": "what",
-      "answer": "什么"
+      ]
     },
     {
+      "answer": "你",
+      "question": "you",
       "details": [
         {
           "description": "nǐ  [Pronoun]"
         }
-      ],
-      "question": "you",
-      "answer": "你"
+      ]
     },
     {
+      "answer": "名字",
+      "question": "name",
       "details": [
         {
           "description": "míngzi [Noun] : 你叫什么名字？ nǐ jiào shénme míngzi? What is your name?"
         }
-      ],
-      "question": "name",
-      "answer": "名字"
+      ]
     },
     {
+      "answer": "先生",
+      "question": "sir",
       "details": [
         {
           "description": "xiānshēng [Noun] : (notice the same 生 shēng used in 学生 xuéshēng, that can be related to a person.)"
         }
-      ],
-      "question": "sir",
-      "answer": "先生"
+      ]
     },
     {
+      "answer": "我们",
+      "question": "we, us",
       "details": [
         {
           "description": "wǒmen [Pronoun] 我们是学生。 wǒmen shì xuéshēng. We are students. (notice the 我 wǒ character. We is like the plural of I.)"
         }
-      ],
-      "question": "we, us",
-      "answer": "我们"
+      ]
     },
     {
+      "answer": "一",
+      "question": "one",
       "details": [
         {
           "description": "yī [Numeral]"
         }
-      ],
-      "question": "one",
-      "answer": "一"
+      ]
     },
     {
+      "answer": "瓶",
+      "question": "bottle",
       "details": [
         {
           "description": "píng [Noun]"
         }
-      ],
-      "question": "bottle",
-      "answer": "瓶"
+      ]
     },
     {
+      "answer": "水",
+      "question": "water",
       "details": [
         {
           "description": "shuǐ  [Noun] : 一瓶水。 yī píng shuǐ. A bottle of water."
         }
-      ],
-      "question": "water",
-      "answer": "水"
+      ]
     },
     {
+      "answer": "钱",
+      "question": "money",
       "details": [
         {
           "description": "qián [Noun]"
         }
-      ],
-      "question": "money",
-      "answer": "钱"
+      ]
     },
     {
+      "answer": "多少",
+      "question": "how many, how much",
       "details": [
         {
           "description": "duōshǎo [Phrase] : 一瓶水,多少钱？ yī píng shuǐ, duōshǎo qián? How much does a bottle of water cost?"
         }
-      ],
-      "question": "how many, how much",
-      "answer": "多少"
+      ]
     },
     {
+      "answer": "绿",
+      "question": "green",
       "details": [
         {
           "description": "lǜ [Adjective]"
         }
-      ],
-      "question": "green",
-      "answer": "绿"
+      ]
     },
     {
+      "answer": "茶",
+      "question": "tea",
       "details": [
         {
           "description": "chá [Noun] : 绿茶。 lǜchá. green tea."
         }
-      ],
-      "question": "tea",
-      "answer": "茶"
+      ]
     },
     {
+      "answer": "中国",
+      "question": "china",
       "details": [
         {
           "description": "zhōngguó [Noun]"
         }
-      ],
-      "question": "china",
-      "answer": "中国"
+      ]
     },
     {
+      "answer": "喜欢",
+      "question": "like",
       "details": [
         {
           "description": "xǐhuān [Verb] : 我喜欢中国茶。 wǒ xǐhuān zhōngguó chá. I like Chinese tea."
         }
-      ],
-      "question": "like",
-      "answer": "喜欢"
+      ]
     },
     {
+      "answer": "很",
+      "question": "very",
       "details": [
         {
           "description": "hěn [Adjective] : 我很喜欢中国绿茶。 wǒ hěn xǐhuān zhōngguó lǜchá. I like Chinese green tea very much."
         }
-      ],
-      "question": "very",
-      "answer": "很"
+      ]
     },
     {
+      "answer": "人",
+      "question": "person",
       "details": [
         {
           "description": "rén [Noun]"
         }
-      ],
-      "question": "person",
-      "answer": "人"
+      ]
     },
     {
+      "answer": "个",
+      "question": "(measure word for people)",
       "details": [
         {
           "description": "gè [...]"
         }
-      ],
-      "question": "(measure word for people)",
-      "answer": "个"
+      ]
     },
     {
+      "answer": "那",
+      "question": "that, there",
       "details": [
         {
           "description": "nà [Pronoun] : 那个人。nàge rén. that person."
         }
-      ],
-      "question": "that, there",
-      "answer": "那"
+      ]
     },
     {
+      "answer": "认识",
+      "question": "to know",
       "details": [
         {
           "description": "rènshi [Verb] : 我不认识那个人。 wǒ bú rènshì nàge rén. I don't know that person."
         }
-      ],
-      "question": "to know",
-      "answer": "认识"
+      ]
     },
     {
+      "answer": "米饭",
+      "question": "cooked rice",
       "details": [
         {
           "description": "mǐfàn [Noun]"
         }
-      ],
-      "question": "cooked rice",
-      "answer": "米饭"
+      ]
     },
     {
+      "answer": "会",
+      "question": "can",
       "details": [
         {
           "description": "huì [Verb]"
         }
-      ],
-      "question": "can",
-      "answer": "会"
+      ]
     },
     {
+      "answer": "英语",
+      "question": "english language (spoken)",
       "details": [
         {
           "description": "yīngyǔ [Noun]"
         }
-      ],
-      "question": "english language (spoken)",
-      "answer": "英语"
+      ]
     },
     {
+      "answer": "说",
+      "question": "speak",
       "details": [
         {
           "description": "shuō [Verb] : 我会说英语。 wǒ huì shuō yīngyǔ. I can speak english."
         }
-      ],
-      "question": "speak",
-      "answer": "说"
+      ]
     },
     {
+      "answer": "汉语",
+      "question": "chinese language (spoken)",
       "details": [
         {
           "description": "hànyǔ [Noun] : (The Han people are the ethnic majority in China.)"
         }
-      ],
-      "question": "chinese language (spoken)",
-      "answer": "汉语"
+      ]
     },
     {
+      "answer": "和",
+      "question": "and",
       "details": [
         {
           "description": "hé [Conjunction] ： 我会说英语和汉语。 wǒ huì shuō yīngyǔ hé hànyǔ. I can speak English and Chinese."
         }
-      ],
-      "question": "and",
-      "answer": "和"
+      ]
     },
     {
+      "answer": "中国人",
+      "question": "chinese (person)",
       "details": [
         {
           "description": "zhōngguó rén [Phrase] : 那个人是中国人。 nàge rén shì zhōngguó rén. That person is chinese."
         }
-      ],
-      "question": "chinese (person)",
-      "answer": "中国人"
+      ]
     },
     {
+      "answer": "吗",
+      "question": "(question tag)",
       "details": [
         {
           "description": "ma [...] : 你是中国人吗？ nǐ shì zhōngguó rén ma? Are you Chinese?"
         }
-      ],
-      "question": "(question tag)",
-      "answer": "吗"
+      ]
     },
     {
+      "answer": "喝",
+      "question": "to drink",
       "details": [
         {
           "description": "hē [Verb]"
         }
-      ],
-      "question": "to drink",
-      "answer": "喝"
+      ]
     },
     {
+      "answer": "咖啡",
+      "question": "coffee",
       "details": [
         {
           "description": "kāfēi [Noun] : 那个人喜欢喝咖啡。 nàge rén xǐhuān hē kāfēi. That person likes drinking coffee."
         }
-      ],
-      "question": "coffee",
-      "answer": "咖啡"
+      ]
     },
     {
+      "answer": "要",
+      "question": "to want",
       "details": [
         {
           "description": "yào [Verb] : Pictogram is a woman (女) with two hands pointing to her abdomen。 我要喝咖啡。 wǒ yào hē kāfēi. I want to drink coffee."
         }
-      ],
-      "question": "to want",
-      "answer": "要"
+      ]
     },
     {
+      "answer": "吃",
+      "question": "to eat",
       "details": [
         {
           "description": "chī [Verb]"
         }
-      ],
-      "question": "to eat",
-      "answer": "吃"
+      ]
     },
     {
+      "answer": "菜",
+      "question": "food",
       "details": [
         {
           "description": "cài [Noun]"
         }
-      ],
-      "question": "food",
-      "answer": "菜"
+      ]
     },
     {
+      "answer": "喜不喜欢",
+      "question": "like or not like",
       "details": [
         {
           "description": "xǐ bù xǐhuan [Phrase] : 你喜不喜欢吃中国菜？ nǐ xǐ bù xǐhuan chī zhōngguó cài? Do you like to eat chinese food? (same as 你喜欢吃中国菜吗)"
         }
-      ],
-      "question": "like or not like",
-      "answer": "喜不喜欢"
+      ]
     },
     {
+      "answer": "中",
+      "question": "middle",
       "details": [
         {
           "description": "zhōng [Noun] : (notice this 中 zhōng was used in 中国 zhōngguó. China is in the middle.)"
         }
-      ],
-      "question": "middle",
-      "answer": "中"
+      ]
     },
     {
+      "answer": "中午",
+      "question": "noon",
       "details": [
         {
           "description": "zhōngwǔ [Noun] : (notice this 中 zhōng. Noon is in the middle of the day.)"
         }
-      ],
-      "question": "noon",
-      "answer": "中午"
+      ]
     },
     {
+      "answer": "有",
+      "question": "to have",
       "details": [
         {
           "description": "yǒu [Verb] (when a subject is present). The pictogram is a hand holding meat, hence “in possession of”"
         }
-      ],
-      "question": "to have",
-      "answer": "有"
+      ]
     },
     {
+      "answer": "三",
+      "question": "three",
       "details": [
         {
           "description": "sān [Numeral]"
         }
-      ],
-      "question": "three",
-      "answer": "三"
+      ]
     },
     {
+      "answer": "口",
+      "question": "mouth",
       "details": [
         {
           "description": "kǒu [Noun]"
         }
-      ],
-      "question": "mouth",
-      "answer": "口"
+      ]
     },
     {
+      "answer": "口人",
+      "question": "(measure word for family members)",
       "details": [
         {
           "description": "kǒu rén [...]"
         }
-      ],
-      "question": "(measure word for family members)",
-      "answer": "口人"
+      ]
     },
     {
+      "answer": "家",
+      "question": "home, family",
       "details": [
         {
           "description": "jiā [] : 我家有三口人。 wǒjiā yǒu sānkǒu rén. There are three people in my family."
         }
-      ],
-      "question": "home, family",
-      "answer": "家"
+      ]
     },
     {
+      "answer": "爸爸",
+      "question": "father",
       "details": [
         {
           "description": "bàba [Noun]"
         }
-      ],
-      "question": "father",
-      "answer": "爸爸"
+      ]
     },
     {
+      "answer": "的",
+      "question": "(before a noun, possessive or descriptive)",
       "details": [
         {
           "description": "de [...] : 你的茶。 nǐ de chá. your tea."
         }
-      ],
-      "question": "(before a noun, possessive or descriptive)",
-      "answer": "的"
+      ]
     },
     {
+      "answer": "我的",
+      "question": "my",
       "details": [
         {
           "description": "wǒ de [Article] : 我的爸爸是中国人。 wǒ de bàba shì zhōngguó rén. My father is Chinese. (的 can be omitted to express a close relationship. 我爸爸 wǒ bàba instead of 我的爸爸 wǒ de bàba)"
         }
-      ],
-      "question": "my",
-      "answer": "我的"
+      ]
     },
     {
+      "answer": "这",
+      "question": "this, here",
       "details": [
         {
           "description": "zhè [Article] : 这是我的茶。 zhè shì wǒ de chá. This is my tea."
         }
-      ],
-      "question": "this, here",
-      "answer": "这"
+      ]
     },
     {
+      "answer": "国",
+      "question": "country",
       "details": [
         {
           "description": "guó [Noun] : 你是哪国人？ nǐ shì nǎ guó rén? Which country are you from ? (Notice 国 guó, like in 中国 zhōngguó. Also notice 人 rén person : where + country + person)"
         }
-      ],
-      "question": "country",
-      "answer": "国"
+      ]
     },
     {
+      "answer": "儿子",
+      "question": "son",
       "details": [
         {
           "description": "érzi [Noun] : 我有一个女儿。 wǒ yǒu yí gè érzi. I have a son. (Notice that 儿 ér, is used to refer to a child or a son. 子 zi, is a symbol that is used to refer to a male/boy.)"
         }
-      ],
-      "question": "son",
-      "answer": "儿子"
+      ]
     },
     {
+      "answer": "女儿",
+      "question": "daughter",
       "details": [
         {
           "description": "nǚér [Noun] : 我有一个女儿。 wǒ yǒu yí gè nǚér. I have a daughter. (Notice that in 女儿 nǚér the 女 nǚ is used to specify the female gender.)"
         }
-      ],
-      "question": "daughter",
-      "answer": "女儿"
+      ]
     },
     {
+      "answer": "好",
+      "question": "good",
       "details": [
         {
           "description": "hǎo [Adjective] : 你好吗？ nǐ hǎo ma? How are you? (Notice the female 女 and the son 子 in the character 好, it means that a woman with a son is good. Notice the importance of the family in the chinese language.)"
         }
-      ],
-      "question": "good",
-      "answer": "好"
+      ]
     },
     {
+      "answer": "很",
+      "question": "(connect nouns or pronouns to adjectives)",
       "details": [
         {
           "description": "hěn [...] : 我很好。wǒ hěn hǎo. I am good. (In this case, 很 hěn does not have any meaning. Remember that you cannot use 是 shì to connect with adjectives, you need to use 很 hěn instead.)"
         }
-      ],
-      "question": "(connect nouns or pronouns to adjectives)",
-      "answer": "很"
+      ]
     },
     {
+      "answer": "高兴",
+      "question": "happy",
       "details": [
         {
           "description": "gāoxìng [Adjective] : 认识你很高兴。rènshì nǐ hěn gāoxìng. Nice to meet you. (In this case, 很 hěn does not have any meaning. Remember that you cannot use 是 shì to connect with adjectives, you need to use 很 hěn instead.)"
         }
-      ],
-      "question": "happy",
-      "answer": "高兴"
+      ]
     },
     {
+      "answer": "她",
+      "question": "she, her",
       "details": [
         {
           "description": "tā [Pronoun] : (notice the female 女 symbol in the character)"
         }
-      ],
-      "question": "she, her",
-      "answer": "她"
+      ]
     },
     {
+      "answer": "姓",
+      "question": "surname",
       "details": [
         {
           "description": "xìng [Noun] : 我姓...。 wǒ xìng ....My surname/family name is .... (notice the female 女 nǚ in the character 姓, women are a reference to the family. Notice also the 生 shēng that can be related to a person.)"
         }
-      ],
-      "question": "surname",
-      "answer": "姓"
+      ]
     },
     {
+      "answer": "多",
+      "question": "many",
       "details": [
         {
           "description": "duō [Adjective] : (The origin represent two pieces of meat next of each other.)"
         }
-      ],
-      "question": "many",
-      "answer": "多"
+      ]
     },
     {
+      "answer": "有",
+      "question": "there is",
       "details": [
         {
           "description": "yǒu [Verb] (when a subject is absent) : 有人吗？ yǒu rén ma? Is there someone? (Notice the simple use of 有 yǒu have, to say : there is.)"
         }
-      ],
-      "question": "there is",
-      "answer": "有"
+      ]
     },
     {
+      "answer": "很多",
+      "question": "a lot of",
       "details": [
         {
           "description": "hěnduō [Adjective] : 有很多人。 yǒu hěnduō rén. There is a lot of people. (Notice the usage of 有 to say there is. Notice the usage of 很 hěn very and 多 duō many, to say : very many / a lot of)"
         }
-      ],
-      "question": "a lot of",
-      "answer": "很多"
+      ]
     },
     {
+      "answer": "十",
+      "question": "ten",
       "details": [
         {
           "description": "shí []"
         }
-      ],
-      "question": "ten",
-      "answer": "十"
+      ]
     },
     {
+      "answer": "二",
+      "question": "two",
       "details": [
         {
           "description": "èr [] : 十二个人。shí èr gè rén. twelve persons."
         }
-      ],
-      "question": "two",
-      "answer": "二"
+      ]
     },
     {
+      "answer": "两",
+      "question": "two of, a pair",
       "details": [
         {
           "description": "liǎng [] : 我有两个女儿。 Wǒ yǒu liǎng gè nǚér. I have two daughters. (exactly 2 is not 二 shí, but 两 liǎng.)"
         }
-      ],
-      "question": "two of, a pair",
-      "answer": "两"
+      ]
     },
     {
+      "answer": "再见",
+      "question": "good-bye",
       "details": [
         {
           "description": "zàijiàn []"
         }
-      ],
-      "question": "good-bye",
-      "answer": "再见"
+      ]
     },
     {
+      "answer": "漂亮",
+      "question": "beautiful",
       "details": [
         {
           "description": "piàoliàng [Adjective] : 你很漂亮。 nǐ hěn piàoliàng. You are beautiful. (In this case, 很 hěn does not have any meaning. Remember that you cannot use 是 shì to connect with adjectives, you need to use 很 hěn instead.)"
         }
-      ],
-      "question": "beautiful",
-      "answer": "漂亮"
+      ]
     },
     {
+      "answer": "哪",
+      "question": "where",
       "details": [
         {
           "description": "nǎ [Adverb] : 你是哪国人？ nǐ shì nǎ guó rén? Which country are you from ? (Notice 人 rén person : you + to be + where + country + person)"
         }
-      ],
-      "question": "where",
-      "answer": "哪"
+      ]
     },
     {
+      "answer": "饭店",
+      "question": "restaurant",
       "details": [
         {
           "description": "fàndiàn [Noun] : (notice the 饭 fàn that was in 米饭 mǐfàn rice, which is related to food.)"
         }
-      ],
-      "question": "restaurant",
-      "answer": "饭店"
+      ]
     },
     {
+      "answer": "忙",
+      "question": "busy",
       "details": [
         {
           "description": "máng [Adjective] : 我很忙。 wǒ hěn máng. I am quite busy."
         }
-      ],
-      "question": "busy",
-      "answer": "忙"
+      ]
     },
     {
+      "answer": "你们",
+      "question": "you (plural)",
       "details": [
         {
           "description": "nǐmen [Pronoun] : 你们都是学生吗？ nǐmen dōu shì xuéshēng ma? Are you all students?"
         }
-      ],
-      "question": "you (plural)",
-      "answer": "你们"
+      ]
     },
     {
+      "answer": "他",
+      "question": "he, him",
       "details": [
         {
           "description": "tā [Pronoun]: (Notice the similarities with 她 tā, that is used for women. Different writing but same pronounciation. Notice this symbol on the left of 他 that replaces the symbol 女 compared to 她 is a compressed version of 人.)"
         }
-      ],
-      "question": "he, him",
-      "answer": "他"
+      ]
     },
     {
+      "answer": "累",
+      "question": "tired",
       "details": [
         {
           "description": "lèi [Adjective] : 我不累。 wǒ bú lèi. I am not tired. (Notice that you can say 我不累, but to say I am tired you need to say 我很累.)"
         }
-      ],
-      "question": "tired",
-      "answer": "累"
+      ]
     },
     {
+      "answer": "在",
+      "question": "in, at",
       "details": [
         {
           "description": "zài [Preposition] : 你在哪。 nǐ zài nǎ. where are you?"
         }
-      ],
-      "question": "in, at",
-      "answer": "在"
+      ]
     },
     {
+      "answer": "饭店",
+      "question": "restaurant",
       "details": [
         {
           "description": "fàndiàn [Noun] : (notice the 饭 fàn that was in 米饭 mǐfàn cooked rice, which is related to food.)"
         }
-      ],
-      "question": "restaurant",
-      "answer": "饭店"
+      ]
     },
     {
+      "answer": "小",
+      "question": "small",
       "details": [
         {
           "description": "xiǎo [Adjective] : 小饭店。 xiǎo fàndiàn. small restaurant."
         }
-      ],
-      "question": "small",
-      "answer": "小"
+      ]
     },
     {
+      "answer": "老师",
+      "question": "teacher",
       "details": [
         {
           "description": "lǎoshī [Noun] : 我的老师不是中国人。 wǒ de lǎoshī bú shì zhōngguó rén. My teacher is not Chinese."
         }
-      ],
-      "question": "teacher",
-      "answer": "老师"
+      ]
     },
     {
+      "answer": "热",
+      "question": "hot",
       "details": [
         {
           "description": "rè [Adjective]"
         }
-      ],
-      "question": "hot",
-      "answer": "热"
+      ]
     },
     {
+      "answer": "朋友",
+      "question": "friend",
       "details": [
         {
           "description": "péngyǒu [Noun]"
         }
-      ],
-      "question": "friend",
-      "answer": "朋友"
+      ]
     },
     {
+      "answer": "她们",
+      "question": "they (female)",
       "details": [
         {
           "description": "tāmen [] : (Notice the suffix 们 men, indicating plural.)"
         }
-      ],
-      "question": "they (female)",
-      "answer": "她们"
+      ]
     },
     {
+      "answer": "他们",
+      "question": "they (male)",
       "details": [
         {
           "description": "tāmen [] : (Notice the suffix 们 men, indicating plural. females + at least one male = male)"
         }
-      ],
-      "question": "they (male)",
-      "answer": "他们"
+      ]
     },
     {
+      "answer": "都",
+      "question": "all",
       "details": [
         {
           "description": "dōu [] : 他们都是我的朋友。 tāmen dōu shì wǒ de péngyǒu. They are all my friends."
         }
-      ],
-      "question": "all",
-      "answer": "都"
+      ]
     },
     {
+      "answer": "妹妹",
+      "question": "younger sister",
       "details": [
         {
           "description": "mèimei [] : 我有一个妹妹。 wǒ yǒu yí gè mèimei. I have a younger sister. (个 gè, is not necessary. Same meaning : 我有一妹妹。 wǒ yǒu yí mèimei.)"
         }
-      ],
-      "question": "younger sister",
-      "answer": "妹妹"
+      ]
     },
     {
+      "answer": "法国",
+      "question": "french",
       "details": [
         {
           "description": "fàguó [] : 法。fà. law. : 他有很多法国朋友。 tā yǒu hěnduō fǎguó péngyǒu. He has a lot of French friends."
         }
-      ],
-      "question": "french",
-      "answer": "法国"
+      ]
     },
     {
+      "answer": "谁",
+      "question": "who",
       "details": [
         {
           "description": "shéi [] : 他是谁? tā shì shéi? Who is he?"
         }
-      ],
-      "question": "who",
-      "answer": "谁"
+      ]
     },
     {
+      "answer": "男生",
+      "question": "man",
       "details": [
         {
           "description": "nánshēng [] : 那个人是男生。 nàge rén shì nánshēng. That person is a man. (notice the same 生 shēng used in 学生 xuéshēng, that can be related to a person.)"
         }
-      ],
-      "question": "man",
-      "answer": "男生"
+      ]
     },
     {
+      "answer": "中饭",
+      "question": "lunch",
       "details": [
         {
           "description": "zhōngfàn [] : (notice the 饭 fàn that was in 米饭 mǐfàn rice, which is related to food. Notice also the 中 zhōng, for eating in the middle of the day)"
         }
-      ],
-      "question": "lunch",
-      "answer": "中饭"
+      ]
     },
     {
+      "answer": "明天",
+      "question": "tomorrow",
       "details": [
         {
           "description": "míngtiān [] : 再见.明天见! zàijiàn. míngtiān jiàn! Goodbye. See you tomorrow!"
         }
-      ],
-      "question": "tomorrow",
-      "answer": "明天"
+      ]
     },
     {
+      "answer": "见",
+      "question": "see, meet",
       "details": [
         {
           "description": "jiàn [] (ref 再见)"
         }
-      ],
-      "question": "see, meet",
-      "answer": "见"
+      ]
     },
     {
+      "answer": "再",
+      "question": "again",
       "details": [
         {
           "description": "zài (ref 再见)"
         }
-      ],
-      "question": "again",
-      "answer": "再"
+      ]
     },
     {
+      "answer": "手机",
+      "question": "phone",
       "details": [
         {
           "description": "shǒujī []"
         }
-      ],
-      "question": "phone",
-      "answer": "手机"
+      ]
     },
     {
+      "answer": "支",
+      "question": "(measure word for fairly long, stick-like objects)",
       "details": [
         {
           "description": "zhī [] : "
         }
-      ],
-      "question": "(measure word for fairly long, stick-like objects)",
-      "answer": "支"
+      ]
     },
     {
+      "answer": "大",
+      "question": "big",
       "details": [
         {
           "description": "dà [] : 这支手机有一点大。 zhè zhī shǒujī yǒu yìdiǎn dà. This phone is too big."
         }
-      ],
-      "question": "big",
-      "answer": "大"
+      ]
     },
     {
+      "answer": "八",
+      "question": "eight",
       "details": [
         {
           "description": "bā []"
         }
-      ],
-      "question": "eight",
-      "answer": "八"
+      ]
     },
     {
+      "answer": "岁",
+      "question": "year (age)",
       "details": [
         {
           "description": "suì [] : 十岁。 shí suì. 10-year-old. (岁 is used for age. People are born at 1 not 0, and increment by one after the Chinese New Year.)"
         }
-      ],
-      "question": "year (age)",
-      "answer": "岁"
+      ]
     },
     {
+      "answer": "年",
+      "question": "year (in a date)",
       "details": [
         {
           "description": "nián [] 2011年. year 2011"
         }
-      ],
-      "question": "year (in a date)",
-      "answer": "年"
+      ]
     },
     {
+      "answer": "前",
+      "question": "front",
       "details": [
         {
           "description": "qián []"
         }
-      ],
-      "question": "front",
-      "answer": "前"
+      ]
     },
     {
+      "answer": "前",
+      "question": "ago (past)",
       "details": [
         {
           "description": "qián [] : 八年前。bā nián qián. eight years ago. (front = past, The logic is : You are walking backward to an unknown future that you cannot see. The only thing you can see in front of you with your own eyes is the past.)"
         }
-      ],
-      "question": "ago (past)",
-      "answer": "前"
+      ]
     },
     {
+      "answer": "十八",
+      "question": "eighteen",
       "details": [
         {
           "description": "shíbā [] : 我有一十八岁的妹妹。 wǒ yǒu yī shíbā suì de mèimei. I have an 18 year-old younger sister. (一 yī and 的 de are not necessary, same meaning : 我有十八岁妹妹。 wǒ yǒu shíbā suì mèimei.)"
         }
-      ],
-      "question": "eighteen",
-      "answer": "十八"
+      ]
     },
     {
+      "answer": "你的",
+      "question": "your",
       "details": [
         {
           "description": "nǐ de [] : 你的妹妹叫什么名字? nǐ de mèimei jiào shénme míngzì?\tWhat is the name of your younger sister?"
         }
-      ],
-      "question": "your",
-      "answer": "你的"
+      ]
     },
     {
+      "answer": "日",
+      "question": "day (in a date)",
       "details": [
         {
           "description": "rì []"
         }
-      ],
-      "question": "day (in a date)",
-      "answer": "日"
+      ]
     },
     {
+      "answer": "天",
+      "question": "day (24 hours)",
       "details": [
         {
           "description": "tiān [] 一两天。 yī liǎng tiān. One or two days."
         }
-      ],
-      "question": "day (24 hours)",
-      "answer": "天"
+      ]
     },
     {
+      "answer": "学习",
+      "question": "to learn, to study",
       "details": [
         {
           "description": "xuéxí []"
         }
-      ],
-      "question": "to learn, to study",
-      "answer": "学习"
+      ]
     },
     {
+      "answer": "学校",
+      "question": "school",
       "details": [
         {
           "description": "xuéxiào []"
         }
-      ],
-      "question": "school",
-      "answer": "学校"
+      ]
     },
     {
+      "answer": "同学",
+      "question": "schoolmate",
       "details": [
         {
           "description": "tóngxué []"
         }
-      ],
-      "question": "schoolmate",
-      "answer": "同学"
+      ]
     },
     {
+      "answer": "医生",
+      "question": "doctor",
       "details": [
         {
           "description": "yīshēng"
         }
-      ],
-      "question": "doctor",
-      "answer": "医生"
+      ]
     },
     {
+      "answer": "字",
+      "question": "character",
       "details": [
         {
           "description": "zì []"
         }
-      ],
-      "question": "character",
-      "answer": "字"
+      ]
     },
     {
+      "answer": "冷",
+      "question": "cold",
       "details": [
         {
           "description": "lěng"
         }
-      ],
-      "question": "cold",
-      "answer": "冷"
+      ]
     },
     {
+      "answer": "少",
+      "question": "few",
       "details": [
         {
           "description": "shǎo"
         }
-      ],
-      "question": "few",
-      "answer": "少"
+      ]
     },
     {
+      "answer": "没",
+      "question": "no",
       "details": [
         {
           "description": "méi"
         }
-      ],
-      "question": "no",
-      "answer": "没"
+      ]
     },
     {
+      "answer": "太",
+      "question": "too many",
       "details": [
         {
           "description": "tài"
         }
-      ],
-      "question": "too many",
-      "answer": "太"
+      ]
     },
     {
+      "answer": "喂",
+      "question": "hello",
       "details": [
         {
           "description": "wèi"
         }
-      ],
-      "question": "hello",
-      "answer": "喂"
+      ]
     },
     {
+      "answer": "几",
+      "question": "a few, how many",
       "details": [
         {
           "description": "jǐ [] ???"
         }
-      ],
-      "question": "a few, how many",
-      "answer": "几"
+      ]
     },
     {
+      "answer": "怎么",
+      "question": "how",
       "details": [
         {
           "description": "zěnme"
         }
-      ],
-      "question": "how",
-      "answer": "怎么"
+      ]
     },
     {
+      "answer": "怎么样",
+      "question": "how about",
       "details": [
         {
           "description": "zěnmeyàng"
         }
-      ],
-      "question": "how about",
-      "answer": "怎么样"
+      ]
     },
     {
+      "answer": "商店",
+      "question": "store",
       "details": [
         {
           "description": "shāngdiàn"
         }
-      ],
-      "question": "store",
-      "answer": "商店"
+      ]
     },
     {
+      "answer": "医院",
+      "question": "hospital",
       "details": [
         {
           "description": "yīyuàn"
         }
-      ],
-      "question": "hospital",
-      "answer": "医院"
+      ]
     },
     {
+      "answer": "火车站",
+      "question": "train station",
       "details": [
         {
           "description": "huǒchēzhàn"
         }
-      ],
-      "question": "train station",
-      "answer": "火车站"
+      ]
     },
     {
+      "answer": "来过",
+      "question": "to come",
       "details": [
         {
           "description": "láiguò [] : 你来过中国吗？ Have you been to China?"
         }
-      ],
-      "question": "to come",
-      "answer": "来过"
+      ]
     },
     {
+      "answer": "云",
+      "question": "cloud",
       "details": [
         {
           "description": "yún"
         }
-      ],
-      "question": "cloud",
-      "answer": "云"
+      ]
     },
     {
+      "answer": "南",
+      "question": "south",
       "details": [
         {
           "description": "nán"
         }
-      ],
-      "question": "south",
-      "answer": "南"
+      ]
     },
     {
+      "answer": "云南",
+      "question": "yunnan",
       "details": [
         {
           "description": "yúnnán [] : Province of china, meaning is \"cloud of the south\""
         }
-      ],
-      "question": "yunnan",
-      "answer": "云南"
+      ]
     },
     {
+      "answer": "省",
+      "question": "province",
       "details": [
         {
           "description": "shěng [] : 云南省 Yunnan Province"
         }
-      ],
-      "question": "province",
-      "answer": "省"
+      ]
     },
     {
+      "answer": "北京",
+      "question": "Beijing",
       "details": [
         {
           "description": "běijīng"
         }
-      ],
-      "question": "Beijing",
-      "answer": "北京"
+      ]
     },
     {
+      "answer": "上",
+      "question": "up",
       "details": [
         {
           "description": "shàng"
         }
-      ],
-      "question": "up",
-      "answer": "上"
+      ]
     },
     {
+      "answer": "下",
+      "question": "down",
       "details": [
         {
           "description": "xià"
         }
-      ],
-      "question": "down",
-      "answer": "下"
+      ]
     },
     {
+      "answer": "前面",
+      "question": "front",
       "details": [
         {
           "description": "qiánmiàn"
         }
-      ],
-      "question": "front",
-      "answer": "前面"
+      ]
     },
     {
+      "answer": "后面",
+      "question": "behind",
       "details": [
         {
           "description": "hòumiàn"
         }
-      ],
-      "question": "behind",
-      "answer": "后面"
+      ]
     },
     {
+      "answer": "里面",
+      "question": "inside",
       "details": [
         {
           "description": "lǐmiàn"
         }
-      ],
-      "question": "inside",
-      "answer": "里面"
+      ]
     },
     {
+      "answer": "今天",
+      "question": "today",
       "details": [
         {
           "description": "jīntiān"
         }
-      ],
-      "question": "today",
-      "answer": "今天"
+      ]
     },
     {
+      "answer": "昨天",
+      "question": "yesterday",
       "details": [
         {
           "description": "zuòtiān"
         }
-      ],
-      "question": "yesterday",
-      "answer": "昨天"
+      ]
     },
     {
+      "answer": "上午",
+      "question": "morning",
       "details": [
         {
           "description": "shàngwǔ"
         }
-      ],
-      "question": "morning",
-      "answer": "上午"
+      ]
     },
     {
+      "answer": "下午",
+      "question": "afternoon",
       "details": [
         {
           "description": "xiàwǔ"
         }
-      ],
-      "question": "afternoon",
-      "answer": "下午"
+      ]
     },
     {
+      "answer": "月",
+      "question": "month",
       "details": [
         {
           "description": "yuè"
         }
-      ],
-      "question": "month",
-      "answer": "月"
+      ]
     },
     {
+      "answer": "星期",
+      "question": "week",
       "details": [
         {
           "description": "xīngqī"
         }
-      ],
-      "question": "week",
-      "answer": "星期"
+      ]
     },
     {
+      "answer": "点",
+      "question": "dot, spot",
       "details": [
         {
           "description": "diǎn"
         }
-      ],
-      "question": "dot, spot",
-      "answer": "点"
+      ]
     },
     {
+      "answer": "分钟",
+      "question": "minute",
       "details": [
         {
           "description": "fēnzhōng"
         }
-      ],
-      "question": "minute",
-      "answer": "分钟"
+      ]
     },
     {
+      "answer": "现在",
+      "question": "now",
       "details": [
         {
           "description": "xiànzài"
         }
-      ],
-      "question": "now",
-      "answer": "现在"
+      ]
     },
     {
+      "answer": "时候",
+      "question": "time",
       "details": [
         {
           "description": "shíhóu"
         }
-      ],
-      "question": "time",
-      "answer": "时候"
+      ]
     },
     {
+      "answer": "妈妈",
+      "question": "mother",
       "details": [
         {
           "description": "māma"
         }
-      ],
-      "question": "mother",
-      "answer": "妈妈"
+      ]
     },
     {
+      "answer": "小姐",
+      "question": "miss",
       "details": [
         {
           "description": "xiǎojiě"
         }
-      ],
-      "question": "miss",
-      "answer": "小姐"
+      ]
     },
     {
+      "answer": "衣服",
+      "question": "cloth",
       "details": [
         {
           "description": "yīfu"
         }
-      ],
-      "question": "cloth",
-      "answer": "衣服"
+      ]
     },
     {
+      "answer": "水果",
+      "question": "fruit",
       "details": [
         {
           "description": "shuǐguǒ"
         }
-      ],
-      "question": "fruit",
-      "answer": "水果"
+      ]
     },
     {
+      "answer": "苹果",
+      "question": "apple",
       "details": [
         {
           "description": "píngguǒ"
         }
-      ],
-      "question": "apple",
-      "answer": "苹果"
+      ]
     },
     {
+      "answer": "杯子",
+      "question": "cup",
       "details": [
         {
           "description": "bēizi"
         }
-      ],
-      "question": "cup",
-      "answer": "杯子"
+      ]
     },
     {
+      "answer": "飞机",
+      "question": "airplane",
       "details": [
         {
           "description": "fēijī"
         }
-      ],
-      "question": "airplane",
-      "answer": "飞机"
+      ]
     },
     {
+      "answer": "出租车",
+      "question": "taxi",
       "details": [
         {
           "description": "chūzūchē"
         }
-      ],
-      "question": "taxi",
-      "answer": "出租车"
+      ]
     },
     {
+      "answer": "电视",
+      "question": "television",
       "details": [
         {
           "description": "diànshì"
         }
-      ],
-      "question": "television",
-      "answer": "电视"
+      ]
     },
     {
+      "answer": "电脑",
+      "question": "computer",
       "details": [
         {
           "description": "diànnǎo"
         }
-      ],
-      "question": "computer",
-      "answer": "电脑"
+      ]
     },
     {
+      "answer": "电影",
+      "question": "movie",
       "details": [
         {
           "description": "diànyǐng"
         }
-      ],
-      "question": "movie",
-      "answer": "电影"
+      ]
     },
     {
+      "answer": "天气",
+      "question": "weather",
       "details": [
         {
           "description": "tiānqì"
         }
-      ],
-      "question": "weather",
-      "answer": "天气"
+      ]
     },
     {
+      "answer": "猫",
+      "question": "cat",
       "details": [
         {
           "description": "māo"
         }
-      ],
-      "question": "cat",
-      "answer": "猫"
+      ]
     },
     {
+      "answer": "狗",
+      "question": "dog",
       "details": [
         {
           "description": "gǒu"
         }
-      ],
-      "question": "dog",
-      "answer": "狗"
+      ]
     },
     {
+      "answer": "东西",
+      "question": "thing",
       "details": [
         {
           "description": "dōngxī"
         }
-      ],
-      "question": "thing",
-      "answer": "东西"
+      ]
     },
     {
+      "answer": "书",
+      "question": "book",
       "details": [
         {
           "description": "shū"
         }
-      ],
-      "question": "book",
-      "answer": "书"
+      ]
     },
     {
+      "answer": "汉语",
+      "question": "mandarin",
       "details": [
         {
           "description": "hànyǔ"
         }
-      ],
-      "question": "mandarin",
-      "answer": "汉语"
+      ]
     },
     {
+      "answer": "桌子",
+      "question": "desk",
       "details": [
         {
           "description": "zhuōzi"
         }
-      ],
-      "question": "desk",
-      "answer": "桌子"
+      ]
     },
     {
+      "answer": "椅子",
+      "question": "chair",
       "details": [
         {
           "description": "yǐzi"
         }
-      ],
-      "question": "chair",
-      "answer": "椅子"
+      ]
     },
     {
+      "answer": "四",
+      "question": "four",
       "details": [
         {
           "description": "sì"
         }
-      ],
-      "question": "four",
-      "answer": "四"
+      ]
     },
     {
+      "answer": "五",
+      "question": "five",
       "details": [
         {
           "description": "wǔ"
         }
-      ],
-      "question": "five",
-      "answer": "五"
+      ]
     },
     {
+      "answer": "六",
+      "question": "six",
       "details": [
         {
           "description": "liù"
         }
-      ],
-      "question": "six",
-      "answer": "六"
+      ]
     },
     {
+      "answer": "七",
+      "question": "seven",
       "details": [
         {
           "description": "qī"
         }
-      ],
-      "question": "seven",
-      "answer": "七"
+      ]
     },
     {
+      "answer": "九",
+      "question": "nine",
       "details": [
         {
           "description": "jiǔ"
         }
-      ],
-      "question": "nine",
-      "answer": "九"
+      ]
     },
     {
+      "answer": "零",
+      "question": "zero",
       "details": [
         {
           "description": "líng"
         }
-      ],
-      "question": "zero",
-      "answer": "零"
+      ]
     },
     {
+      "answer": "了",
+      "question": "(completed action marker)",
       "details": [
         {
           "description": "le"
         }
-      ],
-      "question": "(completed action marker)",
-      "answer": "了"
+      ]
     },
     {
+      "answer": "呢",
+      "question": "(question particle for subjects already mentioned)",
       "details": [
         {
           "description": "ne"
         }
-      ],
-      "question": "(question particle for subjects already mentioned)",
-      "answer": "呢"
+      ]
     },
     {
+      "answer": "本",
+      "question": "volume",
       "details": [
         {
           "description": "běn"
         }
-      ],
-      "question": "volume",
-      "answer": "本"
+      ]
     },
     {
+      "answer": "些",
+      "question": "some",
       "details": [
         {
           "description": "xiē"
         }
-      ],
-      "question": "some",
-      "answer": "些"
+      ]
     },
     {
+      "answer": "块",
+      "question": "piece",
       "details": [
         {
           "description": "kuài"
         }
-      ],
-      "question": "piece",
-      "answer": "块"
+      ]
     },
     {
+      "answer": "谢谢",
+      "question": "thank",
       "details": [
         {
           "description": "xièxie"
         }
-      ],
-      "question": "thank",
-      "answer": "谢谢"
+      ]
     },
     {
+      "answer": "不客气",
+      "question": "you are welcome",
       "details": [
         {
           "description": "búkèqì"
         }
-      ],
-      "question": "you are welcome",
-      "answer": "不客气"
+      ]
     },
     {
+      "answer": "请",
+      "question": "please",
       "details": [
         {
           "description": "qǐng"
         }
-      ],
-      "question": "please",
-      "answer": "请"
+      ]
     },
     {
+      "answer": "坐",
+      "question": "sit",
       "details": [
         {
           "description": "zuò"
         }
-      ],
-      "question": "sit",
-      "answer": "坐"
+      ]
     },
     {
+      "answer": "对不起",
+      "question": "sorry",
       "details": [
         {
           "description": "duìbùqǐ"
         }
-      ],
-      "question": "sorry",
-      "answer": "对不起"
+      ]
     },
     {
+      "answer": "没关系",
+      "question": "It doesn't matter",
       "details": [
         {
           "description": "méiguānxì"
         }
-      ],
-      "question": "It doesn't matter",
-      "answer": "没关系"
+      ]
     },
     {
+      "answer": "看",
+      "question": "look",
       "details": [
         {
           "description": "kàn"
         }
-      ],
-      "question": "look",
-      "answer": "看"
+      ]
     },
     {
+      "answer": "听",
+      "question": "listen",
       "details": [
         {
           "description": "tīng"
         }
-      ],
-      "question": "listen",
-      "answer": "听"
+      ]
     },
     {
+      "answer": "读",
+      "question": "read",
       "details": [
         {
           "description": "dú"
         }
-      ],
-      "question": "read",
-      "answer": "读"
+      ]
     },
     {
+      "answer": "写",
+      "question": "write",
       "details": [
         {
           "description": "xiě"
         }
-      ],
-      "question": "write",
-      "answer": "写"
+      ]
     },
     {
+      "answer": "看见",
+      "question": "see",
       "details": [
         {
           "description": "kànjiàn"
         }
-      ],
-      "question": "see",
-      "answer": "看见"
+      ]
     },
     {
+      "answer": "来",
+      "question": "come",
       "details": [
         {
           "description": "lái"
         }
-      ],
-      "question": "come",
-      "answer": "来"
+      ]
     },
     {
+      "answer": "回",
+      "question": "return",
       "details": [
         {
           "description": "huí"
         }
-      ],
-      "question": "return",
-      "answer": "回"
+      ]
     },
     {
+      "answer": "去",
+      "question": "go",
       "details": [
         {
           "description": "qù"
         }
-      ],
-      "question": "go",
-      "answer": "去"
+      ]
     },
     {
+      "answer": "睡觉",
+      "question": "sleep",
       "details": [
         {
           "description": "shuìjiào"
         }
-      ],
-      "question": "sleep",
-      "answer": "睡觉"
+      ]
     },
     {
+      "answer": "打电话",
+      "question": "call up",
       "details": [
         {
           "description": "dǎdiànhuà"
         }
-      ],
-      "question": "call up",
-      "answer": "打电话"
+      ]
     },
     {
+      "answer": "做",
+      "question": "do",
       "details": [
         {
           "description": "zuò"
         }
-      ],
-      "question": "do",
-      "answer": "做"
+      ]
     },
     {
+      "answer": "买",
+      "question": "buy",
       "details": [
         {
           "description": "mǎi"
         }
-      ],
-      "question": "buy",
-      "answer": "买"
+      ]
     },
     {
+      "answer": "开",
+      "question": "open",
       "details": [
         {
           "description": "kāi"
         }
-      ],
-      "question": "open",
-      "answer": "开"
+      ]
     },
     {
+      "answer": "住",
+      "question": "live",
       "details": [
         {
           "description": "zhù"
         }
-      ],
-      "question": "live",
-      "answer": "住"
+      ]
     },
     {
+      "answer": "工作",
+      "question": "work",
       "details": [
         {
           "description": "gōngzuò"
         }
-      ],
-      "question": "work",
-      "answer": "工作"
+      ]
     },
     {
+      "answer": "下雨",
+      "question": "rain",
       "details": [
         {
           "description": "xiàyǔ"
         }
-      ],
-      "question": "rain",
-      "answer": "下雨"
+      ]
     },
     {
+      "answer": "爱",
+      "question": "love",
       "details": [
         {
           "description": "ài"
         }
-      ],
-      "question": "love",
-      "answer": "爱"
+      ]
     },
     {
+      "answer": "能",
+      "question": "can, be able to",
       "details": [
         {
           "description": "néng"
         }
-      ],
-      "question": "can, be able to",
-      "answer": "能"
+      ]
     }
   ],
+  "language_1": "en",
   "subject": "Chinese_mandarin",
+  "language_2": "cn",
   "type": "BUTTON",
-  "sentence": null,
-  "voice_2": null,
-  "number": "1"
+  "sentence": null
 }

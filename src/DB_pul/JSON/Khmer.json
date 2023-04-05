@@ -1,806 +1,806 @@
 {
-  "introduction": null,
-  "language_2": "kh",
   "name": "Khmer",
-  "language_1": "en",
+  "voice_2": null,
+  "number": "1",
   "voice_1": null,
+  "introduction": null,
   "pul_elements": [
     {
-      "details": [
-        {
-          "description": ""
-        }
-      ],
+      "answer": "knyom",
       "question": "i / i am / me",
-      "answer": "knyom"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bong",
       "question": "you (older person or similar age)",
-      "answer": "bong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "on",
       "question": "you (younger person)",
-      "answer": "on"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "baht",
       "question": "yes (if you are male)",
-      "answer": "baht"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jah",
       "question": "yes (if you are female)",
-      "answer": "jah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ot-tay",
       "question": "no",
-      "answer": "ot-tay"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "choom reap soo-er",
       "question": "hello (formal)",
-      "answer": "choom reap soo-er"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "choom reap lee-ah",
       "question": "goodbye (formal)",
-      "answer": "choom reap lee-ah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "suo-s’day",
       "question": "hello (casual)",
-      "answer": "suo-s’day"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lee-ah",
       "question": "goodbye (casual)",
-      "answer": "lee-ah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "soksah-bye",
       "question": "happy",
-      "answer": "soksah-bye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "doi k’nia",
       "question": "same",
-      "answer": "doi k’nia"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "orkoun",
       "question": "thank you",
-      "answer": "orkoun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "choob",
       "question": "meet",
-      "answer": "choob"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "k’neah",
       "question": "together",
-      "answer": "k’neah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pel",
       "question": "time",
-      "answer": "pel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "k’raou-ee",
       "question": "next",
-      "answer": "k’raou-ee"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "j’ran",
       "question": "many",
-      "answer": "j’ran"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bong/on, soksah-bye tay? (you happy, no?)",
       "question": "how are you?",
-      "answer": "bong/on, soksah-bye tay? (you happy, no?)"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "baht/jah, knyom soksah-bye. cho bong/on? (yes, i’m happy, and you?)",
       "question": "yes, i am well. and you?",
-      "answer": "baht/jah, knyom soksah-bye. cho bong/on? (yes, i’m happy, and you?)"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "k’nia. knyom soksah-bye. (same, i’m happy)",
       "question": "the same. i’m happy.",
-      "answer": "k’nia. knyom soksah-bye. (same, i’m happy)"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "orkoun",
       "question": "thank you.",
-      "answer": "orkoun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "orkoun j’ran (thanks, many)",
       "question": "thanks very much",
-      "answer": "orkoun j’ran (thanks, many)"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "choob k’nea pel k’raou-ee (meet together next time)",
       "question": "see you next time",
-      "answer": "choob k’nea pel k’raou-ee (meet together next time)"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "som",
       "question": "please",
-      "answer": "som"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "som-toh",
       "question": "excuse me",
-      "answer": "som-toh"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yerng",
       "question": "we",
-      "answer": "yerng"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "skol",
       "question": "to know (a person or location)",
-      "answer": "skol"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "doe",
       "question": "go",
-      "answer": "doe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "trong",
       "question": "straight",
-      "answer": "trong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bort",
       "question": "turn",
-      "answer": "bort"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chwayng",
       "question": "left",
-      "answer": "chwayng"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sadam",
       "question": "right",
-      "answer": "sadam"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "deenith",
       "question": "here",
-      "answer": "deenith"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "deenouth",
       "question": "there",
-      "answer": "deenouth"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ai-nith",
       "question": "this one",
-      "answer": "ai-nith"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chob",
       "question": "stop",
-      "answer": "chob"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yute yute",
       "question": "slowly",
-      "answer": "yute yute"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "luen",
       "question": "fast",
-      "answer": "luen"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tik tik",
       "question": "little bit",
-      "answer": "tik tik"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nah",
       "question": "very",
-      "answer": "nah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bon marn",
       "question": "how much",
-      "answer": "bon marn"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "t’lye",
       "question": "expensive",
-      "answer": "t’lye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mote tun-lye",
       "question": "riverside",
-      "answer": "mote tun-lye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "veang",
       "question": "palace",
-      "answer": "veang"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sontah-kea",
       "question": "hotel",
-      "answer": "sontah-kea"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pojo nitan",
       "question": "restaurant",
-      "answer": "pojo nitan"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "erna",
       "question": "where",
-      "answer": "erna"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "no-erna",
       "question": "where at",
-      "answer": "no-erna"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jong",
       "question": "want",
-      "answer": "jong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ot",
       "question": "not",
-      "answer": "ot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ot bun-yah-ha",
       "question": "no problem",
-      "answer": "ot bun-yah-ha"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jam",
       "question": "wait",
-      "answer": "jam"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "kern",
       "question": "see",
-      "answer": "kern"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moy",
       "question": "one",
-      "answer": "moy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bee",
       "question": "two",
-      "answer": "bee"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "buy",
       "question": "three",
-      "answer": "buy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "buan",
       "question": "four",
-      "answer": "buan"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bram",
       "question": "five",
-      "answer": "bram"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jong",
       "question": "want",
-      "answer": "jong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "trove-kah",
       "question": "need",
-      "answer": "trove-kah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "joljet",
       "question": "like",
-      "answer": "joljet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chur",
       "question": "sick",
-      "answer": "chur"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "t’nam",
       "question": "medicine",
-      "answer": "t’nam"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mun-ti pet",
       "question": "hospital",
-      "answer": "mun-ti pet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "kah-lean",
       "question": "hungry",
-      "answer": "kah-lean"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nyam",
       "question": "eat / drink",
-      "answer": "nyam"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tuk",
       "question": "water",
-      "answer": "tuk"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bontub tuk",
       "question": "toilet",
-      "answer": "bontub tuk"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moy tiet",
       "question": "one more",
-      "answer": "moy tiet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "som ket loi",
       "question": "the bill please",
-      "answer": "som ket loi"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "p’sah",
       "question": "market",
-      "answer": "p’sah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jau",
       "question": "thief",
-      "answer": "jau"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sit-tan toot",
       "question": "embassy",
-      "answer": "sit-tan toot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "prolean mun-ho",
       "question": "airport",
-      "answer": "prolean mun-ho"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nih",
       "question": "this",
-      "answer": "nih"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "noah",
       "question": "that",
-      "answer": "noah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moke",
       "question": "come",
-      "answer": "moke"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moke win",
       "question": "come back",
-      "answer": "moke win"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moke dole",
       "question": "arrive",
-      "answer": "moke dole"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "aye",
       "question": "what (as part of a question)",
-      "answer": "aye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ek-aye",
       "question": "what (on its own)",
-      "answer": "ek-aye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "er-na",
       "question": "where",
-      "answer": "er-na"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gwat",
       "question": "he/she",
-      "answer": "gwat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pu-mah",
       "question": "friend",
-      "answer": "pu-mah"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "p’dei",
       "question": "husband",
-      "answer": "p’dei"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bro-poun",
       "question": "wife",
-      "answer": "bro-poun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "robo knyom",
       "question": "my",
-      "answer": "robo knyom"
+      "details": [
+        {
+          "description": ""
+        }
+      ]
     }
   ],
+  "language_1": "en",
   "subject": "Khmer_language",
+  "language_2": "kh",
   "type": "BUTTON",
-  "sentence": null,
-  "voice_2": null,
-  "number": "1"
+  "sentence": null
 }

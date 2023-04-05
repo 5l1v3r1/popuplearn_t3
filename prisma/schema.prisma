@@ -94,7 +94,6 @@ model Subscription {
   pul     PUL     @relation(fields: [pulId], references: [id])
   userId  String
   pulId   Int
-  // pul_elements pul_element[]
 }
 
 model VerificationToken {

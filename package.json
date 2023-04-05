@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "next build",
-    "create-db": "prisma migrate reset --force && node src/DB_PUL/create_prisma_dbs.js",
+    "create-db": "prisma migrate reset --force && prisma migrate dev --name MyMigration && node src/DB_pul/create_prisma_dbs.js",
     "dev": "next dev",
     "postinstall": "prisma generate",
     "lint": "next lint",

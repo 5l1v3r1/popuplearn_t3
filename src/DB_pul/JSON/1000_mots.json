@@ -1,9005 +1,9005 @@
 {
-  "introduction": null,
-  "language_2": "en",
   "name": "1000_mots",
-  "language_1": "fr",
+  "voice_2": null,
+  "number": "1",
   "voice_1": null,
+  "introduction": null,
   "pul_elements": [
     {
+      "answer": "as",
+      "question": "comme",
       "details": [
         {
           "description": ""
         }
-      ],
-      "question": "comme",
-      "answer": "as"
+      ]
     },
     {
-      "details": [
-        {
-          "description": ""
-        }
-      ],
+      "answer": "I",
       "question": "je",
-      "answer": "I"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "his",
       "question": "son",
-      "answer": "his"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "that",
       "question": "que",
-      "answer": "that"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "he",
       "question": "il",
-      "answer": "he"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "was",
       "question": "était",
-      "answer": "was"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "for",
       "question": "pour",
-      "answer": "for"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "on",
       "question": "sur",
-      "answer": "on"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "are",
       "question": "sont",
-      "answer": "are"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "with",
       "question": "avec",
-      "answer": "with"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "they",
       "question": "ils",
-      "answer": "they"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "be",
       "question": "être",
-      "answer": "be"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "at",
       "question": "à",
-      "answer": "at"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "one",
       "question": "un",
-      "answer": "one"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "have",
       "question": "avoir",
-      "answer": "have"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "this",
       "question": "ce",
-      "answer": "this"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "from",
       "question": "à partir de",
-      "answer": "from"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "by",
       "question": "par",
-      "answer": "by"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hot",
       "question": "chaud",
-      "answer": "hot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "word",
       "question": "mot",
-      "answer": "word"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "but",
       "question": "mais",
-      "answer": "but"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "what",
       "question": "que",
-      "answer": "what"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "some",
       "question": "certains",
-      "answer": "some"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "is",
       "question": "est",
-      "answer": "is"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "it",
       "question": "il",
-      "answer": "it"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "you",
       "question": "vous",
-      "answer": "you"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "or",
       "question": "ou",
-      "answer": "or"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "had",
       "question": "eu",
-      "answer": "had"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "the",
       "question": "la",
-      "answer": "the"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "of",
       "question": "de",
-      "answer": "of"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "to",
       "question": "à",
-      "answer": "to"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "and",
       "question": "et",
-      "answer": "and"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "a",
       "question": "un",
-      "answer": "a"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "in",
       "question": "dans",
-      "answer": "in"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "we",
       "question": "nous",
-      "answer": "we"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "can",
       "question": "boîte",
-      "answer": "can"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "out",
       "question": "dehors",
-      "answer": "out"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "other",
       "question": "autre",
-      "answer": "other"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "were",
       "question": "étaient",
-      "answer": "were"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "which",
       "question": "qui",
-      "answer": "which"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "do",
       "question": "faire",
-      "answer": "do"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "their",
       "question": "leur",
-      "answer": "their"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "time",
       "question": "temps",
-      "answer": "time"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "if",
       "question": "si",
-      "answer": "if"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "will",
       "question": "volonté",
-      "answer": "will"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "how",
       "question": "comment",
-      "answer": "how"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "said",
       "question": "dit",
-      "answer": "said"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "an",
       "question": "un",
-      "answer": "an"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "each",
       "question": "chaque",
-      "answer": "each"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tell",
       "question": "dire",
-      "answer": "tell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "set",
       "question": "ensemble",
-      "answer": "set"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "three",
       "question": "trois",
-      "answer": "three"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "want",
       "question": "vouloir",
-      "answer": "want"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "air",
       "question": "air",
-      "answer": "air"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "well",
       "question": "bien",
-      "answer": "well"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "also",
       "question": "aussi",
-      "answer": "also"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "play",
       "question": "jouer",
-      "answer": "play"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "small",
       "question": "petit",
-      "answer": "small"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "end",
       "question": "fin",
-      "answer": "end"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "put",
       "question": "mettre",
-      "answer": "put"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "home",
       "question": "maison",
-      "answer": "home"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "read",
       "question": "lire",
-      "answer": "read"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hand",
       "question": "main",
-      "answer": "hand"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "port",
       "question": "port",
-      "answer": "port"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "large",
       "question": "grand",
-      "answer": "large"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spell",
       "question": "épeler",
-      "answer": "spell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "add",
       "question": "ajouter",
-      "answer": "add"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "even",
       "question": "même",
-      "answer": "even"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "land",
       "question": "terre",
-      "answer": "land"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "here",
       "question": "ici",
-      "answer": "here"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "must",
       "question": "il faut",
-      "answer": "must"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "big",
       "question": "grand",
-      "answer": "big"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "high",
       "question": "haut",
-      "answer": "high"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "such",
       "question": "tel",
-      "answer": "such"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "follow",
       "question": "suivre",
-      "answer": "follow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "act",
       "question": "acte",
-      "answer": "act"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "why",
       "question": "pourquoi",
-      "answer": "why"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ask",
       "question": "interroger",
-      "answer": "ask"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "men",
       "question": "hommes",
-      "answer": "men"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "change",
       "question": "changement",
-      "answer": "change"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "went",
       "question": "est allé",
-      "answer": "went"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "light",
       "question": "lumière",
-      "answer": "light"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "kind",
       "question": "genre",
-      "answer": "kind"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "off",
       "question": "de",
-      "answer": "off"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "need",
       "question": "besoin",
-      "answer": "need"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "house",
       "question": "maison",
-      "answer": "house"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "picture",
       "question": "image",
-      "answer": "picture"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "try",
       "question": "essayer",
-      "answer": "try"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "us",
       "question": "nous",
-      "answer": "us"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "again",
       "question": "encore",
-      "answer": "again"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "animal",
       "question": "animal",
-      "answer": "animal"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "point",
       "question": "point",
-      "answer": "point"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mother",
       "question": "mère",
-      "answer": "mother"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "world",
       "question": "monde",
-      "answer": "world"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "near",
       "question": "près de",
-      "answer": "near"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "build",
       "question": "construire",
-      "answer": "build"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "self",
       "question": "soi",
-      "answer": "self"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "earth",
       "question": "terre",
-      "answer": "earth"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "father",
       "question": "père",
-      "answer": "father"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "any",
       "question": "tout",
-      "answer": "any"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "new",
       "question": "nouveau",
-      "answer": "new"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "work",
       "question": "travail",
-      "answer": "work"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "part",
       "question": "partie",
-      "answer": "part"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "take",
       "question": "prendre",
-      "answer": "take"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "get",
       "question": "obtenir",
-      "answer": "get"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "place",
       "question": "lieu",
-      "answer": "place"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "made",
       "question": "fabriqué",
-      "answer": "made"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "live",
       "question": "vivre",
-      "answer": "live"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "where",
       "question": "où",
-      "answer": "where"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "after",
       "question": "après",
-      "answer": "after"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "back",
       "question": "arrière",
-      "answer": "back"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "little",
       "question": "peu",
-      "answer": "little"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "only",
       "question": "seulement",
-      "answer": "only"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "round",
       "question": "tour",
-      "answer": "round"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "man",
       "question": "homme",
-      "answer": "man"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "year",
       "question": "année",
-      "answer": "year"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "came",
       "question": "est venu",
-      "answer": "came"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "show",
       "question": "montrer",
-      "answer": "show"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "every",
       "question": "tous",
-      "answer": "every"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "good",
       "question": "bon",
-      "answer": "good"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "me",
       "question": "moi",
-      "answer": "me"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "give",
       "question": "donner",
-      "answer": "give"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "our",
       "question": "notre",
-      "answer": "our"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "under",
       "question": "sous",
-      "answer": "under"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "name",
       "question": "nom",
-      "answer": "name"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "very",
       "question": "très",
-      "answer": "very"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "through",
       "question": "par",
-      "answer": "through"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "just",
       "question": "juste",
-      "answer": "just"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "form",
       "question": "forme",
-      "answer": "form"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sentence",
       "question": "phrase",
-      "answer": "sentence"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "great",
       "question": "grand",
-      "answer": "great"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "think",
       "question": "penser",
-      "answer": "think"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "say",
       "question": "dire",
-      "answer": "say"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "help",
       "question": "aider",
-      "answer": "help"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "low",
       "question": "faible",
-      "answer": "low"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "line",
       "question": "ligne",
-      "answer": "line"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "differ",
       "question": "différer",
-      "answer": "differ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "turn",
       "question": "tour",
-      "answer": "turn"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cause",
       "question": "la cause",
-      "answer": "cause"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "much",
       "question": "beaucoup",
-      "answer": "much"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mean",
       "question": "signifier",
-      "answer": "mean"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "before",
       "question": "avant",
-      "answer": "before"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "move",
       "question": "déménagement",
-      "answer": "move"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "right",
       "question": "droit",
-      "answer": "right"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "boy",
       "question": "garçon",
-      "answer": "boy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "old",
       "question": "vieux",
-      "answer": "old"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "too",
       "question": "trop",
-      "answer": "too"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "same",
       "question": "même",
-      "answer": "same"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "she",
       "question": "elle",
-      "answer": "she"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "all",
       "question": "tous",
-      "answer": "all"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "there",
       "question": "là",
-      "answer": "there"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "when",
       "question": "quand",
-      "answer": "when"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "up",
       "question": "jusqu’à",
-      "answer": "up"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "use",
       "question": "utiliser",
-      "answer": "use"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "your",
       "question": "votre",
-      "answer": "your"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "way",
       "question": "manière",
-      "answer": "way"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "about",
       "question": "sur",
-      "answer": "about"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "many",
       "question": "beaucoup",
-      "answer": "many"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "then",
       "question": "puis",
-      "answer": "then"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "them",
       "question": "les",
-      "answer": "them"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "write",
       "question": "écrire",
-      "answer": "write"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "would",
       "question": "voudrais",
-      "answer": "would"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "like",
       "question": "comme",
-      "answer": "like"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "so",
       "question": "si",
-      "answer": "so"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "these",
       "question": "ces",
-      "answer": "these"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "her",
       "question": "son",
-      "answer": "her"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "long",
       "question": "long",
-      "answer": "long"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "make",
       "question": "faire",
-      "answer": "make"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thing",
       "question": "chose",
-      "answer": "thing"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "see",
       "question": "voir",
-      "answer": "see"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "him",
       "question": "lui",
-      "answer": "him"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "two",
       "question": "deux",
-      "answer": "two"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "has",
       "question": "a",
-      "answer": "has"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "look",
       "question": "regarder",
-      "answer": "look"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "more",
       "question": "plus",
-      "answer": "more"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "day",
       "question": "jour",
-      "answer": "day"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "could",
       "question": "pourrait",
-      "answer": "could"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "go",
       "question": "aller",
-      "answer": "go"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "come",
       "question": "venir",
-      "answer": "come"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "did",
       "question": "fait",
-      "answer": "did"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "number",
       "question": "nombre",
-      "answer": "number"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sound",
       "question": "son",
-      "answer": "sound"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "no",
       "question": "aucun",
-      "answer": "no"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "most",
       "question": "plus",
-      "answer": "most"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "people",
       "question": "personnes",
-      "answer": "people"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "my",
       "question": "ma",
-      "answer": "my"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "over",
       "question": "sur",
-      "answer": "over"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "know",
       "question": "savoir",
-      "answer": "know"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "water",
       "question": "eau",
-      "answer": "water"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "than",
       "question": "que",
-      "answer": "than"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "call",
       "question": "appel",
-      "answer": "call"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "first",
       "question": "première",
-      "answer": "first"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "who",
       "question": "qui",
-      "answer": "who"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "may",
       "question": "peut",
-      "answer": "may"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "down",
       "question": "vers le bas",
-      "answer": "down"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "side",
       "question": "côté",
-      "answer": "side"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "been",
       "question": "été",
-      "answer": "been"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "now",
       "question": "maintenant",
-      "answer": "now"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "find",
       "question": "trouver",
-      "answer": "find"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "head",
       "question": "tête",
-      "answer": "head"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stand",
       "question": "supporter",
-      "answer": "stand"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "own",
       "question": "propre",
-      "answer": "own"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "page",
       "question": "page",
-      "answer": "page"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "should",
       "question": "devrait",
-      "answer": "should"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "country",
       "question": "pays",
-      "answer": "country"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "found",
       "question": "trouvé",
-      "answer": "found"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "answer",
       "question": "réponse",
-      "answer": "answer"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "school",
       "question": "école",
-      "answer": "school"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "grow",
       "question": "croître",
-      "answer": "grow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "study",
       "question": "étude",
-      "answer": "study"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "still",
       "question": "encore",
-      "answer": "still"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "learn",
       "question": "apprendre",
-      "answer": "learn"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "plant",
       "question": "usine",
-      "answer": "plant"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cover",
       "question": "couvercle",
-      "answer": "cover"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "food",
       "question": "nourriture",
-      "answer": "food"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sun",
       "question": "soleil",
-      "answer": "sun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "four",
       "question": "quatre",
-      "answer": "four"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "between",
       "question": "entre",
-      "answer": "between"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "state",
       "question": "état",
-      "answer": "state"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "keep",
       "question": "garder",
-      "answer": "keep"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "eye",
       "question": "œil",
-      "answer": "eye"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "never",
       "question": "jamais",
-      "answer": "never"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "last",
       "question": "dernier",
-      "answer": "last"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "let",
       "question": "laisser",
-      "answer": "let"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thought",
       "question": "pensée",
-      "answer": "thought"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "city",
       "question": "ville",
-      "answer": "city"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tree",
       "question": "arbre",
-      "answer": "tree"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cross",
       "question": "traverser",
-      "answer": "cross"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "farm",
       "question": "ferme",
-      "answer": "farm"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hard",
       "question": "dur",
-      "answer": "hard"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "start",
       "question": "début",
-      "answer": "start"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "might",
       "question": "puissance",
-      "answer": "might"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "story",
       "question": "histoire",
-      "answer": "story"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "saw",
       "question": "scie",
-      "answer": "saw"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "far",
       "question": "loin",
-      "answer": "far"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sea",
       "question": "mer",
-      "answer": "sea"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "draw",
       "question": "tirer",
-      "answer": "draw"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "left",
       "question": "gauche",
-      "answer": "left"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "late",
       "question": "tard",
-      "answer": "late"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "run",
       "question": "courir",
-      "answer": "run"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "don’t",
       "question": "needs a context",
-      "answer": "don’t"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "while",
       "question": "tandis que",
-      "answer": "while"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "press",
       "question": "presse",
-      "answer": "press"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "close",
       "question": "proche",
-      "answer": "close"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "night",
       "question": "nuit",
-      "answer": "night"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "real",
       "question": "réel",
-      "answer": "real"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "life",
       "question": "vie",
-      "answer": "life"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "few",
       "question": "peu",
-      "answer": "few"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "north",
       "question": "nord",
-      "answer": "north"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "book",
       "question": "livre",
-      "answer": "book"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "carry",
       "question": "porter",
-      "answer": "carry"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "took",
       "question": "a pris",
-      "answer": "took"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "science",
       "question": "science",
-      "answer": "science"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "eat",
       "question": "manger",
-      "answer": "eat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "room",
       "question": "chambre",
-      "answer": "room"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "friend",
       "question": "ami",
-      "answer": "friend"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "began",
       "question": "a commencé",
-      "answer": "began"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "idea",
       "question": "idée",
-      "answer": "idea"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fish",
       "question": "poisson",
-      "answer": "fish"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mountain",
       "question": "montagne",
-      "answer": "mountain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stop",
       "question": "Arrêtez",
-      "answer": "stop"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "once",
       "question": "une fois",
-      "answer": "once"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "base",
       "question": "base",
-      "answer": "base"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hear",
       "question": "entendre",
-      "answer": "hear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "horse",
       "question": "cheval",
-      "answer": "horse"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cut",
       "question": "coupe",
-      "answer": "cut"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sure",
       "question": "sûr",
-      "answer": "sure"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "watch",
       "question": "regarder",
-      "answer": "watch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "color",
       "question": "couleur",
-      "answer": "color"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "face",
       "question": "face",
-      "answer": "face"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wood",
       "question": "bois",
-      "answer": "wood"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "main",
       "question": "principal",
-      "answer": "main"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "open",
       "question": "ouvert",
-      "answer": "open"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "seem",
       "question": "paraître",
-      "answer": "seem"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "together",
       "question": "ensemble",
-      "answer": "together"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "next",
       "question": "suivant",
-      "answer": "next"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "white",
       "question": "blanc",
-      "answer": "white"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "children",
       "question": "enfants",
-      "answer": "children"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "begin",
       "question": "commencer",
-      "answer": "begin"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "got",
       "question": "eu",
-      "answer": "got"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "walk",
       "question": "marcher",
-      "answer": "walk"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "example",
       "question": "exemple",
-      "answer": "example"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ease",
       "question": "facilité",
-      "answer": "ease"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "paper",
       "question": "papier",
-      "answer": "paper"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "group",
       "question": "groupe",
-      "answer": "group"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "always",
       "question": "toujours",
-      "answer": "always"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "music",
       "question": "musique",
-      "answer": "music"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "those",
       "question": "ceux",
-      "answer": "those"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "both",
       "question": "tous les deux",
-      "answer": "both"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mark",
       "question": "marque",
-      "answer": "mark"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "often",
       "question": "souvent",
-      "answer": "often"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "letter",
       "question": "lettre",
-      "answer": "letter"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "until",
       "question": "jusqu’à ce que",
-      "answer": "until"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mile",
       "question": "mile",
-      "answer": "mile"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "river",
       "question": "rivière",
-      "answer": "river"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "car",
       "question": "voiture",
-      "answer": "car"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "feet",
       "question": "pieds",
-      "answer": "feet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "care",
       "question": "soins",
-      "answer": "care"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "second",
       "question": "deuxième",
-      "answer": "second"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "enough",
       "question": "assez",
-      "answer": "enough"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "plain",
       "question": "plaine",
-      "answer": "plain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "girl",
       "question": "fille",
-      "answer": "girl"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "usual",
       "question": "habituel",
-      "answer": "usual"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "young",
       "question": "jeune",
-      "answer": "young"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ready",
       "question": "prêt",
-      "answer": "ready"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "above",
       "question": "au-dessus",
-      "answer": "above"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ever",
       "question": "jamais",
-      "answer": "ever"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "red",
       "question": "rouge",
-      "answer": "red"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "list",
       "question": "liste",
-      "answer": "list"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "though",
       "question": "bien que",
-      "answer": "though"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "feel",
       "question": "sentir",
-      "answer": "feel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "talk",
       "question": "parler",
-      "answer": "talk"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bird",
       "question": "oiseau",
-      "answer": "bird"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "soon",
       "question": "bientôt",
-      "answer": "soon"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "body",
       "question": "corps",
-      "answer": "body"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dog",
       "question": "chien",
-      "answer": "dog"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "family",
       "question": "famille",
-      "answer": "family"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "direct",
       "question": "direct",
-      "answer": "direct"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pose",
       "question": "pose",
-      "answer": "pose"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "leave",
       "question": "laisser",
-      "answer": "leave"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "song",
       "question": "chanson",
-      "answer": "song"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "measure",
       "question": "mesurer",
-      "answer": "measure"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "door",
       "question": "porte",
-      "answer": "door"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "product",
       "question": "produit",
-      "answer": "product"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "black",
       "question": "noir",
-      "answer": "black"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "short",
       "question": "court",
-      "answer": "short"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "numeral",
       "question": "chiffre",
-      "answer": "numeral"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "class",
       "question": "classe",
-      "answer": "class"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wind",
       "question": "vent",
-      "answer": "wind"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "question",
       "question": "question",
-      "answer": "question"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "happen",
       "question": "arriver",
-      "answer": "happen"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "complete",
       "question": "complète",
-      "answer": "complete"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ship",
       "question": "navire",
-      "answer": "ship"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "area",
       "question": "zone",
-      "answer": "area"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "half",
       "question": "moitié",
-      "answer": "half"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rock",
       "question": "rock",
-      "answer": "rock"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "order",
       "question": "ordre",
-      "answer": "order"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fire",
       "question": "feu",
-      "answer": "fire"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "south",
       "question": "sud",
-      "answer": "south"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "problem",
       "question": "problème",
-      "answer": "problem"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "piece",
       "question": "pièce",
-      "answer": "piece"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "told",
       "question": "dit",
-      "answer": "told"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "knew",
       "question": "savait",
-      "answer": "knew"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pass",
       "question": "passer",
-      "answer": "pass"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "since",
       "question": "depuis",
-      "answer": "since"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "top",
       "question": "haut",
-      "answer": "top"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "whole",
       "question": "ensemble",
-      "answer": "whole"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "king",
       "question": "roi",
-      "answer": "king"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "street",
       "question": "rue",
-      "answer": "street"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "inch",
       "question": "pouce",
-      "answer": "inch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "multiply",
       "question": "multiplier",
-      "answer": "multiply"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nothing",
       "question": "rien",
-      "answer": "nothing"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "course",
       "question": "cours",
-      "answer": "course"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stay",
       "question": "rester",
-      "answer": "stay"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wheel",
       "question": "roue",
-      "answer": "wheel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "full",
       "question": "plein",
-      "answer": "full"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "force",
       "question": "force",
-      "answer": "force"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "blue",
       "question": "bleu",
-      "answer": "blue"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "object",
       "question": "objet",
-      "answer": "object"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "decide",
       "question": "décider",
-      "answer": "decide"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "surface",
       "question": "surface",
-      "answer": "surface"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "deep",
       "question": "profond",
-      "answer": "deep"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moon",
       "question": "lune",
-      "answer": "moon"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "island",
       "question": "île",
-      "answer": "island"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "foot",
       "question": "pied",
-      "answer": "foot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "system",
       "question": "système",
-      "answer": "system"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "busy",
       "question": "occupé",
-      "answer": "busy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "test",
       "question": "test",
-      "answer": "test"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "record",
       "question": "record",
-      "answer": "record"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "boat",
       "question": "bateau",
-      "answer": "boat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "common",
       "question": "commun",
-      "answer": "common"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gold",
       "question": "or",
-      "answer": "gold"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "possible",
       "question": "possible",
-      "answer": "possible"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "plane",
       "question": "plan",
-      "answer": "plane"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stead",
       "question": "place",
-      "answer": "stead"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dry",
       "question": "sec",
-      "answer": "dry"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wonder",
       "question": "se demander",
-      "answer": "wonder"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "laugh",
       "question": "rire",
-      "answer": "laugh"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thousand",
       "question": "mille",
-      "answer": "thousand"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ago",
       "question": "il ya",
-      "answer": "ago"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ran",
       "question": "ran",
-      "answer": "ran"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "check",
       "question": "vérifier",
-      "answer": "check"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "game",
       "question": "jeu",
-      "answer": "game"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shape",
       "question": "forme",
-      "answer": "shape"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "equate",
       "question": "assimiler",
-      "answer": "equate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hot",
       "question": "chaud",
-      "answer": "hot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "miss",
       "question": "manquer",
-      "answer": "miss"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "brought",
       "question": "apporté",
-      "answer": "brought"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "heat",
       "question": "chaleur",
-      "answer": "heat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "snow",
       "question": "neige",
-      "answer": "snow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tire",
       "question": "pneu",
-      "answer": "tire"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bring",
       "question": "apporter",
-      "answer": "bring"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yes",
       "question": "oui",
-      "answer": "yes"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "distant",
       "question": "lointain",
-      "answer": "distant"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fill",
       "question": "remplir",
-      "answer": "fill"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "east",
       "question": "est",
-      "answer": "east"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "paint",
       "question": "peindre",
-      "answer": "paint"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "language",
       "question": "langue",
-      "answer": "language"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "among",
       "question": "entre",
-      "answer": "among"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "unit",
       "question": "unité",
-      "answer": "unit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "power",
       "question": "puissance",
-      "answer": "power"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "town",
       "question": "ville",
-      "answer": "town"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fine",
       "question": "fin",
-      "answer": "fine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "certain",
       "question": "certain",
-      "answer": "certain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fly",
       "question": "voler",
-      "answer": "fly"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fall",
       "question": "tomber",
-      "answer": "fall"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lead",
       "question": "conduire",
-      "answer": "lead"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cry",
       "question": "cri",
-      "answer": "cry"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dark",
       "question": "sombre",
-      "answer": "dark"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "machine",
       "question": "machine",
-      "answer": "machine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "note",
       "question": "Note",
-      "answer": "note"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wait",
       "question": "patienter",
-      "answer": "wait"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "plan",
       "question": "plan",
-      "answer": "plan"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "figure",
       "question": "figure",
-      "answer": "figure"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "star",
       "question": "étoile",
-      "answer": "star"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "box",
       "question": "boîte",
-      "answer": "box"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "noun",
       "question": "nom",
-      "answer": "noun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "field",
       "question": "domaine",
-      "answer": "field"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rest",
       "question": "reste",
-      "answer": "rest"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "correct",
       "question": "correct",
-      "answer": "correct"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "able",
       "question": "capable",
-      "answer": "able"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pound",
       "question": "livre",
-      "answer": "pound"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "done",
       "question": "Terminé",
-      "answer": "done"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "beauty",
       "question": "beauté",
-      "answer": "beauty"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "drive",
       "question": "entraînement",
-      "answer": "drive"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stood",
       "question": "résisté",
-      "answer": "stood"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "contain",
       "question": "contenir",
-      "answer": "contain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "front",
       "question": "avant",
-      "answer": "front"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "teach",
       "question": "enseigner",
-      "answer": "teach"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "week",
       "question": "semaine",
-      "answer": "week"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "final",
       "question": "finale",
-      "answer": "final"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gave",
       "question": "donné",
-      "answer": "gave"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "green",
       "question": "vert",
-      "answer": "green"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "oh",
       "question": "oh",
-      "answer": "oh"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "quick",
       "question": "rapide",
-      "answer": "quick"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "develop",
       "question": "développer",
-      "answer": "develop"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ocean",
       "question": "océan",
-      "answer": "ocean"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "warm",
       "question": "chaud",
-      "answer": "warm"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "free",
       "question": "gratuit",
-      "answer": "free"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "minute",
       "question": "minute",
-      "answer": "minute"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "strong",
       "question": "fort",
-      "answer": "strong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "special",
       "question": "spécial",
-      "answer": "special"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mind",
       "question": "esprit",
-      "answer": "mind"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "behind",
       "question": "derrière",
-      "answer": "behind"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "clear",
       "question": "clair",
-      "answer": "clear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tail",
       "question": "queue",
-      "answer": "tail"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "produce",
       "question": "produire",
-      "answer": "produce"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fact",
       "question": "fait",
-      "answer": "fact"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "space",
       "question": "espace",
-      "answer": "space"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "heard",
       "question": "entendu",
-      "answer": "heard"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "best",
       "question": "meilleur",
-      "answer": "best"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hour",
       "question": "heure",
-      "answer": "hour"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "better",
       "question": "mieux",
-      "answer": "better"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "true",
       "question": "VRAI",
-      "answer": "true"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "during",
       "question": "pendant",
-      "answer": "during"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hundred",
       "question": "cent",
-      "answer": "hundred"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "five",
       "question": "cinq",
-      "answer": "five"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "remember",
       "question": "rappeler",
-      "answer": "remember"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "step",
       "question": "étape",
-      "answer": "step"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "early",
       "question": "tôt",
-      "answer": "early"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hold",
       "question": "tenir",
-      "answer": "hold"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "west",
       "question": "ouest",
-      "answer": "west"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ground",
       "question": "sol",
-      "answer": "ground"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "interest",
       "question": "intérêt",
-      "answer": "interest"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "reach",
       "question": "atteindre",
-      "answer": "reach"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fast",
       "question": "rapide",
-      "answer": "fast"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "verb",
       "question": "verbe",
-      "answer": "verb"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sing",
       "question": "chanter",
-      "answer": "sing"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "listen",
       "question": "écouter",
-      "answer": "listen"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "six",
       "question": "six",
-      "answer": "six"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "table",
       "question": "table",
-      "answer": "table"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "travel",
       "question": "Voyage",
-      "answer": "travel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "less",
       "question": "moins",
-      "answer": "less"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "morning",
       "question": "matin",
-      "answer": "morning"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ten",
       "question": "dix",
-      "answer": "ten"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "simple",
       "question": "simple",
-      "answer": "simple"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "several",
       "question": "plusieurs",
-      "answer": "several"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "vowel",
       "question": "voyelle",
-      "answer": "vowel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "toward",
       "question": "vers",
-      "answer": "toward"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "war",
       "question": "guerre",
-      "answer": "war"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lay",
       "question": "poser",
-      "answer": "lay"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "against",
       "question": "contre",
-      "answer": "against"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pattern",
       "question": "modèle",
-      "answer": "pattern"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "slow",
       "question": "lent",
-      "answer": "slow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "center",
       "question": "centre",
-      "answer": "center"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "love",
       "question": "amour",
-      "answer": "love"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "person",
       "question": "personne",
-      "answer": "person"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "money",
       "question": "argent",
-      "answer": "money"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "serve",
       "question": "servir",
-      "answer": "serve"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "appear",
       "question": "apparaître",
-      "answer": "appear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "road",
       "question": "route",
-      "answer": "road"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "map",
       "question": "carte",
-      "answer": "map"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rain",
       "question": "pluie",
-      "answer": "rain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rule",
       "question": "règle",
-      "answer": "rule"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "govern",
       "question": "gouverner",
-      "answer": "govern"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pull",
       "question": "tirer",
-      "answer": "pull"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cold",
       "question": "froid",
-      "answer": "cold"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "notice",
       "question": "avis",
-      "answer": "notice"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "voice",
       "question": "voix",
-      "answer": "voice"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "energy",
       "question": "énergie",
-      "answer": "energy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hunt",
       "question": "chasse",
-      "answer": "hunt"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "probable",
       "question": "probable",
-      "answer": "probable"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bed",
       "question": "lit",
-      "answer": "bed"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "brother",
       "question": "frère",
-      "answer": "brother"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "egg",
       "question": "œuf",
-      "answer": "egg"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ride",
       "question": "tour",
-      "answer": "ride"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cell",
       "question": "cellule",
-      "answer": "cell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "believe",
       "question": "croire",
-      "answer": "believe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "perhaps",
       "question": "peut-être",
-      "answer": "perhaps"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pick",
       "question": "choisir",
-      "answer": "pick"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sudden",
       "question": "soudain",
-      "answer": "sudden"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "count",
       "question": "compter",
-      "answer": "count"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "square",
       "question": "carré",
-      "answer": "square"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "reason",
       "question": "raison",
-      "answer": "reason"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "length",
       "question": "longueur",
-      "answer": "length"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "represent",
       "question": "représenter",
-      "answer": "represent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "art",
       "question": "art",
-      "answer": "art"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "subject",
       "question": "sujet",
-      "answer": "subject"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "region",
       "question": "région",
-      "answer": "region"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "size",
       "question": "taille",
-      "answer": "size"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "vary",
       "question": "varier",
-      "answer": "vary"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "settle",
       "question": "régler",
-      "answer": "settle"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "speak",
       "question": "parler",
-      "answer": "speak"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "weight",
       "question": "poids",
-      "answer": "weight"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "general",
       "question": "général",
-      "answer": "general"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ice",
       "question": "glace",
-      "answer": "ice"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "matter",
       "question": "question",
-      "answer": "matter"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "circle",
       "question": "cercle",
-      "answer": "circle"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pair",
       "question": "paire",
-      "answer": "pair"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "include",
       "question": "inclure",
-      "answer": "include"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "divide",
       "question": "fracture",
-      "answer": "divide"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "syllable",
       "question": "syllabe",
-      "answer": "syllable"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "felt",
       "question": "feutre",
-      "answer": "felt"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "grand",
       "question": "grandiose",
-      "answer": "grand"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ball",
       "question": "balle",
-      "answer": "ball"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yet",
       "question": "encore",
-      "answer": "yet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wave",
       "question": "vague",
-      "answer": "wave"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "drop",
       "question": "tomber",
-      "answer": "drop"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "heart",
       "question": "cœur",
-      "answer": "heart"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "am",
       "question": "h",
-      "answer": "am"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "present",
       "question": "présent",
-      "answer": "present"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "heavy",
       "question": "lourd",
-      "answer": "heavy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dance",
       "question": "danse",
-      "answer": "dance"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "engine",
       "question": "moteur",
-      "answer": "engine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "position",
       "question": "position",
-      "answer": "position"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "arm",
       "question": "bras",
-      "answer": "arm"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wide",
       "question": "large",
-      "answer": "wide"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sail",
       "question": "voile",
-      "answer": "sail"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "material",
       "question": "matériel",
-      "answer": "material"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fraction",
       "question": "fraction",
-      "answer": "fraction"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "forest",
       "question": "forêt",
-      "answer": "forest"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sit",
       "question": "s’asseoir",
-      "answer": "sit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "race",
       "question": "course",
-      "answer": "race"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "window",
       "question": "fenêtre",
-      "answer": "window"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "store",
       "question": "magasin",
-      "answer": "store"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "summer",
       "question": "été",
-      "answer": "summer"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "train",
       "question": "train",
-      "answer": "train"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sleep",
       "question": "sommeil",
-      "answer": "sleep"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "prove",
       "question": "prouver",
-      "answer": "prove"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lone",
       "question": "seul",
-      "answer": "lone"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "leg",
       "question": "jambe",
-      "answer": "leg"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "exercise",
       "question": "exercice",
-      "answer": "exercise"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wall",
       "question": "mur",
-      "answer": "wall"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "catch",
       "question": "capture",
-      "answer": "catch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mount",
       "question": "monture",
-      "answer": "mount"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wish",
       "question": "souhaiter",
-      "answer": "wish"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sky",
       "question": "ciel",
-      "answer": "sky"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "board",
       "question": "conseil",
-      "answer": "board"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "joy",
       "question": "joie",
-      "answer": "joy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "winter",
       "question": "hiver",
-      "answer": "winter"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sat",
       "question": "sat",
-      "answer": "sat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "written",
       "question": "écrit",
-      "answer": "written"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wild",
       "question": "sauvage",
-      "answer": "wild"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "instrument",
       "question": "instrument",
-      "answer": "instrument"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "kept",
       "question": "conservé",
-      "answer": "kept"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "glass",
       "question": "verre",
-      "answer": "glass"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "grass",
       "question": "herbe",
-      "answer": "grass"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cow",
       "question": "vache",
-      "answer": "cow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "job",
       "question": "emploi",
-      "answer": "job"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "edge",
       "question": "bord",
-      "answer": "edge"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sign",
       "question": "signe",
-      "answer": "sign"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "visit",
       "question": "visite",
-      "answer": "visit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "past",
       "question": "passé",
-      "answer": "past"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "soft",
       "question": "doux",
-      "answer": "soft"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fun",
       "question": "amusement",
-      "answer": "fun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bright",
       "question": "clair",
-      "answer": "bright"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gas",
       "question": "gaz",
-      "answer": "gas"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "weather",
       "question": "temps",
-      "answer": "weather"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "month",
       "question": "mois",
-      "answer": "month"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "million",
       "question": "million",
-      "answer": "million"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bear",
       "question": "porter",
-      "answer": "bear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "finish",
       "question": "finition",
-      "answer": "finish"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "happy",
       "question": "heureux",
-      "answer": "happy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hope",
       "question": "espoir",
-      "answer": "hope"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "flower",
       "question": "fleur",
-      "answer": "flower"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "clothe",
       "question": "vêtir",
-      "answer": "clothe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "strange",
       "question": "étrange",
-      "answer": "strange"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gone",
       "question": "disparu",
-      "answer": "gone"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "trade",
       "question": "commerce",
-      "answer": "trade"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "melody",
       "question": "mélodie",
-      "answer": "melody"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "trip",
       "question": "voyage",
-      "answer": "trip"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "office",
       "question": "bureau",
-      "answer": "office"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "receive",
       "question": "recevoir",
-      "answer": "receive"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "row",
       "question": "rangée",
-      "answer": "row"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mouth",
       "question": "bouche",
-      "answer": "mouth"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "exact",
       "question": "exact",
-      "answer": "exact"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "symbol",
       "question": "symbole",
-      "answer": "symbol"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "die",
       "question": "mourir",
-      "answer": "die"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "least",
       "question": "moins",
-      "answer": "least"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "trouble",
       "question": "difficulté",
-      "answer": "trouble"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shout",
       "question": "cri",
-      "answer": "shout"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "except",
       "question": "sauf",
-      "answer": "except"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wrote",
       "question": "écrit",
-      "answer": "wrote"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "seed",
       "question": "semence",
-      "answer": "seed"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tone",
       "question": "ton",
-      "answer": "tone"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "join",
       "question": "joindre",
-      "answer": "join"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "suggest",
       "question": "suggérer",
-      "answer": "suggest"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "clean",
       "question": "propre",
-      "answer": "clean"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "break",
       "question": "pause",
-      "answer": "break"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lady",
       "question": "dame",
-      "answer": "lady"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yard",
       "question": "cour",
-      "answer": "yard"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rise",
       "question": "augmenter",
-      "answer": "rise"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bad",
       "question": "mauvais",
-      "answer": "bad"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "blow",
       "question": "coup",
-      "answer": "blow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "oil",
       "question": "huile",
-      "answer": "oil"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "blood",
       "question": "sang",
-      "answer": "blood"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "touch",
       "question": "toucher",
-      "answer": "touch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "grew",
       "question": "a augmenté",
-      "answer": "grew"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cent",
       "question": "cent",
-      "answer": "cent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mix",
       "question": "mélanger",
-      "answer": "mix"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "team",
       "question": "équipe",
-      "answer": "team"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wire",
       "question": "fil",
-      "answer": "wire"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cost",
       "question": "coût",
-      "answer": "cost"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lost",
       "question": "perdu",
-      "answer": "lost"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "brown",
       "question": "brun",
-      "answer": "brown"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wear",
       "question": "porter",
-      "answer": "wear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "garden",
       "question": "jardin",
-      "answer": "garden"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "equal",
       "question": "égal",
-      "answer": "equal"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sent",
       "question": "expédié",
-      "answer": "sent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "choose",
       "question": "choisir",
-      "answer": "choose"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fell",
       "question": "est tombé",
-      "answer": "fell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fit",
       "question": "s’adapter",
-      "answer": "fit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "flow",
       "question": "débit",
-      "answer": "flow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fair",
       "question": "juste",
-      "answer": "fair"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bank",
       "question": "banque",
-      "answer": "bank"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "collect",
       "question": "recueillir",
-      "answer": "collect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "save",
       "question": "sauver",
-      "answer": "save"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "control",
       "question": "contrôle",
-      "answer": "control"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "decimal",
       "question": "décimal",
-      "answer": "decimal"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ear",
       "question": "oreille",
-      "answer": "ear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "else",
       "question": "autre",
-      "answer": "else"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "quite",
       "question": "tout à fait",
-      "answer": "quite"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "broke",
       "question": "cassé",
-      "answer": "broke"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "case",
       "question": "cas",
-      "answer": "case"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "middle",
       "question": "milieu",
-      "answer": "middle"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "kill",
       "question": "tuer",
-      "answer": "kill"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "son",
       "question": "fils",
-      "answer": "son"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lake",
       "question": "lac",
-      "answer": "lake"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "moment",
       "question": "moment",
-      "answer": "moment"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "scale",
       "question": "échelle",
-      "answer": "scale"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "loud",
       "question": "fort",
-      "answer": "loud"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spring",
       "question": "printemps",
-      "answer": "spring"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "observe",
       "question": "observer",
-      "answer": "observe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "child",
       "question": "enfant",
-      "answer": "child"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "straight",
       "question": "droit",
-      "answer": "straight"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "consonant",
       "question": "consonne",
-      "answer": "consonant"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nation",
       "question": "nation",
-      "answer": "nation"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dictionary",
       "question": "dictionnaire",
-      "answer": "dictionary"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "milk",
       "question": "lait",
-      "answer": "milk"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "speed",
       "question": "vitesse",
-      "answer": "speed"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "method",
       "question": "méthode",
-      "answer": "method"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "organ",
       "question": "organe",
-      "answer": "organ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pay",
       "question": "payer",
-      "answer": "pay"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "age",
       "question": "âge",
-      "answer": "age"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "section",
       "question": "section",
-      "answer": "section"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dress",
       "question": "robe",
-      "answer": "dress"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cloud",
       "question": "nuage",
-      "answer": "cloud"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "surprise",
       "question": "surprise",
-      "answer": "surprise"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "quiet",
       "question": "calme",
-      "answer": "quiet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stone",
       "question": "pierre",
-      "answer": "stone"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tiny",
       "question": "minuscule",
-      "answer": "tiny"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "climb",
       "question": "montée",
-      "answer": "climb"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cool",
       "question": "frais",
-      "answer": "cool"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "design",
       "question": "conception",
-      "answer": "design"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "poor",
       "question": "pauvres",
-      "answer": "poor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lot",
       "question": "lot",
-      "answer": "lot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "experiment",
       "question": "expérience",
-      "answer": "experiment"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bottom",
       "question": "bas",
-      "answer": "bottom"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "key",
       "question": "clé",
-      "answer": "key"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "iron",
       "question": "fer",
-      "answer": "iron"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "single",
       "question": "unique",
-      "answer": "single"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stick",
       "question": "bâton",
-      "answer": "stick"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "flat",
       "question": "plat",
-      "answer": "flat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "twenty",
       "question": "vingt",
-      "answer": "twenty"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "skin",
       "question": "peau",
-      "answer": "skin"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "smile",
       "question": "sourire",
-      "answer": "smile"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "crease",
       "question": "pli",
-      "answer": "crease"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hole",
       "question": "trou",
-      "answer": "hole"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "jump",
       "question": "sauter",
-      "answer": "jump"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "baby",
       "question": "bébé",
-      "answer": "baby"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "eight",
       "question": "huit",
-      "answer": "eight"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "village",
       "question": "village",
-      "answer": "village"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "meet",
       "question": "se rencontrent",
-      "answer": "meet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "root",
       "question": "racine",
-      "answer": "root"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "buy",
       "question": "acheter",
-      "answer": "buy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "raise",
       "question": "augmenter",
-      "answer": "raise"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "solve",
       "question": "résoudre",
-      "answer": "solve"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "metal",
       "question": "métal",
-      "answer": "metal"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "whether",
       "question": "si",
-      "answer": "whether"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "push",
       "question": "pousser",
-      "answer": "push"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "seven",
       "question": "sept",
-      "answer": "seven"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "paragraph",
       "question": "paragraphe",
-      "answer": "paragraph"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "third",
       "question": "troisième",
-      "answer": "third"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shall",
       "question": "doit",
-      "answer": "shall"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "held",
       "question": "en attente",
-      "answer": "held"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hair",
       "question": "cheveux",
-      "answer": "hair"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "describe",
       "question": "décrire",
-      "answer": "describe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cook",
       "question": "cuisinier",
-      "answer": "cook"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "floor",
       "question": "étage",
-      "answer": "floor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "either",
       "question": "chaque",
-      "answer": "either"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "result",
       "question": "résultat",
-      "answer": "result"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "burn",
       "question": "brûler",
-      "answer": "burn"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hill",
       "question": "colline",
-      "answer": "hill"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "safe",
       "question": "coffre-fort",
-      "answer": "safe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cat",
       "question": "chat",
-      "answer": "cat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "century",
       "question": "siècle",
-      "answer": "century"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "consider",
       "question": "envisager",
-      "answer": "consider"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "type",
       "question": "type",
-      "answer": "type"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "law",
       "question": "droit",
-      "answer": "law"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bit",
       "question": "peu",
-      "answer": "bit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "coast",
       "question": "côte",
-      "answer": "coast"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "copy",
       "question": "copie",
-      "answer": "copy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "phrase",
       "question": "phrase",
-      "answer": "phrase"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "silent",
       "question": "silencieux",
-      "answer": "silent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tall",
       "question": "haut",
-      "answer": "tall"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sand",
       "question": "sable",
-      "answer": "sand"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "soil",
       "question": "sol",
-      "answer": "soil"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "roll",
       "question": "rouleau",
-      "answer": "roll"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "temperature",
       "question": "température",
-      "answer": "temperature"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "finger",
       "question": "doigt",
-      "answer": "finger"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "industry",
       "question": "industrie",
-      "answer": "industry"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "value",
       "question": "valeur",
-      "answer": "value"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fight",
       "question": "lutte",
-      "answer": "fight"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lie",
       "question": "mensonge",
-      "answer": "lie"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "beat",
       "question": "battre",
-      "answer": "beat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "excite",
       "question": "exciter",
-      "answer": "excite"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "natural",
       "question": "naturel",
-      "answer": "natural"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "view",
       "question": "vue",
-      "answer": "view"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sense",
       "question": "sens",
-      "answer": "sense"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "capital",
       "question": "capital",
-      "answer": "capital"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "won’t",
       "question": "ne sera pas",
-      "answer": "won’t"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chair",
       "question": "chaise",
-      "answer": "chair"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "danger",
       "question": "danger",
-      "answer": "danger"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fruit",
       "question": "fruit",
-      "answer": "fruit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rich",
       "question": "riche",
-      "answer": "rich"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thick",
       "question": "épais",
-      "answer": "thick"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "soldier",
       "question": "soldat",
-      "answer": "soldier"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "process",
       "question": "processus",
-      "answer": "process"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "operate",
       "question": "fonctionner",
-      "answer": "operate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "practice",
       "question": "pratique",
-      "answer": "practice"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "separate",
       "question": "séparé",
-      "answer": "separate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "difficult",
       "question": "difficile",
-      "answer": "difficult"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "doctor",
       "question": "médecin",
-      "answer": "doctor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "please",
       "question": "s’il vous plaît",
-      "answer": "please"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "protect",
       "question": "protéger",
-      "answer": "protect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "noon",
       "question": "midi",
-      "answer": "noon"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "crop",
       "question": "récolte",
-      "answer": "crop"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "modern",
       "question": "moderne",
-      "answer": "modern"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "element",
       "question": "élément",
-      "answer": "element"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hit",
       "question": "frapper",
-      "answer": "hit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "student",
       "question": "étudiant",
-      "answer": "student"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "corner",
       "question": "coin",
-      "answer": "corner"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "party",
       "question": "partie",
-      "answer": "party"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "supply",
       "question": "alimentation",
-      "answer": "supply"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "whose",
       "question": "dont",
-      "answer": "whose"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "locate",
       "question": "localiser",
-      "answer": "locate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ring",
       "question": "anneau",
-      "answer": "ring"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "character",
       "question": "caractère",
-      "answer": "character"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "insect",
       "question": "insecte",
-      "answer": "insect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "caught",
       "question": "pris",
-      "answer": "caught"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "period",
       "question": "période",
-      "answer": "period"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "indicate",
       "question": "indiquer",
-      "answer": "indicate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "radio",
       "question": "radio",
-      "answer": "radio"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spoke",
       "question": "rayon",
-      "answer": "spoke"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "atom",
       "question": "atome",
-      "answer": "atom"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "human",
       "question": "humain",
-      "answer": "human"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "history",
       "question": "histoire",
-      "answer": "history"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "effect",
       "question": "effet",
-      "answer": "effect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "electric",
       "question": "électrique",
-      "answer": "electric"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "expect",
       "question": "attendre",
-      "answer": "expect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bone",
       "question": "os",
-      "answer": "bone"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rail",
       "question": "rail",
-      "answer": "rail"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "imagine",
       "question": "imaginer",
-      "answer": "imagine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "provide",
       "question": "fournir",
-      "answer": "provide"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "agree",
       "question": "se mettre d’accord",
-      "answer": "agree"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thus",
       "question": "ainsi",
-      "answer": "thus"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gentle",
       "question": "doux",
-      "answer": "gentle"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "woman",
       "question": "femme",
-      "answer": "woman"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "captain",
       "question": "capitaine",
-      "answer": "captain"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "guess",
       "question": "deviner",
-      "answer": "guess"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "necessary",
       "question": "nécessaire",
-      "answer": "necessary"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sharp",
       "question": "net",
-      "answer": "sharp"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wing",
       "question": "aile",
-      "answer": "wing"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "create",
       "question": "créer",
-      "answer": "create"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "neighbor",
       "question": "voisin",
-      "answer": "neighbor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wash",
       "question": "lavage",
-      "answer": "wash"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bat",
       "question": "chauve-souris",
-      "answer": "bat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rather",
       "question": "plutôt",
-      "answer": "rather"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "crowd",
       "question": "foule",
-      "answer": "crowd"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "corn",
       "question": "blé",
-      "answer": "corn"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "compare",
       "question": "comparer",
-      "answer": "compare"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "poem",
       "question": "poème",
-      "answer": "poem"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "string",
       "question": "chaîne",
-      "answer": "string"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bell",
       "question": "cloche",
-      "answer": "bell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "depend",
       "question": "dépendre",
-      "answer": "depend"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "meat",
       "question": "viande",
-      "answer": "meat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rub",
       "question": "rub",
-      "answer": "rub"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tube",
       "question": "tube",
-      "answer": "tube"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "famous",
       "question": "célèbre",
-      "answer": "famous"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dollar",
       "question": "dollar",
-      "answer": "dollar"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stream",
       "question": "courant",
-      "answer": "stream"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fear",
       "question": "peur",
-      "answer": "fear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sight",
       "question": "vue",
-      "answer": "sight"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thin",
       "question": "mince",
-      "answer": "thin"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "triangle",
       "question": "triangle",
-      "answer": "triangle"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "planet",
       "question": "planète",
-      "answer": "planet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hurry",
       "question": "se dépêcher",
-      "answer": "hurry"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chief",
       "question": "chef",
-      "answer": "chief"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "colony",
       "question": "colonie",
-      "answer": "colony"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "clock",
       "question": "horloge",
-      "answer": "clock"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mine",
       "question": "mine",
-      "answer": "mine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tie",
       "question": "lien",
-      "answer": "tie"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "enter",
       "question": "entrer",
-      "answer": "enter"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "major",
       "question": "majeur",
-      "answer": "major"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fresh",
       "question": "frais",
-      "answer": "fresh"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "search",
       "question": "recherche",
-      "answer": "search"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "send",
       "question": "envoyer",
-      "answer": "send"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "yellow",
       "question": "jaune",
-      "answer": "yellow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gun",
       "question": "pistolet",
-      "answer": "gun"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "allow",
       "question": "permettre",
-      "answer": "allow"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "print",
       "question": "impression",
-      "answer": "print"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dead",
       "question": "mort",
-      "answer": "dead"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spot",
       "question": "place",
-      "answer": "spot"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "desert",
       "question": "désert",
-      "answer": "desert"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "suit",
       "question": "costume",
-      "answer": "suit"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "current",
       "question": "courant",
-      "answer": "current"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "lift",
       "question": "ascenseur",
-      "answer": "lift"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rose",
       "question": "rose",
-      "answer": "rose"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "arrive",
       "question": "arriver",
-      "answer": "arrive"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "master",
       "question": "maître",
-      "answer": "master"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "track",
       "question": "piste",
-      "answer": "track"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "parent",
       "question": "mère",
-      "answer": "parent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shore",
       "question": "rivage",
-      "answer": "shore"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "division",
       "question": "division",
-      "answer": "division"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sheet",
       "question": "feuille",
-      "answer": "sheet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "substance",
       "question": "substance",
-      "answer": "substance"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "favor",
       "question": "favoriser",
-      "answer": "favor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "connect",
       "question": "relier",
-      "answer": "connect"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "post",
       "question": "poste",
-      "answer": "post"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spend",
       "question": "passer",
-      "answer": "spend"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chord",
       "question": "corde",
-      "answer": "chord"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fat",
       "question": "graisse",
-      "answer": "fat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "glad",
       "question": "heureux",
-      "answer": "glad"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "original",
       "question": "original",
-      "answer": "original"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "share",
       "question": "part",
-      "answer": "share"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "station",
       "question": "station",
-      "answer": "station"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dad",
       "question": "papa",
-      "answer": "dad"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bread",
       "question": "pain",
-      "answer": "bread"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "charge",
       "question": "charger",
-      "answer": "charge"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "proper",
       "question": "propre",
-      "answer": "proper"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bar",
       "question": "bar",
-      "answer": "bar"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "offer",
       "question": "proposition",
-      "answer": "offer"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "segment",
       "question": "segment",
-      "answer": "segment"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "slave",
       "question": "esclave",
-      "answer": "slave"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "duck",
       "question": "canard",
-      "answer": "duck"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "instant",
       "question": "instant",
-      "answer": "instant"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "market",
       "question": "marché",
-      "answer": "market"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "degree",
       "question": "degré",
-      "answer": "degree"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "populate",
       "question": "peupler",
-      "answer": "populate"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chick",
       "question": "poussin",
-      "answer": "chick"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dear",
       "question": "cher",
-      "answer": "dear"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "enemy",
       "question": "ennemi",
-      "answer": "enemy"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "reply",
       "question": "répondre",
-      "answer": "reply"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "drink",
       "question": "boisson",
-      "answer": "drink"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "occur",
       "question": "se produire",
-      "answer": "occur"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "support",
       "question": "support",
-      "answer": "support"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "speech",
       "question": "discours",
-      "answer": "speech"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nature",
       "question": "nature",
-      "answer": "nature"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "range",
       "question": "gamme",
-      "answer": "range"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "steam",
       "question": "vapeur",
-      "answer": "steam"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "motion",
       "question": "mouvement",
-      "answer": "motion"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "path",
       "question": "chemin",
-      "answer": "path"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "liquid",
       "question": "liquide",
-      "answer": "liquid"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "log",
       "question": "enregistrer",
-      "answer": "log"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "meant",
       "question": "signifiait",
-      "answer": "meant"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "quotient",
       "question": "quotient",
-      "answer": "quotient"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "teeth",
       "question": "dents",
-      "answer": "teeth"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shell",
       "question": "coquille",
-      "answer": "shell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "neck",
       "question": "cou",
-      "answer": "neck"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "oxygen",
       "question": "oxygène",
-      "answer": "oxygen"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sugar",
       "question": "sucre",
-      "answer": "sugar"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "death",
       "question": "décès",
-      "answer": "death"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pretty",
       "question": "assez",
-      "answer": "pretty"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "skill",
       "question": "compétence",
-      "answer": "skill"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "women",
       "question": "femmes",
-      "answer": "women"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "season",
       "question": "saison",
-      "answer": "season"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "solution",
       "question": "solution",
-      "answer": "solution"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "magnet",
       "question": "aimant",
-      "answer": "magnet"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "silver",
       "question": "argent",
-      "answer": "silver"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "thank",
       "question": "merci",
-      "answer": "thank"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "branch",
       "question": "branche",
-      "answer": "branch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "match",
       "question": "rencontre",
-      "answer": "match"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "suffix",
       "question": "suffixe",
-      "answer": "suffix"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "especially",
       "question": "particulièrement",
-      "answer": "especially"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "fig",
       "question": "figue",
-      "answer": "fig"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "afraid",
       "question": "peur",
-      "answer": "afraid"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "huge",
       "question": "énorme",
-      "answer": "huge"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sister",
       "question": "sœur",
-      "answer": "sister"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "steel",
       "question": "acier",
-      "answer": "steel"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "discuss",
       "question": "discuter",
-      "answer": "discuss"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "forward",
       "question": "avant",
-      "answer": "forward"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "similar",
       "question": "similaire",
-      "answer": "similar"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "guide",
       "question": "guider",
-      "answer": "guide"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "experience",
       "question": "expérience",
-      "answer": "experience"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "score",
       "question": "score",
-      "answer": "score"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "apple",
       "question": "pomme",
-      "answer": "apple"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "bought",
       "question": "acheté",
-      "answer": "bought"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "led",
       "question": "LED",
-      "answer": "led"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "pitch",
       "question": "pas",
-      "answer": "pitch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "coat",
       "question": "manteau",
-      "answer": "coat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "mass",
       "question": "masse",
-      "answer": "mass"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "card",
       "question": "carte",
-      "answer": "card"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "band",
       "question": "bande",
-      "answer": "band"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "rope",
       "question": "corde",
-      "answer": "rope"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "slip",
       "question": "glissement",
-      "answer": "slip"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "win",
       "question": "gagner",
-      "answer": "win"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "dream",
       "question": "rêver",
-      "answer": "dream"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "evening",
       "question": "soirée",
-      "answer": "evening"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "condition",
       "question": "condition",
-      "answer": "condition"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "feed",
       "question": "alimentation",
-      "answer": "feed"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "tool",
       "question": "outil",
-      "answer": "tool"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "total",
       "question": "total",
-      "answer": "total"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "basic",
       "question": "de base",
-      "answer": "basic"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "smell",
       "question": "odeur",
-      "answer": "smell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "valley",
       "question": "vallée",
-      "answer": "valley"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nor",
       "question": "ni",
-      "answer": "nor"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "double",
       "question": "double",
-      "answer": "double"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "seat",
       "question": "siège",
-      "answer": "seat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "continue",
       "question": "continuer",
-      "answer": "continue"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "block",
       "question": "bloc",
-      "answer": "block"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chart",
       "question": "graphique",
-      "answer": "chart"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "hat",
       "question": "chapeau",
-      "answer": "hat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "sell",
       "question": "vendre",
-      "answer": "sell"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "success",
       "question": "succès",
-      "answer": "success"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "company",
       "question": "entreprise",
-      "answer": "company"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "subtract",
       "question": "soustraire",
-      "answer": "subtract"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "event",
       "question": "événement",
-      "answer": "event"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "particular",
       "question": "particulier",
-      "answer": "particular"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "deal",
       "question": "accord",
-      "answer": "deal"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "swim",
       "question": "baignade",
-      "answer": "swim"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "term",
       "question": "terme",
-      "answer": "term"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "opposite",
       "question": "opposé",
-      "answer": "opposite"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wife",
       "question": "femme",
-      "answer": "wife"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shoe",
       "question": "chaussure",
-      "answer": "shoe"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shoulder",
       "question": "épaule",
-      "answer": "shoulder"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "spread",
       "question": "propagation",
-      "answer": "spread"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "arrange",
       "question": "organiser",
-      "answer": "arrange"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "camp",
       "question": "camp",
-      "answer": "camp"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "invent",
       "question": "inventer",
-      "answer": "invent"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "cotton",
       "question": "coton",
-      "answer": "cotton"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "born",
       "question": "né",
-      "answer": "born"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "determine",
       "question": "déterminer",
-      "answer": "determine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "quart",
       "question": "litre",
-      "answer": "quart"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nine",
       "question": "neuf",
-      "answer": "nine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "truck",
       "question": "camion",
-      "answer": "truck"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "noise",
       "question": "bruit",
-      "answer": "noise"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "level",
       "question": "niveau",
-      "answer": "level"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "chance",
       "question": "chance",
-      "answer": "chance"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gather",
       "question": "recueillir",
-      "answer": "gather"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shop",
       "question": "boutique",
-      "answer": "shop"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "stretch",
       "question": "tronçon",
-      "answer": "stretch"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "throw",
       "question": "jeter",
-      "answer": "throw"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "shine",
       "question": "éclat",
-      "answer": "shine"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "property",
       "question": "propriété",
-      "answer": "property"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "column",
       "question": "colonne",
-      "answer": "column"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "molecule",
       "question": "molécule",
-      "answer": "molecule"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "select",
       "question": "sélectionner",
-      "answer": "select"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "wrong",
       "question": "mal",
-      "answer": "wrong"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "gray",
       "question": "gris",
-      "answer": "gray"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "repeat",
       "question": "répétition",
-      "answer": "repeat"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "require",
       "question": "exiger",
-      "answer": "require"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "broad",
       "question": "large",
-      "answer": "broad"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "prepare",
       "question": "préparer",
-      "answer": "prepare"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "salt",
       "question": "sel",
-      "answer": "salt"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "nose",
       "question": "nez",
-      "answer": "nose"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "plural",
       "question": "pluriel",
-      "answer": "plural"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "anger",
       "question": "colère",
-      "answer": "anger"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "claim",
       "question": "revendication",
-      "answer": "claim"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "continent",
       "question": "continent",
-      "answer": "continent"
+      "details": [
+        {
+          "description": ""
+        }
+      ]
     }
   ],
+  "language_1": "fr",
   "subject": "learn_english_1000_words",
+  "language_2": "en",
   "type": "BUTTON",
-  "sentence": null,
-  "voice_2": null,
-  "number": "1"
+  "sentence": null
 }

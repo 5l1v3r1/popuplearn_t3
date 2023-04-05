@@ -1,0 +1,1814 @@
+{
+  "name": "drapeaux_pays",
+  "voice_2": null,
+  "number": "1",
+  "voice_1": null,
+  "introduction": null,
+  "pul_elements": [
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ch.jpeg",
+      "question": "suisse",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kr.jpeg",
+      "question": "corée du sud",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/be.jpeg",
+      "question": "belgique",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tn.jpeg",
+      "question": "tunisie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ne.jpeg",
+      "question": "niger",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ca.jpeg",
+      "question": "canada",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/br.jpeg",
+      "question": "brésil",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/eg.jpeg",
+      "question": "égypte",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ar.jpeg",
+      "question": "argentine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/il.jpeg",
+      "question": "israël",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mz.jpeg",
+      "question": "mozambique",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/td.jpeg",
+      "question": "chad",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/hu.jpeg",
+      "question": "hongrie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ph.jpeg",
+      "question": "philippines",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/dk.jpeg",
+      "question": "danemark",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/de.jpeg",
+      "question": "allemagne",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/fi.jpeg",
+      "question": "finlande",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ir.jpeg",
+      "question": "iran",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pk.jpeg",
+      "question": "pakistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cn.jpeg",
+      "question": "chine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/at.jpeg",
+      "question": "autriche",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mx.jpeg",
+      "question": "mexique",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pl.jpeg",
+      "question": "pologne",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/vn.jpeg",
+      "question": "vietnam",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ma.jpeg",
+      "question": "maroc",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ve.jpeg",
+      "question": "venezuela",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cl.jpeg",
+      "question": "chili",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pt.jpeg",
+      "question": "portugal",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/is.jpeg",
+      "question": "islande",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kp.jpeg",
+      "question": "corée du nord",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ml.jpeg",
+      "question": "mali",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tr.jpeg",
+      "question": "turquie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/no.jpeg",
+      "question": "norvège",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/nl.jpeg",
+      "question": "pays-bas",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/au.jpeg",
+      "question": "australie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ru.jpeg",
+      "question": "russie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/by.jpeg",
+      "question": "biélorussie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/za.jpeg",
+      "question": "afrique du sud",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/id.jpeg",
+      "question": "indonésie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gr.jpeg",
+      "question": "grèce",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gb.jpeg",
+      "question": "royaume-uni",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/it.jpeg",
+      "question": "italie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/fr.jpeg",
+      "question": "france",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/co.jpeg",
+      "question": "colombie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/uy.jpeg",
+      "question": "uruguay",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/es.jpeg",
+      "question": "espagne",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/jp.jpeg",
+      "question": "japon",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/th.jpeg",
+      "question": "thaïlande",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sa.jpeg",
+      "question": "arabie saoudite",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ie.jpeg",
+      "question": "irlande",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ua.jpeg",
+      "question": "ukraine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/se.jpeg",
+      "question": "suède",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mw.jpeg",
+      "question": "malawi",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pw.jpeg",
+      "question": "palaos",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ga.jpeg",
+      "question": "gabon",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ae.jpeg",
+      "question": "émirats arabes unis",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bf.jpeg",
+      "question": "burkina faso",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pg.jpeg",
+      "question": "papouasie-nouvelle-guinée",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bw.jpeg",
+      "question": "botswana",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/er.jpeg",
+      "question": "érythrée",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sg.jpeg",
+      "question": "singapour",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cv.jpeg",
+      "question": "cap-vert",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/in.jpeg",
+      "question": "inde",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ye.jpeg",
+      "question": "yémen",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/vu.jpeg",
+      "question": "vanuatu",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/np.jpeg",
+      "question": "népal",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kz.jpeg",
+      "question": "kazakhstan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gm.jpeg",
+      "question": "gambie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lt.jpeg",
+      "question": "lithuanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gy.jpeg",
+      "question": "guyane",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/py.jpeg",
+      "question": "paraguay",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ci.jpeg",
+      "question": "côte d'ivoire",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/so.jpeg",
+      "question": "somalie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lu.jpeg",
+      "question": "luxembourg",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ro.jpeg",
+      "question": "roumanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/hn.jpeg",
+      "question": "honduras",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bo.jpeg",
+      "question": "bolivie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kh.jpeg",
+      "question": "cambodge",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/dz.jpeg",
+      "question": "algérie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sm.jpeg",
+      "question": "saint-marin",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/na.jpeg",
+      "question": "namibie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/al.jpeg",
+      "question": "albanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sy.jpeg",
+      "question": "syrie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/om.jpeg",
+      "question": "oman",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bi.jpeg",
+      "question": "burundi",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bs.jpeg",
+      "question": "bahamas",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/zm.jpeg",
+      "question": "zambie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/my.jpeg",
+      "question": "malaisie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sc.jpeg",
+      "question": "seychelles",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sd.jpeg",
+      "question": "soudan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gw.jpeg",
+      "question": "guinée-bissau",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tv.jpeg",
+      "question": "tuvalu",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tj.jpeg",
+      "question": "tadjikistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kw.jpeg",
+      "question": "koweït",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mu.jpeg",
+      "question": "maurice",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mt.jpeg",
+      "question": "malte",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ni.jpeg",
+      "question": "nicaragua",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mm.jpeg",
+      "question": "birmanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/to.jpeg",
+      "question": "tonga",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cf.jpeg",
+      "question": "république centrafricaine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/me.jpeg",
+      "question": "monténégro",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/km.jpeg",
+      "question": "comores",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bd.jpeg",
+      "question": "bangladesh",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lr.jpeg",
+      "question": "liberia",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ao.jpeg",
+      "question": "angola",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mk.jpeg",
+      "question": "macédoine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/jm.jpeg",
+      "question": "jamaïque",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ec.jpeg",
+      "question": "équateur",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/fm.jpeg",
+      "question": "micronésie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ba.jpeg",
+      "question": "bosnie-herzégovine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gh.jpeg",
+      "question": "ghana",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/li.jpeg",
+      "question": "liechtenstein",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kn.jpeg",
+      "question": "saint-christophe-et-niévès",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/zw.jpeg",
+      "question": "zimbabwe",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cm.jpeg",
+      "question": "cameroun",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tm.jpeg",
+      "question": "turkménistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bz.jpeg",
+      "question": "belize",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tw.jpeg",
+      "question": "taïwan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tg.jpeg",
+      "question": "togo",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lk.jpeg",
+      "question": "sri lanka",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bj.jpeg",
+      "question": "bénin",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lv.jpeg",
+      "question": "lettonie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ag.jpeg",
+      "question": "antigua-et-barbuda",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gn.jpeg",
+      "question": "guinée",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/la.jpeg",
+      "question": "laos",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gd.jpeg",
+      "question": "grenade",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bn.jpeg",
+      "question": "brunei",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bg.jpeg",
+      "question": "bulgarie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/hr.jpeg",
+      "question": "croatie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/af.jpeg",
+      "question": "afghanistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pe.jpeg",
+      "question": "pérou",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/va.jpeg",
+      "question": "vatican",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/fj.jpeg",
+      "question": "fidji",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/am.jpeg",
+      "question": "arménie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gt.jpeg",
+      "question": "guatemala",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cr.jpeg",
+      "question": "costa rica",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/uz.jpeg",
+      "question": "ouzbékistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ws.jpeg",
+      "question": "samoa",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/xk.jpeg",
+      "question": "kosovo",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/kg.jpeg",
+      "question": "kirghizistan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mc.jpeg",
+      "question": "monaco",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/md.jpeg",
+      "question": "moldavie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mg.jpeg",
+      "question": "madagascar",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mv.jpeg",
+      "question": "maldives",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lc.jpeg",
+      "question": "sainte-lucie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/do.jpeg",
+      "question": "république dominicaine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/vc.jpeg",
+      "question": "saint-vincent-et-les-grenadines",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/dm.jpeg",
+      "question": "dominique",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/jo.jpeg",
+      "question": "jordanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ee.jpeg",
+      "question": "estonie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ck.jpeg",
+      "question": "îles cook",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mh.jpeg",
+      "question": "marshall",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bt.jpeg",
+      "question": "bhoutan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/qa.jpeg",
+      "question": "qatar",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/iq.jpeg",
+      "question": "irak",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/us.jpeg",
+      "question": "états-unis",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/si.jpeg",
+      "question": "slovénie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tl.jpeg",
+      "question": "timor oriental",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/nz.jpeg",
+      "question": "nouvelle-zélande",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/az.jpeg",
+      "question": "azerbaïdjan",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tz.jpeg",
+      "question": "tanzanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ss.jpeg",
+      "question": "soudan du sud",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/nr.jpeg",
+      "question": "nauru",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mr.jpeg",
+      "question": "mauritanie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sr.jpeg",
+      "question": "suriname",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cz.jpeg",
+      "question": "république tchèque",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ps.jpeg",
+      "question": "palestine",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sl.jpeg",
+      "question": "sierra leone",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/st.jpeg",
+      "question": "sao tomé-et-principe",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ls.jpeg",
+      "question": "lesotho",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sb.jpeg",
+      "question": "îles salomon",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/dj.jpeg",
+      "question": "djibouti",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sn.jpeg",
+      "question": "sénégal",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ke.jpeg",
+      "question": "kenya",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sz.jpeg",
+      "question": "eswatini",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bb.jpeg",
+      "question": "barbados",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/gq.jpeg",
+      "question": "guinée équatoriale",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ng.jpeg",
+      "question": "nigéria",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ad.jpeg",
+      "question": "andorre",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cd.jpeg",
+      "question": "république démocratique du congo",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/et.jpeg",
+      "question": "éthiopie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cg.jpeg",
+      "question": "république du congo",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cy.jpeg",
+      "question": "chypre",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ht.jpeg",
+      "question": "haïti",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/tt.jpeg",
+      "question": "trinité-et-tobago",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/eh.jpeg",
+      "question": "sahara occidental",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ge.jpeg",
+      "question": "géorgie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/lb.jpeg",
+      "question": "liban",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sv.jpeg",
+      "question": "salvador",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/sk.jpeg",
+      "question": "slovaquie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/cu.jpeg",
+      "question": "cuba",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ug.jpeg",
+      "question": "ouganda",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/bh.jpeg",
+      "question": "bahrain",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/pa.jpeg",
+      "question": "panama",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/nu.jpeg",
+      "question": "niue",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/mn.jpeg",
+      "question": "mongolie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ly.jpeg",
+      "question": "libye",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/rs.jpeg",
+      "question": "serbie",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/rw.jpeg",
+      "question": "rwanda",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    },
+    {
+      "answer": "IMGDB/drapeaux_pays.pul/ki.jpeg",
+      "question": "kiribati",
+      "details": [
+        {
+          "description": ""
+        }
+      ]
+    }
+  ],
+  "language_1": "fr",
+  "subject": "Géographie",
+  "language_2": "IM",
+  "type": "BUTTON",
+  "sentence": null
+}

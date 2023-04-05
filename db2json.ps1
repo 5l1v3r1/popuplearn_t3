@@ -73,7 +73,7 @@ Get-ChildItem -Path ".\DB" -Filter "*.pul" -Recurse | ForEach-Object {
     $jsonOutput = ConvertTo-Json $output -Depth 10
 
     # Save JSON to file
-    Set-Content -Path "src\DB_pul\$name.json" -Value $jsonOutput -Force
+    Set-Content -Path "src\DB_pul\JSON\$name.json" -Value $jsonOutput -Force
     
     #Display the details
     $subject + " : " + $name + " (" + $type + ") " + $language1 + "/" + $language2 + " DONE"

@@ -1,1076 +1,1076 @@
 {
-  "introduction": null,
-  "language_2": "th",
   "name": "Thai_google_translate",
-  "language_1": "en",
+  "voice_2": null,
+  "number": "1",
   "voice_1": null,
+  "introduction": null,
   "pul_elements": [
     {
+      "answer": "เหงา",
+      "question": "lonely",
       "details": [
         {
           "description": ""
         }
-      ],
-      "question": "lonely",
-      "answer": "เหงา"
+      ]
     },
     {
-      "details": [
-        {
-          "description": ""
-        }
-      ],
+      "answer": "แชท",
       "question": "chat",
-      "answer": "แชท"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "โดน",
       "question": "hit",
-      "answer": "โดน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ไม่ต้องทัก",
       "question": "don't say hi",
-      "answer": "ไม่ต้องทัก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "รอยสัก",
       "question": "tatoo",
-      "answer": "รอยสัก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นัด",
       "question": "shot",
-      "answer": "นัด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เสียว",
       "question": "sad",
-      "answer": "เสียว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อัศจรรย์",
       "question": "amazing",
-      "answer": "อัศจรรย์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อีสัตว์",
       "question": "beast",
-      "answer": "อีสัตว์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ลืน",
       "question": "to swallow",
-      "answer": "ลืน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กัด",
       "question": "bite",
-      "answer": "กัด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เพิ่งเล่น",
       "question": "just played",
-      "answer": "เพิ่งเล่น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เสียงจริง",
       "question": "real sound",
-      "answer": "เสียงจริง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ทัก",
       "question": "say hello",
-      "answer": "ทัก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อิสระ",
       "question": "free",
-      "answer": "อิสระ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เกี่ยวกัน",
       "question": "related",
-      "answer": "เกี่ยวกัน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "น่ากลัว",
       "question": "scary",
-      "answer": "น่ากลัว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ลิ้น",
       "question": "tongue",
-      "answer": "ลิ้น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แลบลิ้น",
       "question": "tongue out",
-      "answer": "แลบลิ้น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นอนดึกจัง",
       "question": "stay up late",
-      "answer": "นอนดึกจัง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "รับคอล",
       "question": "receive a call",
-      "answer": "รับคอล"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แบ๊วไง",
       "question": "how are you?",
-      "answer": "แบ๊วไง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ลิ้นเลีย",
       "question": "tongue licking",
-      "answer": "ลิ้นเลีย"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แตะ",
       "question": "touch",
-      "answer": "แตะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แฉะ",
       "question": "wet",
-      "answer": "แฉะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แย่เนอะ",
       "question": "too bad",
-      "answer": "แย่เนอะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อื่น",
       "question": "another",
-      "answer": "อื่น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ขายตัว",
       "question": "sell body",
-      "answer": "ขายตัว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สวน",
       "question": "park",
-      "answer": "สวน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "คำศัพท์",
       "question": "vocabulary",
-      "answer": "คำศัพท์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หนุ่มสาว",
       "question": "young",
-      "answer": "หนุ่มสาว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ชายแดน",
       "question": "border",
-      "answer": "ชายแดน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สถานทูต",
       "question": "embassy",
-      "answer": "สถานทูต"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ผิว",
       "question": "skin",
-      "answer": "ผิว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เดี๋ยวมา",
       "question": "come soon",
-      "answer": "เดี๋ยวมา"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เต็นท์",
       "question": "tent",
-      "answer": "เต็นท์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เที่ยวกัน",
       "question": "let's hang out",
-      "answer": "เที่ยวกัน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กล้วย",
       "question": "banana",
-      "answer": "กล้วย"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แอบเล่น",
       "question": "secretly play",
-      "answer": "แอบเล่น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ครั้งแรก",
       "question": "first time",
-      "answer": "ครั้งแรก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "จังหวัด",
       "question": "province",
-      "answer": "จังหวัด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อำเภอ",
       "question": "district",
-      "answer": "อำเภอ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หมู่บ้าน",
       "question": "village",
-      "answer": "หมู่บ้าน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เขต",
       "question": "county",
-      "answer": "เขต"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ตำบล",
       "question": "subdistrict",
-      "answer": "ตำบล"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ทุ่งข้าว",
       "question": "rice field",
-      "answer": "ทุ่งข้าว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เหงา",
       "question": "lonely",
-      "answer": "เหงา"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สมบูรณ์แบบ",
       "question": "perfect",
-      "answer": "สมบูรณ์แบบ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ได้ยิน",
       "question": "heard",
-      "answer": "ได้ยิน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สระว่ายน้ำ",
       "question": "swimming pool",
-      "answer": "สระว่ายน้ำ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สะอาด",
       "question": "clean",
-      "answer": "สะอาด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นักศึกษา",
       "question": "student",
-      "answer": "นักศึกษา"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นอนดึก",
       "question": "sleep late",
-      "answer": "นอนดึก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อาย",
       "question": "shy",
-      "answer": "อาย"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เงี่ยน",
       "question": "horny",
-      "answer": "เงี่ยน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "พบกัน",
       "question": "meet",
-      "answer": "พบกัน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หนังสือ",
       "question": "book",
-      "answer": "หนังสือ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ไม่รู้หนังสือ",
       "question": "illiterate",
-      "answer": "ไม่รู้หนังสือ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ผ้าเช็ดตัว",
       "question": "towel",
-      "answer": "ผ้าเช็ดตัว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เช็ด",
       "question": "wipe",
-      "answer": "เช็ด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "คำถาม",
       "question": "question",
-      "answer": "คำถาม"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "จักรยาน",
       "question": "bicycle",
-      "answer": "จักรยาน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ข้างบน",
       "question": "upstairs",
-      "answer": "ข้างบน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ตอบ",
       "question": "reply",
-      "answer": "ตอบ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ข้างนอก",
       "question": "outside",
-      "answer": "ข้างนอก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ข้างใน",
       "question": "inside",
-      "answer": "ข้างใน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "การกุศล",
       "question": "charity",
-      "answer": "การกุศล"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นัดเย็ด",
       "question": "dating",
-      "answer": "นัดเย็ด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เย็ด",
       "question": "fucking",
-      "answer": "เย็ด"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ชักว่าว",
       "question": "kite",
-      "answer": "ชักว่าว"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กุหลาบ",
       "question": "rose",
-      "answer": "กุหลาบ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ดอก",
       "question": "flower",
-      "answer": "ดอก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "อาจจะ",
       "question": "maybe",
-      "answer": "อาจจะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "รบกวน",
       "question": "annoy",
-      "answer": "รบกวน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ชนบท",
       "question": "countryside",
-      "answer": "ชนบท"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หัวเราะ",
       "question": "laughing",
-      "answer": "หัวเราะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ยืนขึ้น",
       "question": "stand up",
-      "answer": "ยืนขึ้น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แบ่งปัน",
       "question": "share",
-      "answer": "แบ่งปัน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สาหร่าย",
       "question": "seaweed",
-      "answer": "สาหร่าย"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ขยะ",
       "question": "trash",
-      "answer": "ขยะ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ร่มเงา",
       "question": "shade",
-      "answer": "ร่มเงา"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ตัวเลข",
       "question": "number",
-      "answer": "ตัวเลข"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ตำรวจ",
       "question": "police",
-      "answer": "ตำรวจ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ของขวัญ",
       "question": "gift",
-      "answer": "ของขวัญ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "พัสดุ",
       "question": "parcel",
-      "answer": "พัสดุ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เพื่อฝึก",
       "question": "to practice",
-      "answer": "เพื่อฝึก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กระเป๋า",
       "question": "bag",
-      "answer": "กระเป๋า"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หน้าต่าง",
       "question": "window",
-      "answer": "หน้าต่าง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "โรคพิษสุนัขบ้า",
       "question": "rabies",
-      "answer": "โรคพิษสุนัขบ้า"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "โรค",
       "question": "disease",
-      "answer": "โรค"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "โรคพิษ",
       "question": "poisoning",
-      "answer": "โรคพิษ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ชั้นล่าง",
       "question": "downstairs",
-      "answer": "ชั้นล่าง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ข้างล่าง",
       "question": "below",
-      "answer": "ข้างล่าง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สิ่งสกปรก",
       "question": "dirt",
-      "answer": "สิ่งสกปรก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สวน",
       "question": "garden",
-      "answer": "สวน"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ดอกไม้",
       "question": "flower",
-      "answer": "ดอกไม้"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "แตกหัก",
       "question": "broken",
-      "answer": "แตกหัก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "พื้น",
       "question": "floor",
-      "answer": "พื้น"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ดุ",
       "question": "fierce",
-      "answer": "ดุ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กล้ามเนื้อ",
       "question": "muscle",
-      "answer": "กล้ามเนื้อ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "บอบบาง",
       "question": "fragile",
-      "answer": "บอบบาง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "วิศวกร",
       "question": "engineer",
-      "answer": "วิศวกร"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "มืออาชีพ",
       "question": "professional",
-      "answer": "มืออาชีพ"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ปลูก",
       "question": "plant",
-      "answer": "ปลูก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "กำแพง",
       "question": "wall",
-      "answer": "กำแพง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ดูแล",
       "question": "take care",
-      "answer": "ดูแล"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "สุดสัปดาห์",
       "question": "week end",
-      "answer": "สุดสัปดาห์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เศษอาหาร",
       "question": "waste food",
-      "answer": "เศษอาหาร"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "มีประโยชน์",
       "question": "useful",
-      "answer": "มีประโยชน์"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ดอกไม้",
       "question": "flower",
-      "answer": "ดอกไม้"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "พืช",
       "question": "plants",
-      "answer": "พืช"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "นักกินจู้จี้จุกจิก",
       "question": "picky eater",
-      "answer": "นักกินจู้จี้จุกจิก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ลอง",
       "question": "try",
-      "answer": "ลอง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เริ่ม",
       "question": "start",
-      "answer": "เริ่ม"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ท้อง",
       "question": "stomach",
-      "answer": "ท้อง"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "หมอก",
       "question": "fog",
-      "answer": "หมอก"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "ทราย",
       "question": "sand",
-      "answer": "ทราย"
-    },
-    {
       "details": [
         {
           "description": ""
         }
-      ],
+      ]
+    },
+    {
+      "answer": "เลือก",
       "question": "choose",
-      "answer": "เลือก"
+      "details": [
+        {
+          "description": ""
+        }
+      ]
     }
   ],
+  "language_1": "en",
   "subject": "Thai_language",
+  "language_2": "th",
   "type": "BUTTON",
-  "sentence": null,
-  "voice_2": null,
-  "number": "1"
+  "sentence": null
 }
