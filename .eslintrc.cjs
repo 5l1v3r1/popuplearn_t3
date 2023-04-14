@@ -30,6 +30,7 @@ const config = {
     ],
     "@typescript-eslint/no-unused-vars": ["warn", { argsIgnorePattern: "^_" }],
   },
+  ignorePatterns: ["src/DB_pul/create_prisma_dbs.js"],
 };
 
 module.exports = config;

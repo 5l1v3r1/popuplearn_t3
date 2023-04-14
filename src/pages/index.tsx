@@ -1,5 +1,5 @@
 import { PrismaClient } from "@prisma/client";
-import { PUL } from "~/types";
+import type { PUL } from "~/types";
 import dynamic from "next/dynamic";
 
 import { signIn, signOut, useSession } from "next-auth/react";
@@ -31,7 +31,8 @@ export default function Puls({ PULs }: Props): JSX.Element {
     return (
       <>
         Signed in as {session.user.email} <br />
-        <button onClick={() => signOut()}>Sign out</button>
+        <AuthShowcase />
+        {/* <button onClick={() => signOut()}>Sign out</button> */}
         <main className="min-h-screen bg-gradient-to-b from-[#2e026d] to-[#15162c]">
           <div className="container mx-auto">
             <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
@@ -47,6 +48,7 @@ export default function Puls({ PULs }: Props): JSX.Element {
   return (
     <>
       {/* Not signed in : <button onClick={() => signIn()}>Sign in</button> */}
+      <AuthShowcase />
       <main className="p-6 min-h-screen bg-gradient-to-b from-[#2e026d] to-[#15162c]">
         <div className="container mx-auto">
           <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">

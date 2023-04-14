@@ -1,7 +1,6 @@
 import { useRouter } from "next/router";
-import { useEffect } from "react";
 import Link from "next/link";
-import { PUL } from "~/types";
+import type { PUL } from "~/types";
 
 interface Props {
   pul: PUL;
@@ -16,7 +15,7 @@ export default function ComponentName({ pul }: Props): JSX.Element {
         <div className="pul-title-bar rounded-t-lg bg-gray-900 px-2 py-1">
           <div className="pul-title">
             <Link href={`/pul/${pul.name}`}>
-              <h2 className="font-medium text-blue-200">Name : {pul.name}</h2>
+              <h2 className="font-medium text-blue-200">Name : {pul.name} {name}(router name)</h2>
             </Link>
           </div>
           <div className="pul-buttons">
@@ -50,16 +49,4 @@ export default function ComponentName({ pul }: Props): JSX.Element {
       </div>
     </>
   );
-}
-{
-  /* <div className="pul-widget">
-        <Link href={`/pul/${pul.name}`}>
-          <h2>Name : {pul.name}</h2>
-        </Link>
-        <p>subject : {pul.subject}</p>
-        <p>sentence : {pul.sentence}</p>
-        <p>introduction : {pul.introduction}</p>
-        <button>Click</button>
-      </div>
-     */
 }

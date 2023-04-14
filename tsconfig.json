@@ -28,6 +28,6 @@
     "**/*.tsx",
     "**/*.cjs",
     "**/*.mjs"
-, "src/pages/pul/[name].js", "src/DB_pul/pays_capitales.jsx"  ],
+, "src/pages/pul/[name].js", "src/DB_pul/pays_capitales.jsx" ],
   "exclude": ["node_modules"]
 }

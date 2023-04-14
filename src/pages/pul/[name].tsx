@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router'
-import { GetStaticProps, GetStaticPaths } from "next";
+import type { GetStaticProps, GetStaticPaths } from "next";
 import { PrismaClient } from "@prisma/client";
 
 export interface PUL {
@@ -32,6 +32,7 @@ export default function Pul({ pul }: Props) {
   const { name } = router.query;
   return (
     <div>
+      <h2>name : {name}</h2>
       <ul>
           <li key={pul.id}>
             <h2>Name : {pul.name}</h2>
@@ -75,7 +76,7 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const prisma = new PrismaClient();
   const pul = await prisma.pUL.findUnique({
     where: {
-      name: params.name as string,
+      name: params.name,
     },
     include: {
       pul_elements: {
